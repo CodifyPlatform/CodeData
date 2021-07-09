@@ -6,7 +6,7 @@
 
 ### **§27-354 Scope**
 
-The provisions of this subchapter shall control the design, construction, protection, location, arrangement and maintenance of required exit facilities to provide safe means of egress from all buildings hereafter erected, altered or changed in occupancy, except that exit requirements for special uses and occupancies, as provided in subchapters seven and eight of this chapter, shall take precedence over the provisions of this subchapter and except further that buildings in existence on December sixth, nineteen hundred sixty-eight shall comply with the applicable requirements of [section 27-356](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-356-inadequate-exits-for-existing-structures) of this article, [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-371-doors) of article five of this subchapter and articles eight and nine of this subchapter.
+The provisions of this subchapter shall control the design, construction, protection, location, arrangement and maintenance of required exit facilities to provide safe means of egress from all buildings hereafter erected, altered or changed in occupancy, except that exit requirements for special uses and occupancies, as provided in subchapters seven and eight of this chapter, shall take precedence over the provisions of this subchapter and except further that buildings in existence on December sixth, nineteen hundred sixty-eight shall comply with the applicable requirements of [section 27-356](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-356-inadequate-exits-for-existing-structures) of this article, [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-371-doors) of article five of this subchapter and articles eight and nine of this subchapter.
 
 ### **§27-355 Definitions**
 
@@ -40,8 +40,8 @@ Every structure existing on December sixth, nineteen hundred sixty-eight which i
 | Residential                          | J-3               | N.R.                            | N.R.                            | N.R.                                         | N.R.                                         | N.R.                                         | N.R.                                                     | N.R.             | N.R.                            |
 
 N.P. — Not Permitted
-N.R. — No Requirements (except as provided in [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375-interior-stairs))
-****See [Table 8-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly/ DETERMINATION OF EXIT AND ACCESS REQUIREMENTS) for exit and access requirements applying to places of assembly***
+N.R. — No Requirements (except as provided in [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs))
+****See [Table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly/ DETERMINATION OF EXIT AND ACCESS REQUIREMENTS) for exit and access requirements applying to places of assembly***
 ***\*Notes:**
 
 a For method of measurement, see subdivision (c) of [section 27-360](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-360 Travel Distance) of this article.
