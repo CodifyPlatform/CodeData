@@ -41,10 +41,10 @@ Every structure existing on December sixth, nineteen hundred sixty-eight which i
 
 N.P. — Not Permitted
 N.R. — No Requirements (except as provided in [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs))
-****See [Table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly/ DETERMINATION OF EXIT AND ACCESS REQUIREMENTS) for exit and access requirements applying to places of assembly***
+****See [Table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#determination-of-exit-and-access-requirements) for exit and access requirements applying to places of assembly***
 ***\*Notes:**
 
-a For method of measurement, see subdivision (c) of [section 27-360](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-360 Travel Distance) of this article.
+a For method of measurement, see subdivision (c) of [section 27-360](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-360-travel-distance) of this article.
 
 b Reduce listed capacity of ramps by twenty-five percent when slope exceeds one in ten.
 
@@ -58,13 +58,13 @@ f Applies to corridors serving patients. Other corridors shall have a minimum wi
 
 g There shall be no patient bedrooms between an exit and the end of the corridor (dead end).
 
-h See subdivision (d) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter for permissible increase.
+h See subdivision (d) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter for permissible increase.
 
-i See [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter.
+i See [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter.
 
-j See [section 27-370](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-370 Exit Passageways) of article five of this subchapter.
+j See [section 27-370](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-370-exit-passageways) of article five of this subchapter.
 
-k See [section 27-378](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-378 Escalators) of article five of this subchapter.
+k See [section 27-378](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-378-escalators) of article five of this subchapter.
 
 m Where a door opening is divided by mullions into two or more doors openings, each such opening shall be measured separately in computing the number of units of exit width.
 
@@ -121,11 +121,11 @@ D—designed number of seats or occupants.
 
 ### **§27-357 Exit Requirements**
 
-The determination of exit requirements for a building shall be based upon the occupancy group classification of the building, the number of occupants, the floor area, the travel distance to an exit, and the capacity of the exits, as provided in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements) and herein. Every floor of a building shall be provided with exit facilities for its occupant load. The occupant loads of floors shall not be cumulative for the purpose of designing vertical exits, except where one floor is used by another as a means of egress. Vertical exits provided from any floor above grade may serve simultaneously all floors above grade, and vertical exits provided from any floor below grade may serve simultaneously all floors below grade.
+The determination of exit requirements for a building shall be based upon the occupancy group classification of the building, the number of occupants, the floor area, the travel distance to an exit, and the capacity of the exits, as provided in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements) and herein. Every floor of a building shall be provided with exit facilities for its occupant load. The occupant loads of floors shall not be cumulative for the purpose of designing vertical exits, except where one floor is used by another as a means of egress. Vertical exits provided from any floor above grade may serve simultaneously all floors above grade, and vertical exits provided from any floor below grade may serve simultaneously all floors below grade.
 
 #### a. Mixed occupancy. 
 
-When a building is classified in more than one occupancy group in accordance with the provisions of [section 27-239](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-378 Escalators) of article two of subchapter three of this chapter, the exit requirements for the entire building shall be determined on the basis of the occupancy group having the strictest exit requirements, or the exit requirements for each building section shall be determined separately.
+When a building is classified in more than one occupancy group in accordance with the provisions of [section 27-239](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-239-classification-of-buildings) of article two of subchapter three of this chapter, the exit requirements for the entire building shall be determined on the basis of the occupancy group having the strictest exit requirements, or the exit requirements for each building section shall be determined separately.
 
 #### b. Incidental occupancies. 
 
@@ -137,21 +137,21 @@ Where a building, floor, or space is used for multiple purposes involving differ
 
 #### d. Building access. 
 
-All buildings classified in other than occupancy groups A, mechanical and electrical equipment rooms and boiler and furnace rooms of D-2 or J-3 shall have at least one primary entrance accessible to and usable by individuals who use wheelchairs. Such entrance shall provide access to a level that makes elevators available in buildings where elevators are provided. Where ramps are used to comply with this requirement, they shall have a slope not greater than one in twelve, and shall otherwise conform to the provisions of [section 27-377](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-377 Ramps) and reference standard RS 4-6.
+All buildings classified in other than occupancy groups A, mechanical and electrical equipment rooms and boiler and furnace rooms of D-2 or J-3 shall have at least one primary entrance accessible to and usable by individuals who use wheelchairs. Such entrance shall provide access to a level that makes elevators available in buildings where elevators are provided. Where ramps are used to comply with this requirement, they shall have a slope not greater than one in twelve, and shall otherwise conform to the provisions of [section 27-377](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-377-ramps) and reference standard RS 4-6.
 
-The commissioner may waive the requirements of this section in the alteration of buildings existing on the effective date of this code in accordance with [section 27-292.6](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%204/Building%20Limitation/§27-292.6 Waiver of Requirements) of this code.
+The commissioner may waive the requirements of this section in the alteration of buildings existing on the effective date of this code in accordance with [section 27-292.6](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%204/Building%20Limitation#§27-2926-waiver-of-requirements) of this code.
 
 ### **§27-358 Occupant Load**
 
-The number of occupants for whom exit facilities shall be provided shall be established either (1) by the actual number of occupants for whom each occupied space, floor, or building, as the case may be, is designed, or (2) by using the appropriate occupant-area ratios from [table 6-2](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements), whichever is larger. The occupant load of any space shall include the occupant load of all spaces that discharge through it in order to gain access to an exit.
+The number of occupants for whom exit facilities shall be provided shall be established either (1) by the actual number of occupants for whom each occupied space, floor, or building, as the case may be, is designed, or (2) by using the appropriate occupant-area ratios from [table 6-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-2occupant-load-requirements-net-area-table), whichever is larger. The occupant load of any space shall include the occupant load of all spaces that discharge through it in order to gain access to an exit.
 
 #### (a) Unlisted occupancies. 
 
-Where data regarding the sq. ft. per person for an occupancy is not listed in [table 6-2](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements), the occupant load shall be established by an architect or engineer, subject to the approval of the commissioner.
+Where data regarding the sq. ft. per person for an occupancy is not listed in [table 6-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-2occupant-load-requirements-net-area-table), the occupant load shall be established by an architect or engineer, subject to the approval of the commissioner.
 
 #### (b) Modifications.
 
-(1) When the actual occupant load of any space will be significantly lower than that listed in [table 6-2](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements), the commissioner may establish a lower basis for the determination of the occupant load.
+(1) When the actual occupant load of any space will be significantly lower than that listed in [table 6-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-2occupant-load-requirements-net-area-table), the commissioner may establish a lower basis for the determination of the occupant load.
 
 (2) When a building existing on December sixth, nineteen hundred sixty-eight is altered or changed in occupancy or use so as to require enlarged exit facilities, the commissioner may authorize the alteration or change in occupancy or use without an enlargement of exit facilities, provided the occupant load is limited to that accommodated by the existing exit facilities as determined by the provisions of this code, and the building or space is posted accordingly with a sign. Such signs shall be at least twelve inches in width and sixteen inches in height. The lettering shall be red on a white background. The letters shall be not less than one inch high and the numerals not less than one and one-quarter inches high.
 
@@ -161,13 +161,13 @@ The occupant load of toilets, locker rooms, meeting rooms, storage rooms, employ
 
 ### **§27-359 Capacity of Exits**
 
-The capacity of exits and access facilities shall be measured in units of width of twenty-two inches, and the number of persons per unit of width shall be determined by the occupancy group classification and type of exit as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements). Fractions of a unit of width less than twelve inches shall not be credited. Where twelve inches or more are added to one or more full units of width, one-half unit of width may be credited. Where computations of total required width give fractional results, the next larger integral number of exit units or integral number plus one-half, shall be used. A fraction less than one-half may be neglected in cases where such fraction constitutes less than ten per cent of the total required number of units. Notwithstanding any of the above computations, no exit or access facility shall be narrower than the minimum width requirements specified in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements), or elsewhere in this code.
+The capacity of exits and access facilities shall be measured in units of width of twenty-two inches, and the number of persons per unit of width shall be determined by the occupancy group classification and type of exit as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements). Fractions of a unit of width less than twelve inches shall not be credited. Where twelve inches or more are added to one or more full units of width, one-half unit of width may be credited. Where computations of total required width give fractional results, the next larger integral number of exit units or integral number plus one-half, shall be used. A fraction less than one-half may be neglected in cases where such fraction constitutes less than ten per cent of the total required number of units. Notwithstanding any of the above computations, no exit or access facility shall be narrower than the minimum width requirements specified in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements), or elsewhere in this code.
 
 ### **§27-360 Travel Distance**
 
 #### (a) General requirement. 
 
-The maximum travel distance from the most remote point in any room or space to the center of a door opening directly on an open exterior space, a vertical exit, an interior stair, an exit passageway or to a horizontal exit shall not be greater than the limit specified in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements) for the occupancy group classification of the room or space.
+The maximum travel distance from the most remote point in any room or space to the center of a door opening directly on an open exterior space, a vertical exit, an interior stair, an exit passageway or to a horizontal exit shall not be greater than the limit specified in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements) for the occupancy group classification of the room or space.
 
 #### (b) Travel distance within dwelling units. 
 
@@ -185,19 +185,19 @@ All exits and access facilities shall be located so that they are clearly visibl
 
 ### **§27-362 Tenant Spaces**
 
-When more than one tenant occupies a building or floor area, each tenant shall have direct access to the required number of exits without passing through premises occupied by other tenants, except as permitted for balconies in subdivision (g) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter.
+When more than one tenant occupies a building or floor area, each tenant shall have direct access to the required number of exits without passing through premises occupied by other tenants, except as permitted for balconies in subdivision (g) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter.
 
 ### **§27-363 Remote Location**
 
 #### (a) When more than one exit is required from a floor of a building, 
 
-each such required exit shall be placed as remote from the others as is practicable. Where this results in a distance between exits exceeding the maximum travel distances required by [section 27-357](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-357 Exit Requirements), additional remote vertical exits shall be provided.
+each such required exit shall be placed as remote from the others as is practicable. Where this results in a distance between exits exceeding the maximum travel distances required by [section 27-357](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-357-exit-requirements), additional remote vertical exits shall be provided.
 
 #### (b) In addition to the requirements of subdivision (a) of this section:
 
 (1) For exits serving spaces classified in occupancy groups G or J-2, in no event shall such exits be less than fifteen feet distant from each other.
 
-(2) For exits serving spaces classified in other occupancies, in no event shall such distance be less than thirty feet or one-third the maximum travel distance required by [section 27-357](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-357 Exit Requirements), whichever is greater.
+(2) For exits serving spaces classified in other occupancies, in no event shall such distance be less than thirty feet or one-third the maximum travel distance required by [section 27-357](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§§27-357-exit-requirements), whichever is greater.
 
 #### (c) On any floor containing ten thousand square feet or more in a high rise building classified in occupancy group E (office space), 
 
@@ -211,7 +211,7 @@ All vertical exits shall extend in a continuous enclosure to discharge directly,
 
 ### **§27-365 Egress From Rooms and Spaces**
 
-(a) There shall be at least two door openings, remote from each other and leading to exits, from every room or enclosed space in which the total occupant loads exceeds the number of persons listed in [table 6-3](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-3-maximum-occupant-load-spaces-with-one-door-max-occupant-load).
+(a) There shall be at least two door openings, remote from each other and leading to exits, from every room or enclosed space in which the total occupant loads exceeds the number of persons listed in [table 6-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-3-maximum-occupant-load-spaces-with-one-door-max-occupant-load).
 
 #### TABLE 6-3 MAXIMUM OCCUPANT LOAD— SPACES WITH ONE DOOR [Max. Occupant Load]\****
 
@@ -231,9 +231,9 @@ All vertical exits shall extend in a continuous enclosure to discharge directly,
 
 ***[] As enacted but this heading probably intended to be omitted.*
 
-(b) Except as otherwise provided for in subdivisions (c) and (d) of this section, in buildings of combustible construction group II exceeding two stories in height there shall be at least two door openings from each J-1 or J-2 dwelling unit which shall be remote from each other. Each door opening shall lead to separate exits either directly or by separate corridors or one door opening shall lead to an exit and the other to a balcony complying with subdivision (g) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter.
+(b) Except as otherwise provided for in subdivisions (c) and (d) of this section, in buildings of combustible construction group II exceeding two stories in height there shall be at least two door openings from each J-1 or J-2 dwelling unit which shall be remote from each other. Each door opening shall lead to separate exits either directly or by separate corridors or one door opening shall lead to an exit and the other to a balcony complying with subdivision (g) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter.
 
-(c) In buildings or spaces classified in occupancy group J-2 not more than three stories and forty feet in height, occupied by not more than four families on each story and of combustible construction group II there shall be at least two door openings from each J-2 dwelling unit which shall be remote from each other. One door opening shall lead to an exit and the other to a balcony complying with subdivision (g) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter.
+(c) In buildings or spaces classified in occupancy group J-2 not more than three stories and forty feet in height, occupied by not more than four families on each story and of combustible construction group II there shall be at least two door openings from each J-2 dwelling unit which shall be remote from each other. One door opening shall lead to an exit and the other to a balcony complying with subdivision (g) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter.
 
 (d) Buildings not exceeding three stories in height and occupied exclusively by not more than one family on each story without boarders, roomers or lodgers are exempt from the provisions of subdivisions (b) and (c) of this section.
 
@@ -253,13 +253,13 @@ All vertical exits shall extend in a continuous enclosure to discharge directly,
 
    e. Buildings classified in occupancy group J-2 not more than three stories and forty feet in height occupied by not more than four families on each story.
 
-2. Notwithstanding the exit requirements of this section, in buildings classified in occupancy group J-2 of construction class I-A, one level of an apartment occupying a part of not more than two floors need only be provided with a balcony that complies with subdivision (g) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of article five of this subchapter, provided that, in addition, the stair within such apartment shall be at least two feet six inches in width and terminates not more than twenty feet from a corridor door on the other level that shall provide the required access to at least two independent exits. The center line of such corridor door shall be not more than fifty feet from any room within such apartment.
+2. Notwithstanding the exit requirements of this section, in buildings classified in occupancy group J-2 of construction class I-A, one level of an apartment occupying a part of not more than two floors need only be provided with a balcony that complies with subdivision (g) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of this subchapter, provided that, in addition, the stair within such apartment shall be at least two feet six inches in width and terminates not more than twenty feet from a corridor door on the other level that shall provide the required access to at least two independent exits. The center line of such corridor door shall be not more than fifty feet from any room within such apartment.
 
 3. Notwithstanding any other provision of this section, when, within a building, any place of assembly has an occupant load between five hundred and nine hundred ninety-nine persons, there shall be provided at least three independent exits, remote from each other, from each floor; any such place of assembly with an occupant load of one thousand or more persons shall be provided with at least four independent exits, remote from each other, from each floor.
 
 ### **§27-367 Exit Reduction**
 
-When a floor area has access to areas of refuge that comply with the requirements of [section 27-372](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-372 Area of Refuge) of article five of this subchapter, the number of persons for whom vertical exits are to be provided may be reduced to fifty per cent of the occupant load of the floor area when one area of refuge is provided, and may be reduced to thirty-three and one-third per cent of the floor area when two areas of refuge are provided. This section shall not be applicable to any new or altered place of assembly, except for such places of assembly in fully sprinklered office buildings which occupy less than twenty percent of the floor area occupied by the principal use.
+When a floor area has access to areas of refuge that comply with the requirements of [section 27-372](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-372-area-of-refuge) of article five of this subchapter, the number of persons for whom vertical exits are to be provided may be reduced to fifty per cent of the occupant load of the floor area when one area of refuge is provided, and may be reduced to thirty-three and one-third per cent of the floor area when two areas of refuge are provided. This section shall not be applicable to any new or altered place of assembly, except for such places of assembly in fully sprinklered office buildings which occupy less than twenty percent of the floor area occupied by the principal use.
 
 ## Article 5 Access Requirements and Exit Types
 
@@ -275,7 +275,7 @@ Corridors shall be kept readily accessible and unobstructed at all times. Corrid
 
 #### (a) Capacity. 
 
-The capacity and minimum width of corridors shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements). Width shall be measured in the clear between the narrowest points produced by any projections such as radiators, lockers, drinking fountains, or room or locker door swings, except that such width may be reduced by projections up to eighteen inches wide to the extent of two inches per unit of exit width if the total area of such projections does not exceed five per cent of the area of the wall on which they occur.
+The capacity and minimum width of corridors shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements). Width shall be measured in the clear between the narrowest points produced by any projections such as radiators, lockers, drinking fountains, or room or locker door swings, except that such width may be reduced by projections up to eighteen inches wide to the extent of two inches per unit of exit width if the total area of such projections does not exceed five per cent of the area of the wall on which they occur.
 
 #### (b) Height. 
 
@@ -291,15 +291,15 @@ Institutional occupancy groups H-1 and H-2.......150 ft.
 
 Residential occupancy groups J-1 and J-2.........150 ft.
 
-Where smoke barriers are penetrated by doors, such doors shall be smoke stop doors in conformance with subdivision (c) of [section 27-371](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-371-doors) of this article.
+Where smoke barriers are penetrated by doors, such doors shall be smoke stop doors in conformance with subdivision (c) of [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-371-doors) of this article.
 
 #### (d) Dead ends. 
 
-Dead ends in corridors shall not exceed the length listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements), except that in all occupancy groups except occupancy group H, when a corridor is completely enclosed in construction having a two hour fire-resistance rating, with all corridor doors being self-closing and having a fire protection rating of one and one-half hours, the permissible length of dead ends may be increased one hundred per cent above the length listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20egress/table-6-1determination-of-exit-and-access-requirements). Dead end distance shall be measured from the centerline of the door opening nearest to the closed end of the corridor to the center of an exit door opening, or the center of that point in the corridor where travel to two or more exits becomes available in two directions.
+Dead ends in corridors shall not exceed the length listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements), except that in all occupancy groups except occupancy group H, when a corridor is completely enclosed in construction having a two hour fire-resistance rating, with all corridor doors being self-closing and having a fire protection rating of one and one-half hours, the permissible length of dead ends may be increased one hundred per cent above the length listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20egress#table-6-1-determination-of-exit-and-access-requirements). Dead end distance shall be measured from the centerline of the door opening nearest to the closed end of the corridor to the center of an exit door opening, or the center of that point in the corridor where travel to two or more exits becomes available in two directions.
 
 #### (e) Changes in level. 
 
-Changes in level requiring less than two risers in a corridor shall be by a ramp complying with [section 27-377](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-377 Ramps) of this article. Risers and treads shall comply with the requirements of subdivision (e) of [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article.
+Changes in level requiring less than two risers in a corridor shall be by a ramp complying with [section 27-377](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-377-ramps) of this article. Risers and treads shall comply with the requirements of subdivision (e) of [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article.
 
 #### (f) Exterior corridors. 
 
@@ -335,7 +335,7 @@ Exterior corridors and balconies shall be constructed of noncombustible material
 
 #### (i) Borrowed lights. 
 
-No operable transoms shall be permitted in walls of corridors. In corridors required to have a one hour fire-resistance rating, fixed one-quarter inch wire glass panels may be installed in not more than twenty percent of the common wall between the corridor and any room or space, provided that no panel exceeds seven hundred twenty square inches in area; however, openings permitted in paragraph three of subdivision (h) of [section 27-370](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-370 Exit Passageways) of this article may be permitted provided all of the limitations and requirements specified in that section are complied with, except that openings in corridor walls serving as fire divisions required to have a fire-resistance rating shall be limited to those specified in [section 27-342](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/§27-342 Openings in Fire Divisions and Separations) of article five of subchapter five of this chapter.
+No operable transoms shall be permitted in walls of corridors. In corridors required to have a one hour fire-resistance rating, fixed one-quarter inch wire glass panels may be installed in not more than twenty percent of the common wall between the corridor and any room or space, provided that no panel exceeds seven hundred twenty square inches in area; however, openings permitted in paragraph three of subdivision (h) of [section 27-370](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-370-exit-passageways) of this article may be permitted provided all of the limitations and requirements specified in that section are complied with, except that openings in corridor walls serving as fire divisions required to have a fire-resistance rating shall be limited to those specified in [section 27-342](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-342-openings-in-fire-divisions-and-separations) of article five of subchapter five of this chapter.
 
 #### (j) Ventilation. 
 
@@ -351,7 +351,7 @@ Exit passageways shall be maintained free of obstructions at all times. Not more
 
 #### a. Capacity. 
 
-The capacity of exit passageways shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity of exit passageways shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### b. Width.
 
@@ -363,7 +363,7 @@ Exit passageways shall have a clear height of seven feet six inches for at least
 
 #### d. Changes in level.
 
-Changes in level requiring less than two risers in an exit passageway shall be by a ramp complying with [section 27-377](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-377 Ramps) of this article. Risers and treads shall comply with the requirements of subdivision (e) of [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article.
+Changes in level requiring less than two risers in an exit passageway shall be by a ramp complying with [section 27-377](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-377-ramps) of this article. Risers and treads shall comply with the requirements of subdivision (e) of [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article.
 
 #### e. Construction.
 
@@ -387,7 +387,7 @@ One hundred per cent of the total number of vertical exits provided for a buildi
 
 ##### 2. WIDTH.
 
-Street floor lobbies serving as exit passageways shall be increased in width to accommodate the occupant load of all communicating spaces on the lobby floor that exit through them. The capacity per unit of width shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+Street floor lobbies serving as exit passageways shall be increased in width to accommodate the occupant load of all communicating spaces on the lobby floor that exit through them. The capacity per unit of width shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 ##### 3. OPENINGS.
 
@@ -441,7 +441,7 @@ Openings between street floor lobbies serving as exit passageways and elevators 
 
       (b) The occupancy of all spaces on the floor shall be limited to occupancy groups C, E, F-3 and F-4.
 
-      (c) The widths of the corridors or passageways shall exceed the requirements of [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements) or subdivision (b) of this section, whichever is applicable, by at least fifty percent.
+      (c) The widths of the corridors or passageways shall exceed the requirements of [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements) or subdivision (b) of this section, whichever is applicable, by at least fifty percent.
 
       (d) All doors opening on the corridors or exit passageways shall be smokeproof, noncombustible self-closing doors.
 
@@ -472,15 +472,15 @@ Doors for required exits shall be self-closing swinging doors with a one and one
 
 #### (b) Corridor doors.
 
-Doors that provide access to interior corridors required to have a one hour fire-resistance rating shall be self-closing swinging fire doors with a three-quarter hour fire-protection rating, except that in buildings classified in occupancy group G, in which an acceptable interior fire alarm system is installed and in which regular supervised fire drills are held, the doors to rooms or spaces devoted exclusively to nonhazardous uses in occupancy group G need not be fire-rated, provided they are swinging, self-closing one and three-quarter inch solid core wood, and have a maximum area of seven hundred twenty square inches of one-quarter inch thick wired glass vision panels. Other corridor doors except those provided for in subdivision (d) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of this article, shall be self-closing, swinging, noncombustible or one and three-quarter inch solid core wood doors, except that in buildings classified in occupancy group H-2 the doors need not be self-closing. Noncombustible mail slots having an area not exceeding forty square inches may be provided in corridor doors when the opening is protected by a closure activated by gravity or a spring device so as to keep it closed when not in use. Noncombustible louvers may be installed in corridor doors opening into toilets, service sink closets, and electric closets. Notwithstanding the foregoing restrictions in this subdivision, doors not prohibited by subdivision (d) of this section may open from spaces into corridors when in compliance with all of the provisions of paragraph three of subdivision (h) of [section 27-370](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-370 Exit Passageways) of this article.
+Doors that provide access to interior corridors required to have a one hour fire-resistance rating shall be self-closing swinging fire doors with a three-quarter hour fire-protection rating, except that in buildings classified in occupancy group G, in which an acceptable interior fire alarm system is installed and in which regular supervised fire drills are held, the doors to rooms or spaces devoted exclusively to nonhazardous uses in occupancy group G need not be fire-rated, provided they are swinging, self-closing one and three-quarter inch solid core wood, and have a maximum area of seven hundred twenty square inches of one-quarter inch thick wired glass vision panels. Other corridor doors except those provided for in subdivision (d) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of this article, shall be self-closing, swinging, noncombustible or one and three-quarter inch solid core wood doors, except that in buildings classified in occupancy group H-2 the doors need not be self-closing. Noncombustible mail slots having an area not exceeding forty square inches may be provided in corridor doors when the opening is protected by a closure activated by gravity or a spring device so as to keep it closed when not in use. Noncombustible louvers may be installed in corridor doors opening into toilets, service sink closets, and electric closets. Notwithstanding the foregoing restrictions in this subdivision, doors not prohibited by subdivision (d) of this section may open from spaces into corridors when in compliance with all of the provisions of paragraph three of subdivision (h) of [section 27-370](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-370-exit-passageways) of this article.
 
 #### (c) Smoke stop doors.
 
-Smoke stop doors shall be self-closing, swinging doors of metal, metal covered, or one and three-quarter inch solid core wood with clear wire glass panels having a minimum area of six hundred square inches per door and a maximum area of twelve hundred ninety-six square inches per door, except that in buildings not over two stories high, smoke stop doors may be of one and three-eighths inch solid core wood with clear wire glass panels, unless the doors are also used as horizontal exits in which case they shall comply with the provisions of subdivision (b) of [section 27-373](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-373 Horizontal Exits) of this article. In addition, smoke stop doors may be constructed of tempered glazing or the equivalent and be protected by sprinkler heads constructed in accordance with subchapter seventeen of this chapter and installed a maximum of six feet (6'-0") on centers on each side of the opening. Smoke stop doors may be double-acting but shall close the opening completely with only such clearance as is reasonably necessary for proper operation. Smoke stop doors shall normally be in the closed position, except that they may be left open if they are arranged to close automatically by an approved device which is actuated by an interior fire alarm system meeting the requirements of subchapter seventeen of this chapter or upon smoke detection. Tempered glass smoke stop doors shall be marked where required in accordance with the rules of the board of standards and appeals.
+Smoke stop doors shall be self-closing, swinging doors of metal, metal covered, or one and three-quarter inch solid core wood with clear wire glass panels having a minimum area of six hundred square inches per door and a maximum area of twelve hundred ninety-six square inches per door, except that in buildings not over two stories high, smoke stop doors may be of one and three-eighths inch solid core wood with clear wire glass panels, unless the doors are also used as horizontal exits in which case they shall comply with the provisions of subdivision (b) of [section 27-373](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-373-horizontal-exits) of this article. In addition, smoke stop doors may be constructed of tempered glazing or the equivalent and be protected by sprinkler heads constructed in accordance with subchapter seventeen of this chapter and installed a maximum of six feet (6'-0") on centers on each side of the opening. Smoke stop doors may be double-acting but shall close the opening completely with only such clearance as is reasonably necessary for proper operation. Smoke stop doors shall normally be in the closed position, except that they may be left open if they are arranged to close automatically by an approved device which is actuated by an interior fire alarm system meeting the requirements of subchapter seventeen of this chapter or upon smoke detection. Tempered glass smoke stop doors shall be marked where required in accordance with the rules of the board of standards and appeals.
 
 #### (d) Prohibited doors.
 
-Vertically sliding doors, rolling shutters, and folding doors shall not be used as exit doors or as corridor doors, except that overhead garage doors may serve as exits from buildings classified in occupancy group J-3, and except that sliding or rolling doors or gates may be used in F-2 places of assembly provided they are kept open when the place of assembly is occupied. Revolving doors may be used only to the extent permitted by subdivision (m) of section 27-371 of this article. Automatic horizontally sliding fire doors shall be permitted only in horizontal exits in fire divisions required to have a four hour fire-resistance rating as specified in [table 5-3](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/table-5-3-opening-protectives-for-fire-divisions-and-fire-separations).
+Vertically sliding doors, rolling shutters, and folding doors shall not be used as exit doors or as corridor doors, except that overhead garage doors may serve as exits from buildings classified in occupancy group J-3, and except that sliding or rolling doors or gates may be used in F-2 places of assembly provided they are kept open when the place of assembly is occupied. Revolving doors may be used only to the extent permitted by subdivision (m) of section 27-371 of this article. Automatic horizontally sliding fire doors shall be permitted only in horizontal exits in fire divisions required to have a four hour fire-resistance rating as specified in [table 5-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-3-opening-protectives-for-fire-divisions-and-fire-separations).
 
 #### (e) Door opening widths.
 
@@ -531,7 +531,7 @@ Doors and windows shall be equipped with hardware as follows:
 1. Doors may be located to prevent access to the stair at the street floor.
 2. In buildings classified in occupancy group E, less than one hundred feet in height, the doors may be locked on the stair side on each floor above the street floor.
 3. In buildings classified in occupancy group E, one hundred feet or more in height, and existing office buildings one hundred feet or more in height, the doors may be locked on the stair side above the street floor except that at intervals of four stories or less, doors shall be openable from the stair side without the use of a key to permit reentry at such floors. In addition, the door on every floor where a keyed switch is required by the provisions of subchapter eighteen of this chapter shall be openable from the stair side without the use of a key to permit reentry at such floors.
-4. When a locked door is provided with an automatic fail safe system for opening such door in the event of the activation of any automatic fire detecting device or when any elevator in readiness as provided in section 27-989 of subchapter eighteen of this chapter is activated, such door shall be deemed as openable from the stair side. The installation of such automatic fail safe system shall comply with the requirements of reference standards RS17-3A and RS17-3B, whichever is applicable. Stair reentry signs required under [section 27-394](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-394 Stair RE-Entry Signs in Office Buildings) of article nine of this subchapter shall specify that reentry is provided only during fire emergencies.
+4. When a locked door is provided with an automatic fail safe system for opening such door in the event of the activation of any automatic fire detecting device or when any elevator in readiness as provided in section 27-989 of subchapter eighteen of this chapter is activated, such door shall be deemed as openable from the stair side. The installation of such automatic fail safe system shall comply with the requirements of reference standards RS17-3A and RS17-3B, whichever is applicable. Stair reentry signs required under [section 27-394](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-394-stair-re-entry-signs-in-office-buildings) of article nine of this subchapter shall specify that reentry is provided only during fire emergencies.
 
 ###### c. Latch bolts shall be provided on all exit doors and corridor doors to hold them in a closed position against the pressure of expanding gases except that this requirement shall not apply to doors in stair enclosures in buildings classified in occupancy group G.
 
@@ -593,7 +593,7 @@ Areas of refuge shall comply with the following:
 
 (a) Separation. Areas of refuge shall be separated from the area which they serve by construction having at least a two hour fire-resistance rating.
 
-(b) Floor area. Areas of refuge shall provide clear public space or space occupied by the same tenant or owner, adequate in size to hold the occupant load it receives from the floor area it serves as computed by the provision of [section 27-367](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-372 Area of Refuge) of article four of this subchapter, in addition to its own occupant load, allowing at least three square feet per person, except that in buildings classified in occupancy group H-2 for patient areas only, the allowance shall be at least thirty square feet per person.
+(b) Floor area. Areas of refuge shall provide clear public space or space occupied by the same tenant or owner, adequate in size to hold the occupant load it receives from the floor area it serves as computed by the provision of [section 27-367](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-367-exit-reduction) of article four of this subchapter, in addition to its own occupant load, allowing at least three square feet per person, except that in buildings classified in occupancy group H-2 for patient areas only, the allowance shall be at least thirty square feet per person.
 
 (c) Required exits. Areas of refuge shall be provided with at least one vertical exit. When an area of refuge is located higher than the eleventh floor of a building, the vertical exit shall be supplemented by at least one elevator.
 
@@ -605,11 +605,11 @@ A horizontal exit to an area of refuge may consist of doors through walls or par
 
 #### (a) Capacity.
 
-The capacity of horizontal exits shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements). Only the widths of doors swinging in the direction of exit travel to the area of refuge shall be counted.
+The capacity of horizontal exits shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements). Only the widths of doors swinging in the direction of exit travel to the area of refuge shall be counted.
 
 #### (b) Door requirements.
 
-Doors shall be swinging, self-closing doors having a fire protection rating of one and one-half hours, except that door in fire divisions having a three hour or four hour fire-resistance rating shall have opening protective as required by [table 5-3](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/table-5-3-opening-protectives-for-fire-divisions-and-fire-separations). Each swinging door shall swing in the direction of exit travel, and when travel is in both directions, as when two areas of refuge serve as areas of refuge for each other, at least two door openings shall be provided, the doors of which shall swing in opposite directions. Signs shall be placed over each door on the side from which egress is made, indicating the exit door.
+Doors shall be swinging, self-closing doors having a fire protection rating of one and one-half hours, except that door in fire divisions having a three hour or four hour fire-resistance rating shall have opening protective as required by [table 5-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-3-opening-protectives-for-fire-divisions-and-fire-separations). Each swinging door shall swing in the direction of exit travel, and when travel is in both directions, as when two areas of refuge serve as areas of refuge for each other, at least two door openings shall be provided, the doors of which shall swing in opposite directions. Signs shall be placed over each door on the side from which egress is made, indicating the exit door.
 
 #### (c) Balconies, bridges and tunnels.
 
@@ -639,11 +639,11 @@ They shall be supplemental vertical exits serving no other purpose than to conne
 
 #### (b) Capacity.
 
-The capacity of supplemental vertical exits shall be as listed for stairs in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity of supplemental vertical exits shall be as listed for stairs in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### (c) Construction.
 
-Supplemental vertical exits shall comply with all of the construction requirements for interior stairs as provided in [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article.
+Supplemental vertical exits shall comply with all of the construction requirements for interior stairs as provided in [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article.
 
 #### (d) Openings.
 
@@ -659,7 +659,7 @@ Interior stairs shall comply with the following requirements:
 
 #### (a) Capacity.
 
-The capacity of interior stairs shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity of interior stairs shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### (b) Width.
 
@@ -685,7 +685,7 @@ Landings and platforms shall be provided at the head and foot of each flight of 
 
 #### (e) Risers and treads.
 
-Risers and treads shall comply with [table 6-4](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-4-maximum-riser-height-and-minimum-tread-width) and with the following:
+Risers and treads shall comply with [table 6-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-4-maximum-riser-height-and-minimum-tread-width) and with the following:
 
 (1) The sum of two risers plus one tread exclusive of nosing shall be not less than twenty-four nor more than twenty-five and one-half inches.
 
@@ -693,7 +693,7 @@ Risers and treads shall comply with [table 6-4](:-/dashboard/NYC%201968%20Code%2
 
 (3) Winders shall not be permitted in required exit stairs except in one- and two-family dwellings and except as permitted in subdivision l of this section. The width of winder treads when measured eighteen inches from the narrower end shall be at least equal to the width of treads above or below the winding section.
 
-(4) Curving or skewed stairs may be used as exits when the tread and riser relationship is in accordance with [table 6-4](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-4-maximum-riser-height-and-minimum-tread-width) when measured at a point eighteen inches in from the narrow end of the tread; and no tread shall be more than three inches narrower or three inches wider at any point than the width established eighteen inches in from the narrow end.
+(4) Curving or skewed stairs may be used as exits when the tread and riser relationship is in accordance with [table 6-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-4-maximum-riser-height-and-minimum-tread-width) when measured at a point eighteen inches in from the narrow end of the tread; and no tread shall be more than three inches narrower or three inches wider at any point than the width established eighteen inches in from the narrow end.
 
 #### (f) Guards and handrails.
 
@@ -711,7 +711,7 @@ Stairs shall have walls, grilles, or guards at the sides and shall have handrail
 
 #### (g) Stair doors.
 
-Doors providing access to stairs shall comply with the requirements of subdivision (a) of [section 27-342](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/§27-342 Openings in Fire Divisions and Separations) of article five of subchapter five of this chapter and subdivision (e) of [section 27-371](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-371 Doors) of this article. The swing of stair doors shall not block stairs or stair landings, nor shall any door at any point of its swing reduce the effective width of the landing or stair to less than seventy-five percent of the required width of the landing or stair, or to less than the width of the door opening on them. The width of doors from a stair shall not be less than the number of units of exit width required for the capacity of the stair, but in no case shall the door width be less than required by subdivision (e) of [section 27-371](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-371 Doors) of this article.
+Doors providing access to stairs shall comply with the requirements of subdivision (a) of [section 27-342](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-342-openings-in-fire-divisions-and-separations) of article five of subchapter five of this chapter and subdivision (e) of [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-371-doors) of this article. The swing of stair doors shall not block stairs or stair landings, nor shall any door at any point of its swing reduce the effective width of the landing or stair to less than seventy-five percent of the required width of the landing or stair, or to less than the width of the door opening on them. The width of doors from a stair shall not be less than the number of units of exit width required for the capacity of the stair, but in no case shall the door width be less than required by subdivision (e) of [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-371-doors) of this article.
 
 #### (h) Stair construction.
 
@@ -721,11 +721,11 @@ Stairs, platforms, and landings shall be designed to support all loads in compli
 
 #### (i) Stair enclosures.
 
-##### (1) Interior stairs shall be enclosed with construction complying with the requirements of [table 3-4](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification/§27-271 Classification Table) except that:
+##### (1) Interior stairs shall be enclosed with construction complying with the requirements of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) except that:
 
 (a) In buildings three stories or less in height excluding those classified in occupancy group J-1 or J-2 combustible construction group II, the enclosing construction may have a one hour fire resistant rating.
 
-(b) Stairs in buildings or spaces classified in occupancy group J-3 and not more than three stories in height, need not be enclosed except as otherwise required in subdivision (a) of [section 27-341](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/§27-341 Fire Separations) of article five of subchapter five of this chapter. Stairs may have open risers in one family dwellings and group homes.
+(b) Stairs in buildings or spaces classified in occupancy group J-3 and not more than three stories in height, need not be enclosed except as otherwise required in subdivision (a) of [section 27-341](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-341-fire-separations) of article five of subchapter five of this chapter. Stairs may have open risers in one family dwellings and group homes.
 
 (c) Unenclosed stairs in buildings classified in assembly occupancy group F may be permitted as provided in subchapter eight of this chapter.
 
@@ -741,7 +741,7 @@ Stairs, platforms, and landings shall be designed to support all loads in compli
 
 ##### (3) The interior finish of interior stair enclosures shall be in accordance with the requirements of table 5-4.
 
-##### (4) Stair enclosures shall be vented in accordance with the requirements for shafts in subdivision (d) of [section 27-344](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification/§27-344 Shafts) of article five of subchapter five of this chapter except that stair enclosures for buildings or spaces classified in occupancy group J-1 or J-2 shall be vented as follows:
+##### (4) Stair enclosures shall be vented in accordance with the requirements for shafts in subdivision (d) of [section 27-344](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-344-shafts) of article five of subchapter five of this chapter except that stair enclosures for buildings or spaces classified in occupancy group J-1 or J-2 shall be vented as follows:
 
 a. In occupancy group J-2 buildings three stories in height and with not more than one dwelling unit per story or two stories in height with not more than two dwelling units per story, shall be provided with a skylight at least nine square feet in area, glazed with plain glass with a wire screen over and under and provided with fixed or movable ventilators having a minimum open area of forty square inches.
 
@@ -765,7 +765,7 @@ No piping of any kind, with the exception of piping required or permitted in sub
 
 (2) In buildings or in building sections classified in occupancy group J-1 or J-2 more than two stories in height, except as otherwise provided for in paragraph three of this subdivision, with roofs having a slope of fifteen degrees or less all interior stairs, except those terminating at a level of a setback roof, shall extend to the roof and shall be enclosed in bulkheads of fire-resistive construction meeting the requirements of subchapter five of this chapter. Stairs terminating at the level of a setback shall provide access to the setback roof areas through a door except where the setback is less than four feet in width, measured from the inside of the parapet wall, and less than ten feet in length.
 
-(3) In buildings or in building sections classified in occupancy group J-1 or J-2 two stories in height and in occupancy group J-2 three stories in height with not more than one dwelling unit per story with roofs having a slope of fifteen degrees or less, access to the roof shall be provided through a scuttle at least twenty-one inches in width and twenty-eight inches in length and shall comply with subdivision (c) of [section 27-338](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements/§27-338 Roof Structures) of article four of subchapter five of this chapter. Scuttles shall be located within each stair enclosure with a stationary iron ladder leading thereto.
+(3) In buildings or in building sections classified in occupancy group J-1 or J-2 two stories in height and in occupancy group J-2 three stories in height with not more than one dwelling unit per story with roofs having a slope of fifteen degrees or less, access to the roof shall be provided through a scuttle at least twenty-one inches in width and twenty-eight inches in length and shall comply with subdivision (c) of [section 27-338](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-338-roof-structures) of article four of subchapter five of this chapter. Scuttles shall be located within each stair enclosure with a stationary iron ladder leading thereto.
 
 ##### (l) Spiral stairs.
 
@@ -795,7 +795,7 @@ Exterior stairs may be used as exits in lieu of interior stairs provided they co
 
 #### (a) Capacity.
 
-The capacity of exterior stairs shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity of exterior stairs shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### (b) Height limitation.
 
@@ -803,7 +803,7 @@ No exterior stair shall exceed seventy-five feet or six stories in height.
 
 #### (c) Construction.
 
-Exterior stairs shall be constructed entirely of noncombustible materials, except that in buildings classified in occupancy groups other than G, F, or H, of construction group II, located outside the fire districts, exterior stairs may be built of combustible materials when the buildings are two stories or thirty feet in height or less and have an occupant load not exceeding forty persons per floor above the street below. Exterior stairs shall be roofed, and shall be protected along their outer sides as required for exterior corridors in subdivision (f) of [section 27-369](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-369 Corridors) of this article. Treads, landings, and platforms shall be solid and unperforated. Risers may be partially open to permit water and snow to drain.
+Exterior stairs shall be constructed entirely of noncombustible materials, except that in buildings classified in occupancy groups other than G, F, or H, of construction group II, located outside the fire districts, exterior stairs may be built of combustible materials when the buildings are two stories or thirty feet in height or less and have an occupant load not exceeding forty persons per floor above the street below. Exterior stairs shall be roofed, and shall be protected along their outer sides as required for exterior corridors in subdivision (f) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of this article. Treads, landings, and platforms shall be solid and unperforated. Risers may be partially open to permit water and snow to drain.
 
 #### (d) Opening protective.
 
@@ -831,15 +831,15 @@ Fire towers may be used as exits in lieu of interior stairs provided they comply
 
 (e) Fire towers shall terminate at grade level and shall exit directly to the street independently of corridors serving other stairways, except when the fire tower terminates in the ground floor corridor outside of the inner vestibule and within ten feet of the building line.
 
-(f) Fire tower stairs shall comply in all other respects with the applicable requirements of [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this code.
+(f) Fire tower stairs shall comply in all other respects with the applicable requirements of [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this code.
 
 ### **§27-377 Ramps**
 
-Interior or exterior ramps may be used as exits in lieu of interior or exterior stairs provided they comply with the applicable requirements for interior stairs in [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article or exterior stairs in section, [27-376](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-376 Exterior Stairs) of this article respectively, and with the following:
+Interior or exterior ramps may be used as exits in lieu of interior or exterior stairs provided they comply with the applicable requirements for interior stairs in [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article or exterior stairs in section, [27-376](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-376-exterior-stairs) of this article respectively, and with the following:
 
 #### (a) Capacity.
 
-The capacity of ramps shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity of ramps shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### (b) Maximum grade.
 
@@ -853,9 +853,9 @@ Ramps shall not have a slope steeper than 1 in 8, except that in buildings class
 
 (3) PLATFORMS. Level platforms or landings, at least as wide as the ramp, shall be provided at the bottom, at intermediate levels where required, and at the top of all ramps. Level platforms shall be provided on each side of door openings into or from ramps having a minimum length in the direction of exit travel of three feet, and when a door swings on the platform or landing a minimum length of five feet.
 
-(4) DOORS. Door openings into or from ramps shall comply with the requirements for stairs in subdivision (g) of [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article. No door shall swing over the sloping portion of a ramp.
+(4) DOORS. Door openings into or from ramps shall comply with the requirements for stairs in subdivision (g) of [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article. No door shall swing over the sloping portion of a ramp.
 
-(5) GUARDS AND RAILINGS. Guards and railings of ramps shall comply with the applicable requirements of subdivision (f) of [section 27-375](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-375 Interior Stairs) of this article except that only ramps having a slope steeper than one in twelve need comply with the requirements for handrails and intermediate handrails shall not be required.
+(5) GUARDS AND RAILINGS. Guards and railings of ramps shall comply with the applicable requirements of subdivision (f) of [section 27-375](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-375-interior-stairs) of this article except that only ramps having a slope steeper than one in twelve need comply with the requirements for handrails and intermediate handrails shall not be required.
 
 (6) SURFACE. Interior ramps exceeding a slope of one in ten and all exterior ramps shall be provided with nonslip surfaces.
 
@@ -867,7 +867,7 @@ Escalators may be used as exits in lieu of interior stairs provided they comply 
 
 #### (a) Capacity.
 
-The capacity of escalators as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements) shall be based on the following:
+The capacity of escalators as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements) shall be based on the following:
 
 #### **MINIMUM WIDTH (IN.) AT:**
 
@@ -894,7 +894,7 @@ Pedestrian walkways consisting of conveyor belts shall be considered as exit pas
 
 #### (a) Capacity.
 
-The capacity shall be as listed under exit passageways or ramps, as the case may be, in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements).
+The capacity shall be as listed under exit passageways or ramps, as the case may be, in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements).
 
 #### (b) Acceptable exits.
 
@@ -906,15 +906,15 @@ Walkways shall comply with the requirements of subchapter eighteen of this chapt
 
 #### (d) Enclosure.
 
-Walkways that do not serve as exits, but are inclined so as to require an opening in any floor, shall be enclosed as required for escalators in subdivision (c) of [section 27-378](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-378 Escalators) of this article.
+Walkways that do not serve as exits, but are inclined so as to require an opening in any floor, shall be enclosed as required for escalators in subdivision (c) of [section 27-378](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-378-escalators) of this article.
 
 ### **§27-380 Fire Escapes**
 
-Fire escapes constructed on existing buildings when altered or as a second means of egress for group homes as permitted by [section 27-368](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-368 General) of this article shall comply with the following:
+Fire escapes constructed on existing buildings when altered or as a second means of egress for group homes as permitted by [section 27-368](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-368-general) of this article shall comply with the following:
 
 #### (a) Capacity.
 
-The capacity of fire escapes shall be as listed in [table 6-1](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/table-6-1determination-of-exit-and-access-requirements) for stairs.
+The capacity of fire escapes shall be as listed in [table 6-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#table-6-1-determination-of-exit-and-access-requirements) for stairs.
 
 #### (b) Stairs.
 
@@ -986,11 +986,11 @@ On and after July 1, 2006 all high rise office buildings and all high rise build
 
 In high rise office buildings and in occupancy group E high rise buildings:
 
-(a) Illuminated exit signs complying with [section 27-386](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-386 Directional Sign Design) of this subchapter shall be placed in stairwells with horizontal extensions to indicate the transition from vertical to horizontal direction and at turns along the horizontal path.
+(a) Illuminated exit signs complying with [section 27-386](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-386-directional-sign-design) of this subchapter shall be placed in stairwells with horizontal extensions to indicate the transition from vertical to horizontal direction and at turns along the horizontal path.
 
-(b) A supplementary sign complying with sections [27-394](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-394 Stair RE-Entry Signs in Office Buildings) and [27-395](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-395 Materials for Signs) of this subchapter, except that the lettering and numerals shall be at least one inch high, indicating the location of a recessed re-entry door, shall be securely attached on the wall of the landing that faces the evacuee on the stairs.
+(b) A supplementary sign complying with sections [27-394](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-394-stair-re-entry-signs-in-office-buildings) and [27-395](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-395-materials-for-signs) of this subchapter, except that the lettering and numerals shall be at least one inch high, indicating the location of a recessed re-entry door, shall be securely attached on the wall of the landing that faces the evacuee on the stairs.
 
-(c) In stairs where there is no entry or exiting from such stair for more than four floors, a sign complying with sections [27-394](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-394 Stair RE-Entry Signs in Office Buildings) and [27-395](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-395 Materials for Signs), except that the lettering and numerals shall be at least one inch high, shall be securely attached at the beginning of the descent into such portion of the stair on the wall of the landing that faces the evacuee on the stairs stating the location of the next re-entry or exiting floor. On each floor within such portion of the stair a sign complying with sections [27-392](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-392 Floor Numbering Signs) and [27-395](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-395 Materials for Signs) shall be securely attached to the wall of the landing that faces the evacuee on the stairs approximately five feet above the floor indicating the floor number.
+(c) In stairs where there is no entry or exiting from such stair for more than four floors, a sign complying with sections [27-394](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-394-stair-re-entry-signs-in-office-buildings) and [27-395](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-395-materials-for-signs), except that the lettering and numerals shall be at least one inch high, shall be securely attached at the beginning of the descent into such portion of the stair on the wall of the landing that faces the evacuee on the stairs stating the location of the next re-entry or exiting floor. On each floor within such portion of the stair a sign complying with sections [27-392](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-392-floor-numbering-signs) and [27-395](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-395-materials-for-signs) shall be securely attached to the wall of the landing that faces the evacuee on the stairs approximately five feet above the floor indicating the floor number.
 
 (d) Signs shall be readily visible from the egress direction.
 
@@ -1022,7 +1022,7 @@ Exit signs shall read only "exit" and shall be of the externally lighted, intern
 
 ### **§27-386 Directional Sign Design**
 
-Directional exit signs shall comply with all of the requirements for exit signs in [section 27-385](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-385 Exit Sign Design) of this article, and shall read "EXIT" with a horizontal arrow or arrows indicating the direction to the exit or exits. However, when the arrow is below the letters, the letters may be three and three-eighths inches high and nine-sixteenths inch strokes, except in buildings and spaces classified in occupancy group F where they shall be at least five inches high with nine-sixteenths inch strokes. The arrow or arrows shall be red.
+Directional exit signs shall comply with all of the requirements for exit signs in [section 27-385](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-385-exit-sign-design) of this article, and shall read "EXIT" with a horizontal arrow or arrows indicating the direction to the exit or exits. However, when the arrow is below the letters, the letters may be three and three-eighths inches high and nine-sixteenths inch strokes, except in buildings and spaces classified in occupancy group F where they shall be at least five inches high with nine-sixteenths inch strokes. The arrow or arrows shall be red.
 
 ### **§27-387 False Exits**
 
@@ -1062,11 +1062,11 @@ A sign shall be posted and maintained within each stair enclosure on every floor
 
 ### **§27-393 Stair and Elevator Identification Signs**
 
-Each stair and each bank of elevators shall be identified by an alphabetic letter. A sign indicating the letter of identification for the elevator bank shall be posted and maintained at each elevator landing directly above or as part of the sign specified in [section 27-391](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-391 Signs at Elevator Landings) of this article. The stair identification sign shall be posted and maintained on the occupancy side of the stair door. The letter on the sign shall be at least three inches high, of bold type and of contrasting color from the background. Such signs shall be securely attached.
+Each stair and each bank of elevators shall be identified by an alphabetic letter. A sign indicating the letter of identification for the elevator bank shall be posted and maintained at each elevator landing directly above or as part of the sign specified in [section 27-391](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-391-signs-at-elevator-landings) of this article. The stair identification sign shall be posted and maintained on the occupancy side of the stair door. The letter on the sign shall be at least three inches high, of bold type and of contrasting color from the background. Such signs shall be securely attached.
 
 ### **§27-394 Stair RE-Entry Signs in Office Buildings**
 
-Signs shall be posted and maintained on the stair door at each floor in buildings classified in occupancy group E occupied or arranged to be occupied for an occupant load of more than one hundred persons above or below the street level or more than a total of five hundred persons in the entire building indicating whether re-entry is provided into the building and the floor where such re-entry is provided. The lettering and numerals of the signs shall be at least one-half inch high of bold type. The lettering and background shall be contrasting colors and the signs shall be securely attached approximately five feet above the floor. The signs shall read as follows and may be either independent or combined with the corresponding sign required by sections [27-392](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-392 Floor Numbering Signs) and [27-393](:-/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress/§27-393 Stair and Elevator Identification Signs) of this article.
+Signs shall be posted and maintained on the stair door at each floor in buildings classified in occupancy group E occupied or arranged to be occupied for an occupant load of more than one hundred persons above or below the street level or more than a total of five hundred persons in the entire building indicating whether re-entry is provided into the building and the floor where such re-entry is provided. The lettering and numerals of the signs shall be at least one-half inch high of bold type. The lettering and background shall be contrasting colors and the signs shall be securely attached approximately five feet above the floor. The signs shall read as follows and may be either independent or combined with the corresponding sign required by sections [27-392](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-392-floor-numbering-signs) and [27-393](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-393-stair-and-elevator-identification-signs) of this article.
 
 #### (a) Where no re-entry is provided from the stairs to any floor,
 
@@ -1141,3 +1141,4 @@ Emergency power systems meeting the requirements of this article shall be provid
 (d) Buildings and building sections classified in occupancy group J-1.
 
 (e) Buildings and building sections containing an atrium.
+{"mode":"full","isActive":false}
