@@ -1,10 +1,12 @@
+# NYC 1968 Code (Vol I)
+
 # **Subchapter 8 Places of Assembly**
 
 ## **Article 1 General**
 
 ### **§27-522 Scope**
 
-The provisions of this subchapter shall control the design and construction of places of assembly as defined in subchapter two of this chapter. For specific classifications of assembly occupancies, see article eight of subchapter three of this chapter. For place of assembly permit requirements, see [section 27-525.1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-525.1) of article two of this subchapter.
+The provisions of this subchapter shall control the design and construction of places of assembly as defined in subchapter two of this chapter. For specific classifications of assembly occupancies, see article eight of subchapter three of this chapter. For place of assembly permit requirements, see [section 27-525.1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-5251-place-of-assembly-permit) of article two of this subchapter.
 
 ### **§27-523 Definitions**
 
@@ -104,7 +106,7 @@ These plans shall not be smaller in size than required for one-eighth inch scale
 
 ### **§27-529 Enclosure and Interior Finish**
 
-Places of assembly shall be separated from adjoining occupancies by construction meeting the requirements of [table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1) or [table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2), whichever may apply. The interior finish of places of assembly shall meet the requirements of table 5-4.
+Places of assembly shall be separated from adjoining occupancies by construction meeting the requirements of [table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations) or [table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions), whichever may apply. The interior finish of places of assembly shall meet the requirements of table 5-4.
 
 ### **§27-530 Means of Egress**
 
@@ -186,7 +188,7 @@ b. Platforms shall be at least twenty-eight inches deep from front to back.
 
 c. Platform depth shall be increased one-quarter of an inch for each seat in excess of seven that it is necessary to pass to reach an aisle.
 
-d. Aisles complying with [section 27-532](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-532) of this article shall be provided when the height between levels of platform seating exceeds eight inches.
+d. Aisles complying with [section 27-532](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-532-aisles-and-cross-aisles) of this article shall be provided when the height between levels of platform seating exceeds eight inches.
 
 ##### 4. BENCH SEATING.
 
@@ -220,13 +222,13 @@ e. Guards shall be designed to meet the load requirements for railings in subcha
 
 ### **§27-532 Aisles and Cross Aisles**
 
-Assembly spaces shall be served by aisles, cross aisles, or other unobstructed floor areas providing access to exits, except as permitted for bleacher seating in paragraph two of subdivision (a) of [section 27-531](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-531) of this article.
+Assembly spaces shall be served by aisles, cross aisles, or other unobstructed floor areas providing access to exits, except as permitted for bleacher seating in paragraph two of subdivision (a) of [section 27-531](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-531-seating-in-assembly-spaces) of this article.
 
-(a) The capacity of aisles and cross aisles shall be adequate to serve all persons for whom they provide a primary path of travel to an exit. (See [section 27-533](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-533) of this article.)
+(a) The capacity of aisles and cross aisles shall be adequate to serve all persons for whom they provide a primary path of travel to an exit. (See [section 27-533](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-533-travel-distance) of this article.)
 
 #### (1) CAPACITY.
 
-The capacity of aisles and cross aisles shall be as listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1). The unit of exit width shall be twenty-two inches Seats or other facilities shall not project into an aisle or cross aisle so as to reduce the width of the aisle or cross aisle more than one inch per unit of exit width.
+The capacity of aisles and cross aisles shall be as listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1). The unit of exit width shall be twenty-two inches Seats or other facilities shall not project into an aisle or cross aisle so as to reduce the width of the aisle or cross aisle more than one inch per unit of exit width.
 
 #### (2) MINIMUM WIDTH.
 
@@ -290,13 +292,13 @@ Vomitories within assembly spaces shall comply with all of the requirements for 
 
 ### **§27-533 Travel Distance**
 
-At least one exit opening shall be available from every attached seat or standee space in an assembly space, or from the most remote point in the space when movable seats are provided or, when no seats are provided, within the primary travel distance limitation listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1). In addition, an alternate exit opening shall be available from every attached seat or standee space, or from the most remote point when attached seats are not provided within the secondary travel distance limitation listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1). Such alternate exit openings may serve to satisfy the requirements for primary travel distance for other seats or locations. Exit openings satisfying the primary and secondary travel distance requirements for any one seat or location shall be separated from each other by a distance of at least twenty-five feet.
+At least one exit opening shall be available from every attached seat or standee space in an assembly space, or from the most remote point in the space when movable seats are provided or, when no seats are provided, within the primary travel distance limitation listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1). In addition, an alternate exit opening shall be available from every attached seat or standee space, or from the most remote point when attached seats are not provided within the secondary travel distance limitation listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1). Such alternate exit openings may serve to satisfy the requirements for primary travel distance for other seats or locations. Exit openings satisfying the primary and secondary travel distance requirements for any one seat or location shall be separated from each other by a distance of at least twenty-five feet.
 
 (a) Travel distance shall be the measured distance along centerlines of paths of travel to the centerline of the exit opening, as adjusted by penalties for multi-directional or stepped travel as provided below.
 
 (1) No path of travel shall be permitted through rows of seating other than the first leg of travel from a seat to an aisle.
 
-(2) The first thirty-five feet of a primary path of travel and a secondary path of travel may be common to each other except that this distance may be increased to fifty feet in [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) places of assembly.
+(2) The first thirty-five feet of a primary path of travel and a secondary path of travel may be common to each other except that this distance may be increased to fifty feet in F-2 places of assembly.
 
 (3) Not more than three changes in direction of travel shall be permitted in the path of travel to an exit opening. A change in direction shall be deemed to occur when it is necessary to change direction by a forty-five degrees or greater angle, measured from the preceding line of travel, except that it shall not be considered as a change in direction when it is necessary in an aisle or cross aisle to travel in another direction not more than seven feet.
 
@@ -318,7 +320,7 @@ Exit openings from assembly spaces shall comply with the following:
 
 #### **(a) Capacity**.
 
-The capacity of exit openings shall be listed as in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1), based on the number of occupants for whom the opening satisfies the primary travel distance requirement.
+The capacity of exit openings shall be listed as in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1), based on the number of occupants for whom the opening satisfies the primary travel distance requirement.
 
 #### **(b) Width**.
 
@@ -336,7 +338,7 @@ Class 3. Exit openings that open from the assembly space into corridors, exit pa
 
 #### **(d) Distribution of classes**.
 
-The required exit capacity from [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) places of assembly, and from all other assembly spaces in which the net floor area, exclusive of stage area, is twelve square feet or more per person may be provided by exit openings of any class. The required exit capacity from assembly spaces in which the net floor area, exclusive of stage area, is less than twelve square feet per person shall be distributed so that exit openings of each class are provided to comply with the following requirements:
+The required exit capacity from F-2 places of assembly, and from all other assembly spaces in which the net floor area, exclusive of stage area, is twelve square feet or more per person may be provided by exit openings of any class. The required exit capacity from assembly spaces in which the net floor area, exclusive of stage area, is less than twelve square feet per person shall be distributed so that exit openings of each class are provided to comply with the following requirements:
 
 1. For assembly spaces in which the mean floor level is not more than fifteen feet above or below the adjoining grade elevation, the exit capacity shall be distributed as follows:
    Class 1--not less than forty per cent
@@ -361,24 +363,24 @@ No exit opening shall be closer than twelve feet to any part of a stage using sc
 
 No exit door shall be locked so as to prevent egress from an assembly space while it is occupied.
 
-##### **[TABLE 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1)
+##### **TABLE 8-1
 
 ##### DETERMINATION OF EXIT AND ACCESS REQUIREMENTS**
 
 ![img](https://d1psc0ikz8bj50.cloudfront.net/publication_images/nyc_building_code_1968/%C2%A727-534/0)
 **Notes:**
-*a* See [section 27-533](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-533). When an exit opening from an assembly space discharges into corridor that does not meet the requirements of this code for a safe area, the travel distance shall include the distance within the corridor to an exit.
-*b* See paragraph four of subdivision (b) of [section 27-546](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-546) for stages.
-*c* See paragraph three of subdivision (b) of [section 27-547](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-547) for stages.
+*a* See [section 27-533](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-533-travel-distance). When an exit opening from an assembly space discharges into corridor that does not meet the requirements of this code for a safe area, the travel distance shall include the distance within the corridor to an exit.
+*b* See paragraph four of subdivision (b) of [section 27-546](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-546-f-1a-places-of-assembly) for stages.
+*c* See paragraph three of subdivision (b) of [section 27-547](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-547-f-1b-places-of-assembly) for stages.
 *d* In place of assembly completely equipped with automatic sprinklers, this distance may be increased fifty percent.
-*e* See [section 27-532](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-532).
+*e* See [section 27-532](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-532-aisles-and-cross-aisles).
 ***Bracket not enacted but probably intended.**
 
 ### **§27-535 Safe Areas**
 
 Safe areas shall comply with the following:
 
-When provided to serve class one or class two exit openings safe areas shall be separated from assembly spaces by noncombustible construction having a two hour fire-resistance rating, and shall serve as transition areas in the line and direction of exit travel. They shall serve for normal entry to the assembly space and may be used as corridors, lobbies, or lounges. No room or space classified in occupancy group A, [B-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-246), [D-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-250), or [D-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-251) shall open upon a safe area. Safe areas shall be at a level not more than six feet above or below the level at which egress is made from the assembly space, except that a separate safe area shall not be required for any assembly space having an occupant load of less than one hundred fifty persons and which is served by a safe area of another assembly space, when such safe area is in the direction of egress. Ventilating systems for safe areas shall not be connected to systems serving any other spaces, unless separated from such systems by fire dampers actuated by smoke detectors meeting the construction requirements of subchapter thirteen of this chapter.
+When provided to serve class one or class two exit openings safe areas shall be separated from assembly spaces by noncombustible construction having a two hour fire-resistance rating, and shall serve as transition areas in the line and direction of exit travel. They shall serve for normal entry to the assembly space and may be used as corridors, lobbies, or lounges. No room or space classified in occupancy group A, B-1, D-1, or D-2 shall open upon a safe area. Safe areas shall be at a level not more than six feet above or below the level at which egress is made from the assembly space, except that a separate safe area shall not be required for any assembly space having an occupant load of less than one hundred fifty persons and which is served by a safe area of another assembly space, when such safe area is in the direction of egress. Ventilating systems for safe areas shall not be connected to systems serving any other spaces, unless separated from such systems by fire dampers actuated by smoke detectors meeting the construction requirements of subchapter thirteen of this chapter.
 
 #### (1) COLLECTING SAFE AREAS.
 
@@ -390,7 +392,7 @@ The occupant load of a safe area shall be the aggregate occupant load of all exi
 
 #### (3) DIMENSIONS.
 
-Except as provided in subdivision four of this section, the clear unobstructed floor area of each safe area shall be sufficient to accommodate the total occupant load of the safe area on the basis of two square feet per person, not including space occupied by furniture or equipment. The minimum dimension of such unobstructed space shall be eight feet. The width of the unobstructed space shall be measured at right angles to the direction of travel to an exit and shall not be less than required for the occupant load, on the basis of the exit capacity listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1). The height of safe areas shall be at least eight feet at all points.
+Except as provided in subdivision four of this section, the clear unobstructed floor area of each safe area shall be sufficient to accommodate the total occupant load of the safe area on the basis of two square feet per person, not including space occupied by furniture or equipment. The minimum dimension of such unobstructed space shall be eight feet. The width of the unobstructed space shall be measured at right angles to the direction of travel to an exit and shall not be less than required for the occupant load, on the basis of the exit capacity listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1). The height of safe areas shall be at least eight feet at all points.
 
 #### (4) SAFE AREAS NEAR GRADE.
 
@@ -412,11 +414,11 @@ e. Where exit openings from an assembly space are above or below the level of th
 
 #### (6) EXITS FROM SAFE AREAS.
 
-The capacity of exits from safe areas shall be as listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1). Exit openings from safe areas shall discharge into exit types as provided in subchapter six of this chapter.
+The capacity of exits from safe areas shall be as listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1). Exit openings from safe areas shall discharge into exit types as provided in subchapter six of this chapter.
 
 #### (7) DOOR HARDWARE.
 
-Doors from safe areas or from exits from safe areas opening directly to the outdoors and furnished with locks shall be equipped with fire exit bolts complying with the requirements of paragraph two of subdivision (k) of [section 27-371](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-371) of subchapter six of this chapter.
+Doors from safe areas or from exits from safe areas opening directly to the outdoors and furnished with locks shall be equipped with fire exit bolts complying with the requirements of paragraph two of subdivision (k) of [section 27-371](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Means%20of%20Egress#§27-371-doors) of subchapter six of this chapter.
 
 ### **§27-536 Corridors**
 
@@ -424,7 +426,7 @@ Corridors shall comply with all of the requirements of subchapter six of this ch
 
 #### (a) Capacity.
 
-The capacity of corridors shall be as listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1).
+The capacity of corridors shall be as listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1).
 
 #### (b) Changes in level.
 
@@ -436,7 +438,7 @@ Exit passageways shall comply with all of the requirements of subchapter six of 
 
 #### (a) Capacity.
 
-The capacity of exit passageways shall be as listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1).
+The capacity of exit passageways shall be as listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1).
 
 #### (b) Changes in level.
 
@@ -448,7 +450,7 @@ Stairs, escalators and ramps shall comply with all of the requirements of subcha
 
 #### (a) Capacity.
 
-The capacity of stairs, escalators or ramps shall be as listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1).
+The capacity of stairs, escalators or ramps shall be as listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1).
 
 #### (b) Width.
 
@@ -482,7 +484,7 @@ When an open exterior space is more than fifteen feet above or below the grade o
 
 #### (d) Egress from open exterior spaces.
 
-Exterior exit passageways, ramps, or steps leading from open exterior spaces shall be not less in width than required for the occupant load of all exits discharging into the open exterior space. The width of such exit passageways shall be based on the capacities listed in [table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1), but in no case less than ten feet. Ramps and steps shall comply with the requirements of paragraph e of subdivision five of [section 27-535](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-535) of this article.
+Exterior exit passageways, ramps, or steps leading from open exterior spaces shall be not less in width than required for the occupant load of all exits discharging into the open exterior space. The width of such exit passageways shall be based on the capacities listed in [table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1), but in no case less than ten feet. Ramps and steps shall comply with the requirements of paragraph e of subdivision five of [section 27-535](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-535-safe-areas) of this article.
 
 ### **§27-540 Exit Lighting**
 
@@ -494,31 +496,31 @@ In addition to the requirements of subchapter six of this chapter, lighting shal
 
 ### **§27-541 Exit Signs**
 
-Signs meeting the requirements of subchapter six of this chapter and subdivision (e) of [section 27-534](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-534) of this article shall be provided in all assembly spaces to indicate the location of exits and, where necessary, the direction to the exits. All exit or directional signs shall be placed so that they are clearly visible from all parts of the assembly spaces, and the bottom of all signs shall be at least seven feet above floor level. Signs shall be of the internally lighted type in all assembly spaces where the general illumination is reduced to less than five foot candles during a performance or during occupancy. Signs shall be lighted at all times during occupancy.
+Signs meeting the requirements of subchapter six of this chapter and subdivision (e) of [section 27-534](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-534-exit-openings) of this article shall be provided in all assembly spaces to indicate the location of exits and, where necessary, the direction to the exits. All exit or directional signs shall be placed so that they are clearly visible from all parts of the assembly spaces, and the bottom of all signs shall be at least seven feet above floor level. Signs shall be of the internally lighted type in all assembly spaces where the general illumination is reduced to less than five foot candles during a performance or during occupancy. Signs shall be lighted at all times during occupancy.
 
-(For [Table 8-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#table_8-1) see [chapter 839](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/14/heating-and-combustion-equipment#§27-839) of the laws of 1986)
+(For [Table 8-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1) see [chapter 839](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/14/heating-and-combustion-equipment#§27-839) of the laws of 1986)
 
 Notes:
 
-a. See [section 27-533](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-533). When an exit opening from an assembly space discharges into corridor that does not meet the requirements of this code for a safe area, the travel distance shall include the distance within the corridor to an exit.
+a. See [section 27-533](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#table-8-1. When an exit opening from an assembly space discharges into corridor that does not meet the requirements of this code for a safe area, the travel distance shall include the distance within the corridor to an exit.
 
-b. See paragraph four of subdivision (b) of [section 27-546](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-546) for stages.
+b. See paragraph four of subdivision (b) of [section 27-546](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-546-f-1a-places-of-assembly) for stages.
 
-c. See paragraph three of subdivision (b) of [section 27-547](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-547) for stages.
+c. See paragraph three of subdivision (b) of [section 27-547](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-547-f-1b-places-of-assembly) for stages.
 
 d. In places of assembly completely equipped with automatic sprinklers, this distance may be increased fifty percent.
 
-e. See [section 27-532](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-532).
+e. See [section 27-532](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-532-aisles-and-cross-aisles).
 
 ### **§27-542 Emergency Lighting**
 
-All assembly spaces shall be provided with emergency lighting facilities sufficient to provide at least five foot candles of illumination at the floor level. Such lighting shall be on circuits that are separate from the general lighting and power circuits, either taken off ahead of the main switch or connected to a separate emergency lighting power source, and be arranged to operate automatically in the event of failure of the normal lighting system. The provisions of this section shall apply retroactively to all existing places of assembly that are or would be classified in occupancy groups [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) and [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) or are changed to such classification under this code, in accordance with the following schedule and specifications:
+All assembly spaces shall be provided with emergency lighting facilities sufficient to provide at least five foot candles of illumination at the floor level. Such lighting shall be on circuits that are separate from the general lighting and power circuits, either taken off ahead of the main switch or connected to a separate emergency lighting power source, and be arranged to operate automatically in the event of failure of the normal lighting system. The provisions of this section shall apply retroactively to all existing places of assembly that are or would be classified in occupancy groups F-3 and F-4 or are changed to such classification under this code, in accordance with the following schedule and specifications:
 
 1. Cabarets, dance halls, night clubs, and taverns having an occupant load exceeding one hundred fifty persons shall complete the installation required by this section on or before April twelfth, nineteen hundred seventy-nine.
 2. Cabarets, dance halls, night clubs, and taverns having an occupant load of one hundred fifty persons or less shall complete such installation on or before July twelfth, nineteen hundred seventy-nine.
 3. Spaces occupied exclusively as restaurants shall complete such installation on or before October twelfth, nineteen hundred seventy-nine.
-4. All other spaces in occupancy groups [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) and [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) shall complete such installation on or before January twelfth, nineteen hundred eighty.
-5. The wiring shall conform with the [electrical code](https://up.codes/viewer/new_york_city/nyc-electrical-code-2011) of the city of New York, and have the same protection as specified for wiring in reference standard RS17-3, RS17-3A or 17-3B.
+4. All other spaces in occupancy groups F-3 and F-4 shall complete such installation on or before January twelfth, nineteen hundred eighty.
+5. The wiring shall conform with the electrical code of the city of New York, and have the same protection as specified for wiring in reference standard RS17-3, RS17-3A or 17-3B.
 6. Storage battery equipment may be used as the sole source of energy provided it conforms with the provisions of section four of reference standard RS 17-3 or consists of two battery packs listed by an acceptable testing laboratory or conforms with nationally accepted standards for such source of emergency energy.
 
 
@@ -529,7 +531,7 @@ Motion picture projection and other light projection sources shall comply with t
 
 (a) Film. The projection, use or storage of film having a nitro-cellulose base (commonly known as nitrate film) shall not be permitted except under conditions specified in special permits when issued by the fire department. Safety film meeting the specifications and test standards of reference standard RS 8-1 may be projected, used or stored.
 
-(b) Projection machines. Projection machines shall meet the requirements of the [electrical code](https://up.codes/viewer/new_york_city/nyc-electrical-code-2011) of the city of New York. The lamp housing of projection machines using carbon-arc or other light sources that emit gaseous discharge shall be equipped with, or connected to a mechanical ventilation system of adequate capacity to exhaust the products of combustion through ducts directly to the outdoors. Such duct systems shall comply with the requirements of subchapter thirteen of this chapter. When more than one projection machine or other facility employing a carbon-arc or similar light source is used, all may be vented by the same duct system if the capacity is adequate for all facilities so connected.
+(b) Projection machines. Projection machines shall meet the requirements of the electrical code of the city of New York. The lamp housing of projection machines using carbon-arc or other light sources that emit gaseous discharge shall be equipped with, or connected to a mechanical ventilation system of adequate capacity to exhaust the products of combustion through ducts directly to the outdoors. Such duct systems shall comply with the requirements of subchapter thirteen of this chapter. When more than one projection machine or other facility employing a carbon-arc or similar light source is used, all may be vented by the same duct system if the capacity is adequate for all facilities so connected.
 
 (c) Other light source facilities. All devices, such as spotlights, that employ a carbon-arc or other light source that emits gaseous discharge shall be vented directly as required in subdivision (b) of this section, unless the space in which such devices are located is mechanically ventilated and provides at least two thousand cubic feet of room volume for each device.
 
@@ -543,7 +545,7 @@ Motion picture screens shall be noncombustible, or have a flame spread rating no
 
 ### **§27-545 General**
 
-The provisions of this section shall apply to all places of assembly classified in occupancy group [F-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-255) under the provisions of subchapter three of this chapter.
+The provisions of this section shall apply to all places of assembly classified in occupancy group F-1 under the provisions of subchapter three of this chapter.
 
 ### **§27-546 F-1A Places of Assembly**
 
@@ -577,7 +579,7 @@ a. Any portion of the stage floor used for passing scenery and scenic elements t
 
 b. Stage lifts shall comply with the provisions of subchapter eighteen of this chapter. Any portion of the stage floor that is equipped with stage lifts shall be of noncombustible construction. Joints between lift platforms and adjacent floors shall be tightly fitted.
 
-c. Finish flooring shall comply with the provisions of [section 27-351](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-351) of article five of subchapter five of this chapter.
+c. Finish flooring shall comply with the provisions of [section 27-351](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-351-finish-flooring-and-floor-coverings) of article five of subchapter five of this chapter.
 
 ##### 3. AREAS BELOW THE STAGE.
 
@@ -685,7 +687,7 @@ For the purposes of this section, the stage in an F-1b place of assembly shall b
 
 ##### (2) CONSTRUCTION.
 
-Raised platforms may be built as stages in F-1b places of assembly when they are supported on floors having the fire-resistance ratings required by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4), in accordance with the following:
+Raised platforms may be built as stages in F-1b places of assembly when they are supported on floors having the fire-resistance ratings required by table 3-4, in accordance with the following:
 
 a. The area below the platform shall be enclosed on all sides with solid construction.
 
@@ -719,11 +721,11 @@ c. It shall be equipped with a public address system serving loudspeakers in the
 
 ### **§27-548 General**
 
-The provisions of this section shall apply to all places of assembly classified in occupancy group [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) under the provisions of subchapter three. [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) places of assembly shall comply with all of the requirements of article two of this subchapter, and with the following:
+The provisions of this section shall apply to all places of assembly classified in occupancy group F-2 under the provisions of subchapter three. F-2 places of assembly shall comply with all of the requirements of article two of this subchapter, and with the following:
 
 #### (a) Enclosure.
 
-To qualify as an [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) outdoor place of assembly, a place of assembly shall have at least forty per cent of the combined surface area of all exterior wall and roof planes open to the outdoors. When a portion of an outdoor place of assembly is enclosed to a greater extent, that portion shall comply with all of the requirements of this code applicable to indoor places of assembly.
+To qualify as an F-2 outdoor place of assembly, a place of assembly shall have at least forty per cent of the combined surface area of all exterior wall and roof planes open to the outdoors. When a portion of an outdoor place of assembly is enclosed to a greater extent, that portion shall comply with all of the requirements of this code applicable to indoor places of assembly.
 
 #### (b) Grandstands.
 
@@ -755,7 +757,7 @@ Motor vehicle parking spaces shall not be closer than twenty feet to any grandst
 
 ##### (1) DEFINITION.
 
-For the purposes of this section the stage in an [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) place of assembly shall be the area where the principal activity viewed by the audience takes place.
+For the purposes of this section the stage in an F-2 place of assembly shall be the area where the principal activity viewed by the audience takes place.
 
 ##### (2) CONSTRUCTION.
 
@@ -773,7 +775,7 @@ At least two exits, remote from each other, shall be available from every point 
 
 ##### (4) EMERGENCY CONTROL PANEL.
 
-In [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) places of assembly having an occupant load over one thousand persons, an emergency control panel shall be provided as follows:
+In F-2 places of assembly having an occupant load over one thousand persons, an emergency control panel shall be provided as follows:
 
 a. It shall be located so as to have a view of the audience and stage areas, and shall be readily accessible at all times during the presentation of a performance to an audience, to a competent person instructed in its use.
 
@@ -785,9 +787,9 @@ c. It shall be equipped with a public address system serving loudspeakers in the
 
 Drive-in theaters shall comply with the following:
 
-(1) Projection booths and projection machines shall comply with the requirements of [section 27-543](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-543) of article two of this subchapter. Motor vehicle parking spaces shall not be closer than twenty feet to any projection booth or machine.
+(1) Projection booths and projection machines shall comply with the requirements of [section 27-543](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-543-light-projection-sources) of article two of this subchapter. Motor vehicle parking spaces shall not be closer than twenty feet to any projection booth or machine.
 
-(2) Projection screens and supporting structures shall comply with the requirements of [section 27-544](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/8/places-of-assembly#§27-544) of article two of this subchapter and shall be designed in accordance with the requirements of subchapters nine and ten of this chapter as applied to signs. Motor vehicle parking spaces shall not be closer than twenty feet to any projection screen.
+(2) Projection screens and supporting structures shall comply with the requirements of [section 27-544](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%208/Places%20of%20Assembly#§27-544-motion-picture-screens) of article two of this subchapter and shall be designed in accordance with the requirements of subchapters nine and ten of this chapter as applied to signs. Motor vehicle parking spaces shall not be closer than twenty feet to any projection screen.
 
 (e) Amusement parks. Buildings and structures within amusement parks shall be constructed to conform with all of the requirements of this code governing the specific use and occupancy. Amusement devices shall not be placed in operation until they have been made to comply with the provisions of subchapter eighteen of this chapter.
 
@@ -795,22 +797,23 @@ Drive-in theaters shall comply with the following:
 
 ### **§27-549 General**
 
-The provisions of this section shall apply to all places of assembly classified in occupancy group [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) or [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) under the provisions of subchapter three of this chapter. [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) or [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) places of assembly shall comply with all the requirements of article two of this subchapter and the following:
+The provisions of this section shall apply to all places of assembly classified in occupancy group F-3 or F-4 under the provisions of subchapter three of this chapter. F-3 or F-4 places of assembly shall comply with all the requirements of article two of this subchapter and the following:
 
 #### (a) Stage requirements.
 
 ##### (1) With scenery and scenic elements.
 
-Where an [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) or [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) place of assembly provides a stage using scenery and scenic elements, the space shall comply with all of the requirements of this code applicable to F-1a places of assembly.
+Where an F-3 or F-4 place of assembly provides a stage using scenery and scenic elements, the space shall comply with all of the requirements of this code applicable to F-1a places of assembly.
 
 ##### (2) Without scenery and scenic elements.
 
-Where an [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) or [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) place of assembly provides a stage not using scenery or scenic elements, the space shall comply with all of the requirements of this code applicable to F-1b places of assembly.
+Where an F-3 or F-4place of assembly provides a stage not using scenery or scenic elements, the space shall comply with all of the requirements of this code applicable to F-1b places of assembly.
 
 ##### (3) Cabarets.
 
-In all [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) places of assembly used as a cabaret, the stage dressing rooms and property rooms shall be provided with automatic sprinkler and fire alarm protection in compliance with the provisions of subchapter seventeen of this chapter. Existing premises shall be required to conform with this requirement on or before January twelfth, nineteen hundred eighty.
+In all F-4 places of assembly used as a cabaret, the stage dressing rooms and property rooms shall be provided with automatic sprinkler and fire alarm protection in compliance with the provisions of subchapter seventeen of this chapter. Existing premises shall be required to conform with this requirement on or before January twelfth, nineteen hundred eighty.
 
 ##### (b) Retroactive provisions.
 
-On or before January twelfth, nineteen hundred eighty, all places of assembly providing entertainment or used as a cabaret within [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) or [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) occupancies shall be provided with automatic sprinkler and fire alarm protection to comply with the provisions of subchapter seventeen of this chapter.
+On or before January twelfth, nineteen hundred eighty, all places of assembly providing entertainment or used as a cabaret within F-3 or F-4occupancies shall be provided with automatic sprinkler and fire alarm protection to comply with the provisions of subchapter seventeen of this chapter.
+{"mode":"full","isActive":false}
