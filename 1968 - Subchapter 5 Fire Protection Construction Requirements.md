@@ -1,3 +1,5 @@
+# NYC 1968 Code (Vol I)
+
 # Subchapter 5 Fire Protection Construction Requirements
 
 ## **Article 1 General**
@@ -32,19 +34,19 @@ Samples of all materials or assemblies of materials required by this code to hav
 
 ### **§27-323 Requirements for Structural Members and Assemblies**
 
-The fire-resistance rating of construction assemblies and the protection of structural members shall comply with the requirements of [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4), based on the test procedures of reference standard RS 5-2, and their materials or combinations of materials shall be in accordance with the specifications of materials used in the test.
+The fire-resistance rating of construction assemblies and the protection of structural members shall comply with the requirements of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table), based on the test procedures of reference standard RS 5-2, and their materials or combinations of materials shall be in accordance with the specifications of materials used in the test.
 
 ### **§27-324 Protection of Structural Members**
 
-Columns, girders, trusses, beams, lintels, etc. that are required to be fire protected, and that support only one floor or a roof, and/or a non-bearing wall not more than one story high, shall be individually encased on all sides with materials having the required fire-resistance rating; or shall be protected by a ceiling as specified in [section 27-327](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-327) of this article having the required fire-resistance rating; or shall be protected by a combination of both a ceiling and individual encasement which, together, provide the required fire-resistance rating. Columns, girders, trusses, beams, lintels, etc. that are required to be fire protected, and that support more than one floor or support a bearing wall or wall more than one story high, shall be individually encased on all sides for their entire length or height with materials having the required fire-resistance rating. Trusses that support only two stories or one story and a roof may be fire protected by an envelope that encompasses the entire truss with materials of the required fire-resistance rating.
+Columns, girders, trusses, beams, lintels, etc. that are required to be fire protected, and that support only one floor or a roof, and/or a non-bearing wall not more than one story high, shall be individually encased on all sides with materials having the required fire-resistance rating; or shall be protected by a ceiling as specified in [section 27-327](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-327-ceilings) of this article having the required fire-resistance rating; or shall be protected by a combination of both a ceiling and individual encasement which, together, provide the required fire-resistance rating. Columns, girders, trusses, beams, lintels, etc. that are required to be fire protected, and that support more than one floor or support a bearing wall or wall more than one story high, shall be individually encased on all sides for their entire length or height with materials having the required fire-resistance rating. Trusses that support only two stories or one story and a roof may be fire protected by an envelope that encompasses the entire truss with materials of the required fire-resistance rating.
 
 #### (a) Embedments and enclosures.
 
-Pipes, wires, conduits, ducts, or other service facilities shall not be embedded in the required fire protection of a structural member that is required to be individually encased; except that pipes, wires, and conduits may be installed in the space between the required fire protection and the structural member protected, provided that where such facilities pierce the required fire protection, the area of the penetrations does not exceed two percent of the area of the fire protection on any one face, the penetrations are closed off with close-fitting metal escutcheons or plates and the concealed space shall be firestopped at each story in accordance with the provisions of [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345) of article five of this subchapter.
+Pipes, wires, conduits, ducts, or other service facilities shall not be embedded in the required fire protection of a structural member that is required to be individually encased; except that pipes, wires, and conduits may be installed in the space between the required fire protection and the structural member protected, provided that where such facilities pierce the required fire protection, the area of the penetrations does not exceed two percent of the area of the fire protection on any one face, the penetrations are closed off with close-fitting metal escutcheons or plates and the concealed space shall be firestopped at each story in accordance with the provisions of [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-345-firestopping) of article five of this subchapter.
 
 #### (b) Impact protection.
 
-Where the fire protective covering of a structural member is subject to impact damage from moving vehicles, the handling of merchandise, or other activity, the fire protective covering shall be protected by corner guards or by a substantial jacket of metal or other noncombustible material, to a height adequate to provide full protection. Where applicable, such protection shall be designed in accordance with the requirements of [section 27-558](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-558) of article three of subchapter nine of this chapter.
+Where the fire protective covering of a structural member is subject to impact damage from moving vehicles, the handling of merchandise, or other activity, the fire protective covering shall be protected by corner guards or by a substantial jacket of metal or other noncombustible material, to a height adequate to provide full protection. Where applicable, such protection shall be designed in accordance with the requirements of [section 27-558](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Loads#§27-558-live-loads-for-sidewalks-driveways-and-railings) of article three of subchapter nine of this chapter.
 
 #### (c) Structural members in cavity walls.
 
@@ -56,7 +58,7 @@ Minimum covering of prestressing steel shall comply with the requirements of ref
 
 #### (e) Exterior Exposed Structural Members.
 
-Structural members exposed to the outdoors on buildings that do not exceed two stories or thirty feet in height, which are required by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) to have a fire-resistance rating not exceeding one hour, need not be protected on any face of the member that has an exterior separation of thirty feet or more, provided the outdoor area within the thirty feet separation distance is not used for storage of materials, or for motor vehicle parking.
+Structural members exposed to the outdoors on buildings that do not exceed two stories or thirty feet in height, which are required by [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) to have a fire-resistance rating not exceeding one hour, need not be protected on any face of the member that has an exterior separation of thirty feet or more, provided the outdoor area within the thirty feet separation distance is not used for storage of materials, or for motor vehicle parking.
 
 #### (f) Inspection of fire protection.
 
@@ -72,7 +74,7 @@ Structural members or car frames for elevators located within shaft enclosures n
 
 ### **§27-326 Lintels**
 
-Lintels over openings wider than four feet in masonry walls, other than in walls of masonry veneer on wood frame structures, shall be fire protected as required by [section 27-324](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-324) of this article for structural members, when the full load over the opening is not relieved by a masonry arch of required strength. The members of an assembled metal lintel that support only outer face masonry that is securely bonded or anchored to backing need not be fire protected, provided that the inner members of the assembly support the full load imposed upon the lintel and are fire protected as required for structural members supporting masonry.
+Lintels over openings wider than four feet in masonry walls, other than in walls of masonry veneer on wood frame structures, shall be fire protected as required by [section 27-324](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-324-protection-of-structural-members) of this article for structural members, when the full load over the opening is not relieved by a masonry arch of required strength. The members of an assembled metal lintel that support only outer face masonry that is securely bonded or anchored to backing need not be fire protected, provided that the inner members of the assembly support the full load imposed upon the lintel and are fire protected as required for structural members supporting masonry.
 
 #### (a) Stone Lintels.
 
@@ -82,7 +84,7 @@ The use of stone lintels on spans exceeding four feet shall not be permitted unl
 
 #### (a) Ceilings that contribute to the required fire-resistance rating of a floor or roof assembly shall be continuous between exterior walls, vertical fire divisions, fire separations, corridor partitions or any other partitions having at least the same fire-resistance rating as the ceiling.
 
-All such fire-rated partitions shall be constructed as set forth in [section 27-340](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-340) or subdivision (a) of [section 27-341](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-341), as appropriate. The concealed space above such ceiling shall be firestopped into areas not exceeding three thousand square feet with materials listed in [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345) of this subchapter for the full height of the concealed space. Access to each such concealed space may be through one or more openings, not exceeding nine square feet and protected by self-closing opening protectives having the fire-protection rating required by [table 5-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-3).
+All such fire-rated partitions shall be constructed as set forth in [section 27-340](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-340-fire-divisions) or subdivision (a) of [section 27-341](section 27-340](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-341-fire-separations), as appropriate. The concealed space above such ceiling shall be firestopped into areas not exceeding three thousand square feet with materials listed in [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-345-firestopping) of this subchapter for the full height of the concealed space. Access to each such concealed space may be through one or more openings, not exceeding nine square feet and protected by self-closing opening protectives having the fire-protection rating required by [table 5-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-3-opening-protectives-for-fire-divisions-and-fire-separations).
 
 (1) Firestopping shall not be required where the structural members within the concealed space are individually protected with materials having the required fire-resistance rating, or where the ceiling is not an essential part of the fire-resistive assembly; nor shall firestopping be required where a concealed space is sprinklered in accordance with the construction requirements of subchapter seventeen of this chapter.
 
@@ -94,7 +96,7 @@ Ceilings required to have a fire-resistance rating may be pierced to accommodate
 
 #### (a) Material.
 
-Fire-retardant treated wood shall be pressure treated with fire retardant chemicals in accordance with reference standards RS 5-3 and RS 5-4. Where used as a structural element or as furring, the material shall have a flame spread rating not greater than twenty-five when tested in accordance with reference standard RS 5-5 when exposed for a period of at least thirty minutes, with no evidence of significant progressive combustion. Where used as interior finish or trim, the material shall have a flame spread rating that meets the requirements of [section 27-348](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-348) of this subchapter for the location in which it is used. Subsequent to treatment, material two inches thick or less shall be air dried or kiln dried to an average moisture content of not more than nineteen percent.
+Fire-retardant treated wood shall be pressure treated with fire retardant chemicals in accordance with reference standards RS 5-3 and RS 5-4. Where used as a structural element or as furring, the material shall have a flame spread rating not greater than twenty-five when tested in accordance with reference standard RS 5-5 when exposed for a period of at least thirty minutes, with no evidence of significant progressive combustion. Where used as interior finish or trim, the material shall have a flame spread rating that meets the requirements of [section 27-348](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-348-interior-finish) of this subchapter for the location in which it is used. Subsequent to treatment, material two inches thick or less shall be air dried or kiln dried to an average moisture content of not more than nineteen percent.
 
 #### (b) Label.
 
@@ -108,7 +110,7 @@ Fire-retardant treated wood may not be used where exposed to the weather or in i
 
 Fire-retardant treated wood may be used in buildings of construction group I in the following cases:
 
-(1) As permitted by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4).
+(1) As permitted by [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table).
 
 (2) For interior non-bearing partitions that are not required to have a fire-resistance rating.
 
@@ -132,19 +134,19 @@ Slow burning plastic shall be of a material that burns no faster than two and on
 
 ### **§27-331 Exterior Walls**
 
-Exterior walls shall comply with the fire-resistance rating requirements of [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4). Where provisions of this code require a space or facility to be enclosed, the construction requirements for the enclosure shall not apply to any exterior wall that forms part of the enclosure.
+Exterior walls shall comply with the fire-resistance rating requirements of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table). Where provisions of this code require a space or facility to be enclosed, the construction requirements for the enclosure shall not apply to any exterior wall that forms part of the enclosure.
 
 #### (a) Openings in exterior walls.
 
-In addition to the requirements of [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) and subchapters six and eight of this chapter, exterior openings above the third floor level of a building or above a height of forty feet, except buildings in occupancy group [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266), open parking structures, and buildings of construction classes II-D and II-E, shall have opening protectives when (1) any part of the opening is less than thirty feet distant in a direct unobstructed line not in the same plane, from an opening in another building or from a wood frame building or (2) any part of the opening is above and less than thirty feet in a direct unobstructed line from, any roof construction that has a fire-resistance rating of less than one hour or that has unprotected openings therein within this distance, whether the roof construction is on the same building or on an adjacent building.
+In addition to the requirements of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) and subchapters six and eight of this chapter, exterior openings above the third floor level of a building or above a height of forty feet, except buildings in occupancy group J-3, open parking structures, and buildings of construction classes II-D and II-E, shall have opening protectives when (1) any part of the opening is less than thirty feet distant in a direct unobstructed line not in the same plane, from an opening in another building or from a wood frame building or (2) any part of the opening is above and less than thirty feet in a direct unobstructed line from, any roof construction that has a fire-resistance rating of less than one hour or that has unprotected openings therein within this distance, whether the roof construction is on the same building or on an adjacent building.
 
 #### (b) Opening protective required ratings.
 
-In a building or space classified in occupancy group A, all opening protectives shall be three-quarter hour (class E) opening protectives meeting the requirements of reference standard RS 5-8. Such protectives shall be fixed self-closing or automatic. Alternatively, these openings may be protected with three-quarter hour (class F) protectives together with outside sprinklers installed in accordance with construction requirements of subchapter seventeen of this chapter. In such cases, there shall be an automatic dry pipe sprinkler head centered over each opening with the orifice directed against the opening. All opening protectives required by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) or by subdivision (a) above in buildings classified in other than occupancy group A shall be three-quarter hour (class F) openings.
+In a building or space classified in occupancy group A, all opening protectives shall be three-quarter hour (class E) opening protectives meeting the requirements of reference standard RS 5-8. Such protectives shall be fixed self-closing or automatic. Alternatively, these openings may be protected with three-quarter hour (class F) protectives together with outside sprinklers installed in accordance with construction requirements of subchapter seventeen of this chapter. In such cases, there shall be an automatic dry pipe sprinkler head centered over each opening with the orifice directed against the opening. All opening protectives required by [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) or by subdivision (a) above in buildings classified in other than occupancy group A shall be three-quarter hour (class F) openings.
 
 #### (c) First story openings.
 
-Opening protectives required by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) may be omitted in show windows or other openings on the lowest story of a building facing on a street or public space.
+Opening protectives required by [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) may be omitted in show windows or other openings on the lowest story of a building facing on a street or public space.
 
 #### (d) Nonautomatic protectives.
 
@@ -152,7 +154,7 @@ Required opening protectives in exterior openings, if not self-closing or automa
 
 #### (e) Construction of unprotected openings.
 
-Exterior windows and doors, including their frames and glazing, that are not required by this code to have a fire-protection rating, may be of combustible materials. Below a height of seventy-five feet, slow-burning plastic glazing may be used in windows. Glazing in balcony doors shall comply with the requirements of paragraph four of subdivision (g) of [section 27-369](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-369) of article five of subchapter six of this chapter.
+Exterior windows and doors, including their frames and glazing, that are not required by this code to have a fire-protection rating, may be of combustible materials. Below a height of seventy-five feet, slow-burning plastic glazing may be used in windows. Glazing in balcony doors shall comply with the requirements of paragraph four of subdivision (g) of [section 27-369](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%206/Means%20of%20Egress#§27-369-corridors) of article five of subchapter six of this chapter.
 
 #### (f) Vertical separation of openings.
 
@@ -172,9 +174,9 @@ A parapet need not be provided on the exterior wall of any building:
 
 (1) That is less than twenty-two feet high; or
 
-(2) Whose roof has a pitch of more than twenty degrees to the horizontal and whose overhang, fascia, cornice or gutter is of noncombustible construction, or if of combustible construction is separated from the roof and ceiling construction by construction having the fire-resistance rating required for the exterior wall of the building. Combustible members, excluding roof sheathing and its supporting members, if covered by a class A roof covering and complying with the restrictions as required by [section 27-335](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-335) of this article, shall not extend through this construction, but shall have at least four inches of solid noncombustible material below, at the sides, and at the ends of such members; or
+(2) Whose roof has a pitch of more than twenty degrees to the horizontal and whose overhang, fascia, cornice or gutter is of noncombustible construction, or if of combustible construction is separated from the roof and ceiling construction by construction having the fire-resistance rating required for the exterior wall of the building. Combustible members, excluding roof sheathing and its supporting members, if covered by a class A roof covering and complying with the restrictions as required by [section 27-335](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-335-exterior-trim) of this article, shall not extend through this construction, but shall have at least four inches of solid noncombustible material below, at the sides, and at the ends of such members; or
 
-(3) That is provided with a fire canopy at, or not more than two feet below the roof level, continuous around that portion of the wall that is without a parapet, constructed as required by subdivision (f) of [section 27-331](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-331) of this article.
+(3) That is provided with a fire canopy at, or not more than two feet below the roof level, continuous around that portion of the wall that is without a parapet, constructed as required by subdivision (f) of [section 27-331](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-331-exterior-walls) of this article.
 
 #### (b) Construction.
 
@@ -182,7 +184,7 @@ Parapets required under this section shall be of materials and assembly having a
 
 ### **§27-334 Protective Guards**
 
-Buildings that are more than twenty-two feet in height and have roofs that are flatter than twenty degrees to the horizontal shall be provided with a parapet not less than three feet six inches high, or be provided with a three foot six inch high railing or fence, or a combination of a parapet and railing or fence which together are not less than three feet six inches high. Railings or fences may be located inward from the face of the exterior wall a distance not exceeding six feet, and shall be of a type that will prevent children from crawling through or over them. Where roofs are used for recreational purposes, wire fencing at least ten feet high shall be constructed. Where ball games are played on roofs the wire fencing shall be extended to provide an overhead closure. Except on buildings of class II-D or II-E construction, railings or fences shall be of noncombustible material. Railings shall be constructed as required in [section 27-558](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-558) of article three of subchapter nine of this chapter.
+Buildings that are more than twenty-two feet in height and have roofs that are flatter than twenty degrees to the horizontal shall be provided with a parapet not less than three feet six inches high, or be provided with a three foot six inch high railing or fence, or a combination of a parapet and railing or fence which together are not less than three feet six inches high. Railings or fences may be located inward from the face of the exterior wall a distance not exceeding six feet, and shall be of a type that will prevent children from crawling through or over them. Where roofs are used for recreational purposes, wire fencing at least ten feet high shall be constructed. Where ball games are played on roofs the wire fencing shall be extended to provide an overhead closure. Except on buildings of class II-D or II-E construction, railings or fences shall be of noncombustible material. Railings shall be constructed as required in [section 27-558](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-558-live-loads-for-sidewalks-driveways-and-railings) of article three of subchapter nine of this chapter.
 
 ### **§27-335 Exterior Trim**
 
@@ -194,7 +196,7 @@ For the purposes of this section, exterior trim shall be defined as any material
 
 (2) May be used to a height of forty feet on buildings of construction classes II-A, II-B, and II-C provided that such trim covers not more than ten percent of the surface area of the building enclosure (openings not included), projects not more than eight inches beyond the outside face of the building enclosure, and has an exterior separation of at least fifteen feet measured from the outermost surface of the trim.
 
-EXCEPTION. Cornices, gutters, or overhanging roofs, when permitted, may project up to three feet beyond the outside face of the building enclosure if they are at least eight inches above the topmost opening, are firestopped as required by [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345) of article five of this suchapter and either:
+EXCEPTION. Cornices, gutters, or overhanging roofs, when permitted, may project up to three feet beyond the outside face of the building enclosure if they are at least eight inches above the topmost opening, are firestopped as required by [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-335-exterior-trim) of article five of this subchapter and either:
 
 1. have their combustible structural members protected by soffits and fascias of a material or assembly having at least a one hour fire-resistance rating, or
 2. have all their combustible members separated from the roof and ceiling construction by construction having the fire-resistance rating required for the exterior wall, with at least four inches of solid noncombustible material below, at the sides, and at the ends of such members;
@@ -221,15 +223,15 @@ EXCEPTION. Cornices, gutters, or overhanging roofs, when permitted, may project 
 
 4. such insulation has a flame spread rating not greater than twenty-five and a smoke developed rating not greater than four hundred fifty, and is covered with, and sealed or joined by, material having a flame spread rating not greater than twenty-five and a smoke developed rating not greater than fifty, when tested in accordance with the procedures of reference standard RS 5-5;
 
-5. such insulation is installed in a manner which meets the requirements for firestopping set forth in [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345);
+5. such insulation is installed in a manner which meets the requirements for firestopping set forth in [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-335-exterior-trim);
 
 6. upon exposure to fire, the exterior wall system and each of its components will not produce products of decomposition or combustion that are more toxic in point of concentration than those given off by wood or paper when decomposing or burning under comparable conditions;
 
-7. the structure on which the exterior wall system is installed meets the requirements of [section 27-331](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-331) pertaining to minimum horizontal and vertical separation distances; provided, however, that such insulation shall not be used on the exterior surface of a wall of a court or shaft if the horizontal or vertical separation distance between such wall and another wall of such court or shaft is less than twenty feet;
+7. the structure on which the exterior wall system is installed meets the requirements of [section 27-331](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-331-exterior-walls) pertaining to minimum horizontal and vertical separation distances; provided, however, that such insulation shall not be used on the exterior surface of a wall of a court or shaft if the horizontal or vertical separation distance between such wall and another wall of such court or shaft is less than twenty feet;
 
 8. the use of such insulation on soffits or other horizontal areas shall not extend more than three feet beyond the outside face of the building enclosure;
 
-9. the use of such insulation on buildings having party walls meets the requirements of [section 27-332](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-332);
+9. the use of such insulation on buildings having party walls meets the requirements of [section 27-332](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-332-party-walls);
 
 10. such insulation meets the acceptance requirements of section 27-131;
 
@@ -259,7 +261,7 @@ EXCEPTION. Cornices, gutters, or overhanging roofs, when permitted, may project 
 
 Porticos, entranceways, storm enclosures, bay windows, oriel windows, porches, or similar appendages may be constructed of combustible materials or assemblies on buildings of construction class II-E to an unlimited extent, and on buildings of construction classes II-A, II-B, II-C, and II-D under all of the following conditions:
 
-(a) The building is classified in occupancy group [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265) or [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266).
+(a) The building is classified in occupancy group J-2 or J-3.
 
 (b) The building is not more than three stories or forty feet high.
 
@@ -299,7 +301,7 @@ Combustible roof insulation may be applied on top of roof decking or slab provid
 
 #### (a) Construction of penthouses.
 
-Enclosure walls of penthouses shall comply with the requirements for exterior walls of [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) for the construction class of the building on which they are erected. Roofs of penthouses shall comply with the requirements for roof construction of [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) and [section 27-337](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-337) of article five of subchapter six of this chapter.
+Enclosure walls of penthouses shall comply with the requirements for exterior walls of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) for the construction class of the building on which they are erected. Roofs of penthouses shall comply with the requirements for roof construction of [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) and [section 27-337](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-337-roof-coverings) of article five of subchapter six of this chapter.
 
 #### (b) Construction of bulkheads.
 
@@ -331,7 +333,7 @@ Skylights in all locations other than over stairways and shafts shall be glazed 
 
 Plastic used for the glazing of skylights other than skylights over stairways and shafts shall be slow burning plastic. The aggregate area of skylight openings, other than over stairways and shafts, shall not exceed thirty-nine per cent of the floor area of any room or space sheltered by the roof in which they are located. The edges of plastic, if exposed, shall be protected by metal or other noncombustible material. Skylights in which plastic is used, if on roofs having a pitch of twenty degrees to the horizontal or less, shall be constructed in accordance with the following:
 
-1. The area within the curbs of each skylight shall not exceed five square feet, except that this area may be of any size, limited only by other provisions of this section,if the opening is protected on all sides by a noncombustible railing thirty-six inches in height complying with the provisions of [section 27-558](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-558) of article three of subchapter nine of this chapter for railings; or the skylight is subdivided into areas of five square feet or less by noncombustible muntins or bars capable of supporting a live load of three hundred pounds at any point; or a noncombustible screen or grid capable of supporting a load of three hundred pounds over any one foot by two foot area as provided above, integral with, or not more than three feet below the skylight, with the wire or bars spaced into areas of five square feet or less (if above the roof, the wires shall be of corrosion resistive metal).
+1. The area within the curbs of each skylight shall not exceed five square feet, except that this area may be of any size, limited only by other provisions of this section,if the opening is protected on all sides by a noncombustible railing thirty-six inches in height complying with the provisions of [section 27-558](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-558-live-loads-for-sidewalks-driveways-and-railings) of article three of subchapter nine of this chapter for railings; or the skylight is subdivided into areas of five square feet or less by noncombustible muntins or bars capable of supporting a live load of three hundred pounds at any point; or a noncombustible screen or grid capable of supporting a load of three hundred pounds over any one foot by two foot area as provided above, integral with, or not more than three feet below the skylight, with the wire or bars spaced into areas of five square feet or less (if above the roof, the wires shall be of corrosion resistive metal).
 2. There shall be a minimum clear distance of three feet between skylights.
 
 ##### (3) SEPARATION OF SKYLIGHTS FROM STRUCTURES.
@@ -344,7 +346,7 @@ Plain glass skylights shall be protected on their underside by noncombustible sc
 
 #### (e) Greenhouses.
 
-Greenhouses on the roofs of buildings other than buildings of construction class II-D or II-E shall be constructed of noncombustible framework and shall be glazed with plain or wire glass, or slow burning plastic. The floors of greenhouses shall be constructed at least as required for roof construction in [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4) for the construction class of the building on which it is located.
+Greenhouses on the roofs of buildings other than buildings of construction class II-D or II-E shall be constructed of noncombustible framework and shall be glazed with plain or wire glass, or slow burning plastic. The floors of greenhouses shall be constructed at least as required for roof construction in [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table) for the construction class of the building on which it is located.
 
 #### (f) Construction of sloping roofs.
 
@@ -390,16 +392,16 @@ The following roof structures may be constructed of combustible material if less
 
 ## **Article 5 Prevention of Interior Fire Spread**
 
-#### **[TABLE 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1) FIRE SEPARATIONS**
+#### **TABLE 5-1 FIRE SEPARATIONS**
 
-Key: Fire-resistance ratings are given in hours. For [Table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1), read above heavy line. For [Table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2), read below heavy line
+Key: Fire-resistance ratings are given in hours. For [Table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations), read above heavy line. For [Table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions), read below heavy line
 NR—No Requirement
 
  ![image-20210524132024964](C:\Users\chris\AppData\Roaming\Typora\typora-user-images\image-20210524132024964.png)
 
-#### **[TABLE 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2) FIRE DIVISIONS**
+#### **TABLE 5-2 FIRE DIVISIONS**
 
-NOTES FOR [TABLES 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1) AND 5-2
+NOTES FOR [TABLES 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations) AND 5-2
 
 (a) An office, or group of offices, whose use is accessory to an occupancy, and totals four hundred square feet or less in area shall not be required to have a fire separation. Such office, or group of offices, totalling more than four hundred square feet in area shall not be required to have a fire separation if such offices exit directly, without having to pass through the area of the related occupancy.
 
@@ -413,9 +415,9 @@ NOTES FOR [TABLES 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1
 2. 2* draft curtain of noncombustible material, at least twenty-four inches down from the ceiling, is provided to separate the cooking facilities from dining spaces, and
 3. Sprinkler heads constructed in accordance with the provisions of subchapter seventeen of this chapter, are provided on the cooking facilities side of the curtain, or any opening between the kitchen and dining space, located within twenty-four inches of the curtain or opening, and spaced not more than forty-eight inches on centers if the opening is more than sixty inches wide. When fire separations are provided double-action doors may be permitted.
 
-(e) Kitchens having a floor area of fifty-nine square feet or less located within dwelling units shall be separated from adjacent spaces by partitions having a fire-resistance rating of at least one hour except for the entrances thereto which need [not]** comply with [section 27-342](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-342) of this article. If doors are provided they may be of wood.
+(e) Kitchens having a floor area of fifty-nine square feet or less located within dwelling units shall be separated from adjacent spaces by partitions having a fire-resistance rating of at least one hour except for the entrances thereto which need [not]** comply with [section 27-342](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-342-openings-in-fire-divisions-and-separations) of this article. If doors are provided they may be of wood.
 
-(f) In buildings or spaces classified in occupancy group [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264) or [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265) all partitions in dwelling units located in cellars shall have a minimum fire-resistance rating of one hour.
+(f) In buildings or spaces classified in occupancy group J-1 or J-2 all partitions in dwelling units located in cellars shall have a minimum fire-resistance rating of one hour.
 
 *As enacted; "A" probably intended.
 **Copy in brackets not enacted but probably intended.
@@ -424,17 +426,17 @@ NOTES FOR [TABLES 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1
 
 #### (a) Segregation by fire divisions.
 
-When different occupancies are to be segregated by fire divisions under the provisions of [section 27-240](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-240) of subchapter three of this chapter, the occupancies shall be separated from each other, vertically and horizontally, by fire divisions having at least the fire-resistance ratings listed in [table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2) for the occupancy groups involved. Every building section shall be constructed of elements having at least the fire-resistance rating of a construction class required for the area and height of the building section as listed in tables 4-1 and 4-2.
+When different occupancies are to be segregated by fire divisions under the provisions of [section 27-240](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-340-fire-divisions) of subchapter three of this chapter, the occupancies shall be separated from each other, vertically and horizontally, by fire divisions having at least the fire-resistance ratings listed in [table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions) for the occupancy groups involved. Every building section shall be constructed of elements having at least the fire-resistance rating of a construction class required for the area and height of the building section as listed in tables 4-1 and 4-2.
 
 ##### (b) Segregation by fire separations.
 
-When different spaces are to be segregated by fire separations under the provisions of [section 27-240](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-240) of subchapter three of this chapter, the occupancies shall be separated from each other, vertically and horizontally, by fire separations having at least the fire-resistance ratings listed in [table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1). In buildings of construction group I, fire separations shall be constructed of noncombustible materials.
+When different spaces are to be segregated by fire separations under the provisions of [section 27-240](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-340-fire-divisions) of subchapter three of this chapter, the occupancies shall be separated from each other, vertically and horizontally, by fire separations having at least the fire-resistance ratings listed in [table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1). In buildings of construction group I, fire separations shall be constructed of noncombustible materials.
 
-(For [Tables 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1) and 5-2 see [chapter 839](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/14/heating-and-combustion-equipment#§27-839) of the laws of 1986)
+(For [Tables 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations) and 5-2 see chapter 839 of the laws of 1986)
 
-Key: Fire-resistance ratings are given in hours. For [Table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1), read above heavy line. For [Table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2), read below heavy line. NR means No requirement.
+Key: Fire-resistance ratings are given in hours. For [Table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations), read above heavy line. For [Table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions), read below heavy line. NR means No requirement.
 
-NOTES FOR [TABLES 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1) AND 5-2
+NOTES FOR [TABLES 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations) AND 5-2
 
 a. An office, or group of offices, whose use is accessory to an occupancy, and totals four hundred square feet or less in area shall not be required to have a fire separation. Such office, or group of offices, totalling more than four hundred square feet in area shall not be required to have a fire separation if such offices exit directly, without having to pass through the area of the related occupancy.
 
@@ -450,9 +452,9 @@ d. Nonresidential kitchens need not be separated by fire separations from adjoin
 
 3. Sprinkler heads constructed in accordance with the provisions of subchapter seventeen of this chapter, are provided on the cooking facilities side of the curtain, or any opening between the kitchen and dining space, located within twenty-four inches of the curtain or opening, and spaced not more than forty-eight inches on centers if the opening is more than sixty inches wide. When fire separations are provided double-action doors may be permitted.
 
-e. Kitchens having a floor area of fifty-nine square feet or less located within dwelling units shall be separated from adjacent spaces by partitions having a fire-resistance rating of at least one hour except for the entrances thereto which need comply with [section 27-342](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-342) of this article. If doors are provided they may be of wood.
+e. Kitchens having a floor area of fifty-nine square feet or less located within dwelling units shall be separated from adjacent spaces by partitions having a fire-resistance rating of at least one hour except for the entrances thereto which need comply with [section 27-342](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-342-openings-in-fire-divisions-and-separations) of this article. If doors are provided they may be of wood.
 
-f. In buildings or spaces classified in occupancy group [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264) or [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265) all partitions in dwelling units located in cellars shall have a minimum fire-resistance rating of one hour.
+f. In buildings or spaces classified in occupancy group J-1 or J-2 all partitions in dwelling units located in cellars shall have a minimum fire-resistance rating of one hour.
 
 ##### (c) Compartmentation.
 
@@ -460,9 +462,9 @@ Notwithstanding the provisions of table 4-1, in existing office buildings one hu
 
 1. Unless otherwise provided below, all unsprinklered floor areas shall be segregated by one-hour fire separations into spaces or compartments not to exceed seventy-five hundred square feet.
 
-2. Where the floor area exceeds ten thousand square feet, at least one of the subdividing fire separations shall be of two-hour fire-resistive construction, creating areas of refuge, complying with [section 27-372](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-372) of article five of subchapter six of this code except that the requirement for an elevator in each area shall not apply.
+2. Where the floor area exceeds ten thousand square feet, at least one of the subdividing fire separations shall be of two-hour fire-resistive construction, creating areas of refuge, complying with [section 27-372](dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%20/Means%20of%20Egress#§27-372-area-of-refuge) of article five of subchapter six of this code except that the requirement for an elevator in each area shall not apply.
 
-3. The floor area or any subdivided area may be increased to not more than fifteen thousand square feet if complete area protection by approved devices for the detection of products of combustion other than heat is provided within such increased area and provided further than at least one of the subdividing fire separations shall be of two-hour fire-resistive construction where the floor area exceeds fifteen thousand square feet, creating areas of refuge in the same manner and under the same conditions as provided in two of this subdivision. The activation of any such detectors shall have the same effect as provided in subdivision (f) of [section 27-972](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/17/fire-alarm-detection-and-extinguishing-equipment#§27-972) of article five of subchapter seventeen of this code.
+3. The floor area or any subdivided area may be increased to not more than fifteen thousand square feet if complete area protection by approved devices for the detection of products of combustion other than heat is provided within such increased area and provided further than at least one of the subdividing fire separations shall be of two-hour fire-resistive construction where the floor area exceeds fifteen thousand square feet, creating areas of refuge in the same manner and under the same conditions as provided in two of this subdivision. The activation of any such detectors shall have the same effect as provided in subdivision (f) of section 27-972 of article five of subchapter seventeen of this code.
 
 4. In existing buildings, existing fire separations of one-hour fire-resistive construction may be accepted in lieu of the fire separation of two hour fire-resistive construction providing all other requirements of paragraphs two and three of this subdivision are complied with.
 
@@ -484,13 +486,13 @@ Notwithstanding the provisions of table 4-1, in existing office buildings one hu
 
 ### **§27-340 Fire Divisions**
 
-Fire divisions shall be constructed of non-combustible materials or assembly of noncombustible materials to provide the fire-resistance ratings required by [table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2). Vertical fire divisions shall be continuous between foundation, roof, or horizontal fire divisions, and through any concealed space in floor or roof construction. Horizontal fire divisions shall be continuous between exterior walls and/or vertical fire divisions.
+Fire divisions shall be constructed of non-combustible materials or assembly of noncombustible materials to provide the fire-resistance ratings required by [table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions). Vertical fire divisions shall be continuous between foundation, roof, or horizontal fire divisions, and through any concealed space in floor or roof construction. Horizontal fire divisions shall be continuous between exterior walls and/or vertical fire divisions.
 
 (a) When roof construction is combustible on both sides of a vertical fire division, the vertical fire division shall extend through the roof construction to a height of at least four inches above the high point at the roof framing. Decking shall tightly butt the fire division. Above the decking of roofs that are flatter than twenty degrees to the horizontal, blocking shall be constructed to form cants on both sides of the fire division with slopes not steeper than 1:4. Combustible decking shall not extend over the top of the fire division.
 
 (b) Except as required in subdivision (c) of this section, when roof construction is noncombustible on one or both sides of a vertical fire division, the vertical fire division may terminate at the underside of the noncombustible roof construction provided the junction of the wall and roof construction is made smoke tight.
 
-(c) When a vertical fire division is required by [table 5-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-2) to have a fire-resistance rating of three or four hours, and the roof construction has a fire-resistance rating of less than two hours, the fire division shall extend above the roof construction to form a parapet at least three feet high.
+(c) When a vertical fire division is required by [table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions) to have a fire-resistance rating of three or four hours, and the roof construction has a fire-resistance rating of less than two hours, the fire division shall extend above the roof construction to form a parapet at least three feet high.
 
 (d) Fire divisions shall be so constructed that the removal or collapse of construction on one side will not endanger the support of construction on the other side.
 
@@ -506,19 +508,19 @@ Fire divisions shall be constructed of non-combustible materials or assembly of 
 
 ### **§27-341 Fire Separations**
 
-Fire separations shall be constructed of materials or assembly of materials having at least the fire-resistance ratings required by [table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1).
+Fire separations shall be constructed of materials or assembly of materials having at least the fire-resistance ratings required by [table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations).
 
-(a) Different tenancies. Different tenant apartments, suites, stores, offices, or other spaces that are not separated from each other by fire divisions, shall be separated from each other by fire separations having at least the fire-resistance rating prescribed in [table 5-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-1), but in no case less than one hour, and shall continue through any concealed spaces of the floor or roof construction above.
+(a) Different tenancies. Different tenant apartments, suites, stores, offices, or other spaces that are not separated from each other by fire divisions, shall be separated from each other by fire separations having at least the fire-resistance rating prescribed in [table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations), but in no case less than one hour, and shall continue through any concealed spaces of the floor or roof construction above.
 
 ### **§27-342 Openings in Fire Divisions and Separations**
 
-Openings in fire divisions and fire separations that are required to have a fire-resistance rating, shall be protected by opening protectives having the fire-resistance ratings prescribed in [table 5-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-3), shall not exceed the limits in size and area herein prescribed, and shall comply with the provisions of [section 27-329](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-329) of article three of this subchapter. Door and other openings in enclosures of vertical exits, exit passageways, corridors, and places of assembly shall be protected by opening protectives as required by the provisions of subchapters six and eight of this chapter. When such enclosures also serve as fire divisions or fire separations, openings therein shall be protected as required by the provisions of this subchapter.
+Openings in fire divisions and fire separations that are required to have a fire-resistance rating, shall be protected by opening protectives having the fire-resistance ratings prescribed in [table 5-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-3-opening-protectives-for-fire-divisions-and-fire-separations), shall not exceed the limits in size and area herein prescribed, and shall comply with the provisions of [section 27-329](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-329-opening-protectives) of article three of this subchapter. Door and other openings in enclosures of vertical exits, exit passageways, corridors, and places of assembly shall be protected by opening protectives as required by the provisions of subchapters six and eight of this chapter. When such enclosures also serve as fire divisions or fire separations, openings therein shall be protected as required by the provisions of this subchapter.
 
-(a) Size of opening. In buildings that are not sprinklered no opening through a fire division or fire separation shall exceed one hundred twenty square feet in area, with no dimension greater than twelve feet, and the aggregate width of all openings at any level shall not exceed twenty-five percent of the length of the wall. Where the areas on both sides of a fire division or fire separation are sprinklered in accordance with the construction provisions of subchapter seventeen of this chapter, the size of the opening may be one hundred fifty square feet in area, with no dimension greater than fifteen feet. In buildings fully sprinklered in compliance with the provisions of subchapter seventeen of ths chapter, the size and aggregate width of openings through fire divisions or fire separations shall be unlimited. When a fire division or fire separation serves as a horizontal exit also, it shall have no opening other than door openings not exceeding fifty-six square feet in area, the aggregate width of all openings at any level shall not exceed twenty-five percent of the length of the wall, and shall comply with the provisions of [section 27-373](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-373) of article five of subchapter six of this chapter.
+(a) Size of opening. In buildings that are not sprinklered no opening through a fire division or fire separation shall exceed one hundred twenty square feet in area, with no dimension greater than twelve feet, and the aggregate width of all openings at any level shall not exceed twenty-five percent of the length of the wall. Where the areas on both sides of a fire division or fire separation are sprinklered in accordance with the construction provisions of subchapter seventeen of this chapter, the size of the opening may be one hundred fifty square feet in area, with no dimension greater than fifteen feet. In buildings fully sprinklered in compliance with the provisions of subchapter seventeen of this chapter, the size and aggregate width of openings through fire divisions or fire separations shall be unlimited. When a fire division or fire separation serves as a horizontal exit also, it shall have no opening other than door openings not exceeding fifty-six square feet in area, the aggregate width of all openings at any level shall not exceed twenty-five percent of the length of the wall, and shall comply with the provisions of [section 27-373](dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%20/Means%20of%20Egress#§27-373-horizontal-exits) of article five of subchapter six of this chapter.
 
 (b) Conveyor openings. Where fire doors or shutters are impractical for the protection of conveyor openings in fire divisions or fire separations, a system of water spray nozzles may be used. At least four nozzles shall be provided on each side of the opening so as to give complete coverage of the opening. Nozzles shall be controlled by an automatic valve actuated by a heat detector. Nozzles shall be located at an angle not more than thirty degrees between the centerline of nozzle discharge and a line perpendicular to the plane of the opening. The water discharge rate shall be at least three gallons per square foot per minute. When conveyor openings through floors are protected by this method, the openings shall also be provided with a noncombustible enclosure constructed around the conveyor from the floor up to or slightly beyond the spray nozzles, and draft curtains shall be provided extending twenty-four inches below and around the floor opening.
 
-#### **[TABLE 5-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-3) OPENING PROTECTIVES FOR FIRE DIVISIONS AND FIRE SEPARATIONS**
+#### **TABLE 5-3 OPENING PROTECTIVES FOR FIRE DIVISIONS AND FIRE SEPARATIONS**
 
 | Fire-Resistance Rating of Fire Division or Fire Separation in which Opening Occurs (hr.) | Fire Protection Rating of Opening Protective |
 | ------------------------------------------------------------ | -------------------------------------------- |
@@ -526,32 +528,31 @@ Openings in fire divisions and fire separations that are required to have a fire
 | 2 or 1 1/2                                                   | 1 1/2 hr. (Class B)                          |
 | 1                                                            | 3/4 hr. (Class C)                            |
 
-
-*** Notes for [Table 5-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-3):**
+*** Notes for Table 5-3:**
 Shall consist of two one and one-half hour (class B) opening protectives, with one protective installed on each face of a fire division or fire separation.
 
 ### **§27-343 Ducts, Pipes and Conduits Through Rated Construction**
 
 (a) Installation of ducts which pass through construction required to have a fire-resistance rating shall comply with the requirements of subchapter thirteen, provided that, notwithstanding the provisions of subchapter thirteen or reference standard RS 13-1, noncombustible ducts which pass through construction required to have a fire-resistance rating of one hour must be provided with fire dampers unless:
 
-1. The building is classified in occupancy group C, E, or [H-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-262); and
+1. The building is classified in occupancy group C, E, or H-2; and
 2. Complete sprinkler protection is provided for the floor in accordance with subchapter seventeen; or
 3. The openings for the ventilation ducts do not exceed three square feet in area; or
 4. The duct is protected on both sides of the partition for a distance equal to the maximum duct dimension by a sleeve affording one hour fire separation for such horizontal distance.
 
-(b) Noncombustible pipes and conduits. Noncombustible pipes and conduits may pass through construction required to have a fire-resistance rating provided that the space between the pipe or conduit and its sleeve or opening does not exceed one-half inch and is completely packed with mineral wool or equivalent noncombustible material and is closed off by close-fitting metal escutcheons on both sides of the construction; and provided further that the aggregate net area of such openings does not exceed twenty-five square inches in any one hundred square feet of wall or floor area (excluding the areas of openings for sleeves which are firestopped in conformance with this section and [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345)).
+(b) Noncombustible pipes and conduits. Noncombustible pipes and conduits may pass through construction required to have a fire-resistance rating provided that the space between the pipe or conduit and its sleeve or opening does not exceed one-half inch and is completely packed with mineral wool or equivalent noncombustible material and is closed off by close-fitting metal escutcheons on both sides of the construction; and provided further that the aggregate net area of such openings does not exceed twenty-five square inches in any one hundred square feet of wall or floor area (excluding the areas of openings for sleeves which are firestopped in conformance with this section and [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-329-opening-protectives)).
 
-(c) Openings for passage of pipe and ducts whose aggregate net area exceeds twenty-five square inches in any one hundred square feet of wall or floor area (excluding opening for sleeves which are firestopped in conformance with this section and [section 27-345](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-345)) may pierce constructions required to have a fire-resistance rating only when the type of construction to be used has been tested with such types of facilities installed in place and the proportionate area of openings of such facilities to be installed in the construction does not exceed the proportionate area of openings in the assembly tested, and provided no opening is larger than that in the assembly tested. Protection of such openings shall be the same as provided in the test. All openings through hollow fire rated construction shall be sleeved with sheet metal least No. 14 U.S. std. gage thick.
+(c) Openings for passage of pipe and ducts whose aggregate net area exceeds twenty-five square inches in any one hundred square feet of wall or floor area (excluding opening for sleeves which are firestopped in conformance with this section and [section 27-345](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-329-opening-protectives)) may pierce constructions required to have a fire-resistance rating only when the type of construction to be used has been tested with such types of facilities installed in place and the proportionate area of openings of such facilities to be installed in the construction does not exceed the proportionate area of openings in the assembly tested, and provided no opening is larger than that in the assembly tested. Protection of such openings shall be the same as provided in the test. All openings through hollow fire rated construction shall be sleeved with sheet metal least No. 14 U.S. std. gage thick.
 
 (d) The installation and proper functioning of required fire dampers shall be subject to the controlled inspection requirements of section 27-132 of this code, except that it shall not be required that the architect or engineer be in the employ of the owner.
 
 ### **§27-344 Shafts**
 
-The requirements of this section shall apply to all shafts, except that floor openings accommodating a slide pole in a fire house and openings other than for ventilation, chimneys or gas vents in buildings three stories or less in height classified in occupancy group [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266) shall be exempt from these requirements, and except as more restrictive requirements may be specified for chimneys and gas vents in subchapter fifteen of this chapter, stairway enclosures in subchapter six, duct enclosures in subchapter thirteen, elevator, escalator, and dumbwaiter enclosures in subchapter eighteen of this chapter, and except as permitted in reference standard RS 5-18.
+The requirements of this section shall apply to all shafts, except that floor openings accommodating a slide pole in a fire house and openings other than for ventilation, chimneys or gas vents in buildings three stories or less in height classified in occupancy group J-3 shall be exempt from these requirements, and except as more restrictive requirements may be specified for chimneys and gas vents in subchapter fifteen of this chapter, stairway enclosures in subchapter six, duct enclosures in subchapter thirteen, elevator, escalator, and dumbwaiter enclosures in subchapter eighteen of this chapter, and except as permitted in reference standard RS 5-18.
 
 #### (a) Construction.
 
-Shafts shall be enclosed with materials having at least fire-resistance rating required by [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4). A shaft that serves the topmost story of a building shall extend through the roof at least thirty-six inches above any combustible roof construction. Where the roof construction is of noncombustible materials, the shaft shall extend through any concealed space within the roof construction and may terminate at the underside of the roof deck. Pipes and ducts penetrating shaft construction shall comply with the requirements of [section 27-343](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-343) of this article.
+Shafts shall be enclosed with materials having at least fire-resistance rating required by [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table). A shaft that serves the topmost story of a building shall extend through the roof at least thirty-six inches above any combustible roof construction. Where the roof construction is of noncombustible materials, the shaft shall extend through any concealed space within the roof construction and may terminate at the underside of the roof deck. Pipes and ducts penetrating shaft construction shall comply with the requirements of [section 27-343](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-343-ducts-pipes-and-conduits-through-rated-construction) of this article.
 
 #### (b) Combustible Contents.
 
@@ -559,7 +560,7 @@ Shafts shall be kept free of bookstacks or other combustible contents except for
 
 #### (c) Openings in shafts.
 
-All shaft openings below the top terminus shall be provided with opening protectives that comply with [section 27-329](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-329) of this subchapter and [table 5-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#table_5-3). In shafts that contain only one opening below the roof terminus, no opening protective need be provided. Openings in elevator and dumbwaiter shafts shall comply only with the requirements of subchapter eighteen of this chapter. Where a window is located in a shaft wall that is an exterior wall and is ten stories or less above grade or three stories or less above a roof, it shall be protected against entrance by a permanently secured grille consisting of 5/8 in. dia. bars, 10 in. o. c. vertically, or by a stationary metal sash window having 1/8 in. thick solid section steel muntins, 8 in. o. c. one way. This protection shall not be required in stair shafts where there is a stair landing or platform not more than three feet directly below the window sill.
+All shaft openings below the top terminus shall be provided with opening protectives that comply with [section 27-329](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-329-opening-protectives) of this subchapter and [table 5-3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-3-opening-protectives-for-fire-divisions-and-fire-separations). In shafts that contain only one opening below the roof terminus, no opening protective need be provided. Openings in elevator and dumbwaiter shafts shall comply only with the requirements of subchapter eighteen of this chapter. Where a window is located in a shaft wall that is an exterior wall and is ten stories or less above grade or three stories or less above a roof, it shall be protected against entrance by a permanently secured grille consisting of 5/8 in. dia. bars, 10 in. o. c. vertically, or by a stationary metal sash window having 1/8 in. thick solid section steel muntins, 8 in. o. c. one way. This protection shall not be required in stair shafts where there is a stair landing or platform not more than three feet directly below the window sill.
 
 #### (d) Smoke venting of closed shafts.
 
@@ -597,7 +598,7 @@ Concealed spaces within stair construction shall be firestopped between stringer
 
 #### (d) Ceiling spaces.
 
-Floor or roof assemblies required to have a fire-resistance rating shall have any concealed spaces therein firestopped in accordance with [section 27-327](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-327) of this subchapter.
+Floor or roof assemblies required to have a fire-resistance rating shall have any concealed spaces therein firestopped in accordance with [section 27-327](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-327-ceilings) of this subchapter.
 
 #### (e) Exterior cornices.
 
@@ -617,7 +618,7 @@ The installation of all required firestopping shall be subject to the controlled
 
 ### **§27-346 Partitions and Furring**
 
-In buildings of construction group I, partitions and furring shall be constructed of noncombustible materials, except that nonbearing partitions that are not required to have a fire-resistance rating, and furring may be constructed of fire retardant treated wood as provided in subdivision (d) of [section 27-328](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-328) of article three of this subchapter, and except that such partitions and furring, may be constructed of combustible materials in spaces classified in occupancy group E, [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265), or [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266), provided the following conditions are met:
+In buildings of construction group I, partitions and furring shall be constructed of noncombustible materials, except that nonbearing partitions that are not required to have a fire-resistance rating, and furring may be constructed of fire retardant treated wood as provided in subdivision (d) of [section 27-328](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-328-fire-retardant-treated-wood) of article three of this subchapter, and except that such partitions and furring, may be constructed of combustible materials in spaces classified in occupancy group E, J-2, or J-3, provided the following conditions are met:
 
 (a) the space containing the combustible partitions does not exceed five thousand square feet in area within a noncombustible enclosure having a fire-resistance rating of at least one hour.
 
@@ -631,11 +632,11 @@ Folding partitions shall not be used as partitions that are required by this cod
 
 #### (a) Construction group I.
 
-In buildings of construction group I, folding partitions may be used if they are constructed of noncombustible materials, or of fire retardant treated wood, or are constructed of non-combustible frame covered with fabric that has a class A interior finish rating. Where partitions of combustible materials are permitted by [section 27-346](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-346) of this article, folding partitions may also be constructed of combustible materials. Where doors constructed of materials having a class C interior finish rating are permitted by [section 27-348](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-348) of this article, folding doors may be constructed of combustible materials.
+In buildings of construction group I, folding partitions may be used if they are constructed of noncombustible materials, or of fire retardant treated wood, or are constructed of non-combustible frame covered with fabric that has a class A interior finish rating. Where partitions of combustible materials are permitted by [section 27-346](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-346-partitions-and-furring) of this article, folding partitions may also be constructed of combustible materials. Where doors constructed of materials having a class C interior finish rating are permitted by [section 27-348](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-348-interior-finish) of this article, folding doors may be constructed of combustible materials.
 
 #### (b) Construction group II.
 
-In buildings of construction group II, folding partitions may be constructed of combustible materials, surfaced with interior finish materials meeting the requirements of [section 27-348](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-348) of this article.
+In buildings of construction group II, folding partitions may be constructed of combustible materials, surfaced with interior finish materials meeting the requirements of [section 27-348](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-348-interior-finish) of this article.
 
 ### **§27-348 Interior Finish**
 
@@ -656,13 +657,11 @@ Interior finish materials shall be classified in accordance with the surface fla
 | C                     | 76 to 225           |
 | D                     | Over 225            |
 
-
-
 #### (c) Requirements.
 
 Interior finishes and exposed structural or construction materials shall have a flame-spread rating not greater than that designated by the class prescribed for the various occupancy groups in which they are used, as listed in table 5-4. Exceptions to these requirements are:
 
-1. Finish flooring and floor coverings, which are subject to the requrements of [section 27-351](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-351).
+1. Finish flooring and floor coverings, which are subject to the requirements of [section 27-351](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-351-finish-flooring-and-floor-coverings).
 2. Wall coverings and coatings that are less than 0.036 in total thickness, when applied directly to a noncombustible, or fire-retardant treated wood, substrate.
 3. Exposed structural members and planking in buildings of class II-A construction, which may be left exposed in any room or space, except in exits.
 4. Twenty per cent (20%) of the aggregate wall and ceiling area of any room, space, or corridor required to have a class A or B rating may be finished with materials having a class C rating. This allowance shall include the area of doors, folding partitions, windows, glazing, skylights, luminous ceilings, trim, bases, chair rails, panels, moldings, etc. This exception shall not operate as a waiver of other requirements of this code relating to opening protectives.
@@ -677,7 +676,7 @@ No material shall be used for interior finish in the following locations if the 
 | Location or Occupancy                                        | Smoke Developed Rating |
 | ------------------------------------------------------------ | ---------------------- |
 | Exits, Corridors                                             | 25                     |
-| Occupancy groups [H-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-261) and [H-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-262) | 50                     |
+| Occupancy groups H-1 and H-2                                 | 50                     |
 | Rooms in which the net floor area per occupant is ten square feet, or less | 100                    |
 
 
@@ -694,24 +693,24 @@ No material shall be used in any interior location that, upon exposure to fire w
 
 #### *** TABLE 5-4 INTERIOR FINISH REQUIREMENTS CLASS**
 
-| Occupancy Group Classification of the Space | Occupancy Group Designation                                  | Exits and Shafts | Corridors(b) | Rooms More Than 1500 Sq. Ft. in Area(a) | Rooms Less Than 1500Sq. Ft. in Area(a), (d) |
-| ------------------------------------------- | ------------------------------------------------------------ | ---------------- | ------------ | --------------------------------------- | ------------------------------------------- |
-| High Hazard                                 | A                                                            | A                | A            | B                                       | B                                           |
-| Storage                                     | [B-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-246) | A                | A            | B                                       | C                                           |
-| Storage                                     | [B-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-247) | A                | B            | B(c)                                    | C                                           |
-| Mercantile                                  | C                                                            | A                | B            | B(c)                                    | C                                           |
-| Industrial                                  | [D-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-250) | A                | A            | B                                       | C                                           |
-| Industrial                                  | [D-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-251) | A                | B            | B(c)                                    | C                                           |
-| Business                                    | E                                                            | A                | B            | C                                       | C                                           |
-| Assembly                                    | F-1(a)                                                       | A                | B            | B                                       | B(d)                                        |
-| Assembly                                    | F-1(b)                                                       | A                | B            | B(c)                                    | B(c), (d)                                   |
-| Assembly                                    | [F-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-256) | A                | B            | B(c)                                    | B(c), (d)                                   |
-| Assembly                                    | [F-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-257) | A                | B            | B(c)                                    | B(c), (d)                                   |
-| Assembly                                    | [F-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-258) | A                | B            | B(c)                                    | C                                           |
-| Educational                                 | G                                                            | A                | A            | B                                       | C                                           |
-| Institutional                               | [H-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-261), [H-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-262) | A                | A            | B                                       | B(d)                                        |
-| Residential                                 | [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264), [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265) | A                | A            | B                                       | B(f)                                        |
-| Residential                                 | [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266) | B                | D(e)         | D(e)                                    | D(e)                                        |
+| Occupancy Group Classification of the Space | Occupancy Group Designation | Exits and Shafts | Corridors(b) | Rooms More Than 1500 Sq. Ft. in Area(a) | Rooms Less Than 1500Sq. Ft. in Area(a), (d) |
+| ------------------------------------------- | --------------------------- | ---------------- | ------------ | --------------------------------------- | ------------------------------------------- |
+| High Hazard                                 | A                           | A                | A            | B                                       | B                                           |
+| Storage                                     | B-1                         | A                | A            | B                                       | C                                           |
+| Storage                                     | B-2                         | A                | B            | B(c)                                    | C                                           |
+| Mercantile                                  | C                           | A                | B            | B(c)                                    | C                                           |
+| Industrial                                  | D-1                         | A                | A            | B                                       | C                                           |
+| Industrial                                  | D-2                         | A                | B            | B(c)                                    | C                                           |
+| Business                                    | E                           | A                | B            | C                                       | C                                           |
+| Assembly                                    | F-1(a)                      | A                | B            | B                                       | B(d)                                        |
+| Assembly                                    | F-1(b)                      | A                | B            | B(c)                                    | B(c), (d)                                   |
+| Assembly                                    | F-2                         | A                | B            | B(c)                                    | B(c), (d)                                   |
+| Assembly                                    | F-3                         | A                | B            | B(c)                                    | B(c), (d)                                   |
+| Assembly                                    | F-4                         | A                | B            | B(c)                                    | C                                           |
+| Educational                                 | G                           | A                | A            | B                                       | C                                           |
+| Institutional                               | H-1, H-2                    | A                | A            | B                                       | B(d)                                        |
+| Residential                                 | J-1, J-2                    | A                | A            | B                                       | B(f)                                        |
+| Residential                                 | J-3                         | B                | D(e)         | D(e)                                    | D(e)                                        |
 
 
 **NOTES FOR TABLE 5-4**
@@ -728,7 +727,7 @@ a In determining the applicable requirements for rooms or enclosed spaces, the o
 
 (f) Interior finish when used in the following spaces shall be at least class B:
 
-1. Kitchens, cooking spaces, and pantries in buildings classified in occupancy groups other than [J-2](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-265) and [J-3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-266).
+1. Kitchens, cooking spaces, and pantries in buildings classified in occupancy groups other than J-2and J-3.
 2. Repair and maintenance rooms.
 3. Boiler rooms and incinerator combustion rooms.
 
@@ -738,7 +737,7 @@ Coatings applied in the field by brush or spray shall not be used as flame-sprea
 
 ### **§27-350 Ceiling Construction**
 
-Ceilings that are to be suspended below floor or roof construction by means of a framing system shall consist of supporting hangers, carrying channels and a supporting grid complying with reference standard RS 5-16 or shall have supporting hangers and carrying channels and a supporting grid that can be demonstrated to the satisfaction of the commissioner to be of strength adequate to support the ceiling material. The hangers and supporting grid shall be of noncombustible materials. In buildings of construction group II, every other hanger supported from wood members shall be attached by a through bolt or clinched through nail. Where, in [table 3-4](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/15/chimneys-and-gas-vents#table_3-4), floor or roof construction is required to have a fire-resistance rating, a ceiling having no fire-resistance rating may be suspended below the fire-resistance construction.
+Ceilings that are to be suspended below floor or roof construction by means of a framing system shall consist of supporting hangers, carrying channels and a supporting grid complying with reference standard RS 5-16 or shall have supporting hangers and carrying channels and a supporting grid that can be demonstrated to the satisfaction of the commissioner to be of strength adequate to support the ceiling material. The hangers and supporting grid shall be of noncombustible materials. In buildings of construction group II, every other hanger supported from wood members shall be attached by a through bolt or clinched through nail. Where, in [table 3-4](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%203/Occupancy%20and%20Construction%20Classification#§27-271-classification-table), floor or roof construction is required to have a fire-resistance rating, a ceiling having no fire-resistance rating may be suspended below the fire-resistance construction.
 
 #### (a) Luminous ceilings.
 
@@ -780,7 +779,7 @@ In construction group I a new ceiling may be suspended below not more than one e
 
 Finish flooring and floor coverings shall comply with the following:
 
-#### (a) In buildings or spaces classified in occupancy group A and in all exits except those in buildings of construction group II-E, finish flooring shall be of noncombustible material and except as otherwise provided for stairs in subdivision (h) of [section 27-375](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-375) of article five of subchapter six of this chapter.
+#### (a) In buildings or spaces classified in occupancy group A and in all exits except those in buildings of construction group II-E, finish flooring shall be of noncombustible material and except as otherwise provided for stairs in subdivision (h) of [section 27-375](dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%20/Means%20of%20Egress#§27-375-interior-stairs) of article five of subchapter six of this chapter.
 
 #### (b) Flooring in buildings or spaces of construction group I.
 
@@ -827,7 +826,7 @@ On and after July 1, 2013 carpet and carpet cushion as defined in section 17-140
 
 ### **§27-353 Smoke and Heat Venting**
 
-(a) Where the floor area of a one-story building classified in occupancy group A, [B-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-246), or [D-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-250) is greater in depth than one hundred feet from a frontage space, that portion beyond one hundred feet shall be provided with roof vents and smoke curtains complying with the requirements of reference standard RS 5-11. Where the effective area of vents are glazed with plain glass or plastic not thicker than one-eighth inch, they need not be provided with automatic opening devices.
+(a) Where the floor area of a one-story building classified in occupancy group A, B-1, or D-1 is greater in depth than one hundred feet from a frontage space, that portion beyond one hundred feet shall be provided with roof vents and smoke curtains complying with the requirements of reference standard RS 5-11. Where the effective area of vents are glazed with plain glass or plastic not thicker than one-eighth inch, they need not be provided with automatic opening devices.
 
 (b) Buildings classified in occupancy group E, one hundred feet or more in height, having air-conditioning and/or mechanical ventilation systems that serve more than the floor on which the equipment is located, shall be provided with at least one smoke shaft by means of which smoke and heat shall be mechanically vented to the outdoors as provided in reference standard RS 5-17. Buildings that are sprinklered throughout shall be exempt from the smoke shaft requirements.
 
@@ -850,9 +849,9 @@ Where compliance with the time requirements of this subdivision would cause undu
 
 #### (a) Elevators.
 
-In existing buildings classified in occupancy group [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264), at every floor above the main entrance floor, all passenger elevantors shall open only into elevator vestibules, except for:
+In existing buildings classified in occupancy group J-1, at every floor above the main entrance floor, all passenger elevators shall open only into elevator vestibules, except for:
 
-1. Such existing buildings which contain spaces classified in occupancy group C or F and have an automatic sprinkler system protecting all spaces (except boiler rooms) not in occupancy group [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264) and all exits and corridors serving such spaces located on or below the lowest floor containing sleeping rooms as well as all storage closets no matter where located, except that storage closets less than seventy-five square feet may, in the alternative, be provided with smoke detectors which shall be of the central supervisory type connected to an approved central station; or
+1. Such existing buildings which contain spaces classified in occupancy group C or F and have an automatic sprinkler system protecting all spaces (except boiler rooms) not in occupancy group J-1and all exits and corridors serving such spaces located on or below the lowest floor containing sleeping rooms as well as all storage closets no matter where located, except that storage closets less than seventy-five square feet may, in the alternative, be provided with smoke detectors which shall be of the central supervisory type connected to an approved central station; or
 
 2. Such existing buildings which contain no spaces in occupancy group C or F, and have either:
 
@@ -866,9 +865,9 @@ In existing buildings classified in occupancy group [J-1](https://up.codes/viewe
 
 #### (b) Escalators.
 
-In buildings and existing buildings classified in occupancy group [J-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/3/occupancy-and-construction-classification#§27-264), fire protection for escalators shall be provided by any one of the following methods:
+In buildings and existing buildings classified in occupancy group J-1, fire protection for escalators shall be provided by any one of the following methods:
 
-1. Enclosure in accordance with sections [27-375](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-375) and [27-378](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/6/means-of-egress#§27-378) if escalator is used as an exit; or
+1. Enclosure in accordance with sections [27-375](dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%20/Means%20of%20Egress#§27-375-interior-stairs) and [27-378](dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%20/Means%20of%20Egress#§27-378-escalators) if escalator is used as an exit; or
 2. Automatic rolling shutters in accordance with reference standard RS 18-1; or
 3. Kiosks in accordance with reference standard RS 18-1; or
 4. Where the building section is fully protected by a supervised automatic sprinkler system and the escalator sprinklers are spaced to protect exposed sides of the escalator opening, a noncombustible heat apron constructed to bank heat around the sprinkler heads adjacent to the opening where the bottom edge of the draft curtain is not less than twelve inches below the bottoms of sprinkler heads when heads are in operation, and in no event less than twenty-four inches below the ceiling; or
@@ -886,7 +885,7 @@ At every floor above the main entrance floor where the fire command station is l
 
 #### (b) Permitted penetrations.
 
-Penetrations in addition to those permitted in [section 27-353.3](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/5/fire-protection-construction-requirements#§27-353.3) (smoke barrier) shall be provided with smoke dampers as defined in reference standard RS 13-1, except that a package pass through or communication opening not exceeding one square foot in area need not be provided with smoke dampers.
+Penetrations in addition to those permitted in [section 27-353.3](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#§27-3533-smoke-barrier) (smoke barrier) shall be provided with smoke dampers as defined in reference standard RS 13-1, except that a package pass through or communication opening not exceeding one square foot in area need not be provided with smoke dampers.
 
 #### (c) Access to exits.
 
