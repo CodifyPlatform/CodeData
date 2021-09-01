@@ -1,3 +1,5 @@
+# 2010 ADA Standards for Accessible Design
+
 # CHAPTER 4: ACCESSIBLE ROUTES
 
 ## 401 General
@@ -44,9 +46,9 @@ Walking surfaces shall provide clearances complying with 403.5.
 
 **EXCEPTION:** Within employee work areas, clearances on common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
 
-> #### **403.5.1** 
+> #### **403.5.1** Clear Width. 
 >
-> Clear Width. Except as provided in 403.5.2 and 403.5.3, the clear width of walking surfaces shall be 36 inches (915 mm) minimum.
+> Except as provided in 403.5.2 and 403.5.3, the clear width of walking surfaces shall be 36 inches (915 mm) minimum.
 >
 > **EXCEPTION:** The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum.
 
@@ -159,7 +161,6 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 > > > ##### **404.2.4.2 Doorways without Doors or Gates, Sliding Doors, and Folding Doors.** 
 > > >
 > > > Doorways less than 36 inches (915 mm) wide without doors or gates, sliding doors, or folding doors shall have maneuvering clearances complying with Table 404.2.4.2.
-> > >  
 
 |                                                              | Minimum Maneuvering Clearance |                                                              |
 | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
@@ -802,7 +803,6 @@ Elevator cars shall comply with 407.4.
 > > > ###### **407.4.7.1.3 Symbols.** 
 > > >
 > > > The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with tactile symbols as shown in Table 407.4.7.1.3.
-> > >  
 
 | Control Button   | Tactile Symbol                                               | Braille Message                                              |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
