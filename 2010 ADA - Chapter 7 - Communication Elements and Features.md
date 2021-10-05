@@ -1,3 +1,5 @@
+# 2010 ADA Standards for Accessible Design
+
 # CHAPTER 7: COMMUNICATION ELEMENTS AND FEATURES
 
 ## 701 General
@@ -50,7 +52,7 @@ Signs that are designed to be read by touch should not have sharp or abrasive ed
 >
 > **EXCEPTION:** Where separate raised and visual characters with the same information are provided, raised character height shall be permitted to be 1/2 inch (13 mm) minimum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\ADA\Figure 703.2.5.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.2.5 Height of Raised Characters.PNG)
 
 #### **Figure 703.2.5 Height of Raised Characters**
 
@@ -85,7 +87,7 @@ Signs that are designed to be read by touch should not have sharp or abrasive ed
 | Distance between corresponding dots from one cell directly below[1](https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm#mcenter) | 0.395 (10 mm) to 0.400 (10.2 mm)    |
 | 1. Measured center to center.                                |                                     |
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.3.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.3.1 Braille Measurement.PNG)
 
 #### **Figure 703.3.1 Braille Measurement**
 
@@ -97,7 +99,7 @@ Signs that are designed to be read by touch should not have sharp or abrasive ed
 > >
 > > **EXCEPTION:** Braille provided on elevator car controls shall be separated 3/16 inch (4.8 mm) minimum and shall be located either directly below or adjacent to the corresponding raised characters or symbols.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.3.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.3.2 Position of Braille.PNG)
 
 #### **Figure 703.3.2 Position of Braille**
 
@@ -113,7 +115,7 @@ Signs with tactile characters shall comply with 703.4.
 >
 > **EXCEPTION:** Tactile characters for elevator car controls shall not be required to comply with 703.4.1.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.4.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.4.1 Height of Tactile Characters Above Finish Floor or Ground.PNG)
 
 #### **Figure 703.4.1 Height of Tactile Characters Above Finish Floor or Ground**
 
@@ -125,7 +127,7 @@ Signs with tactile characters shall comply with 703.4.
 > >
 > > **EXCEPTION:** Signs with tactile characters shall be permitted on the push side of doors with closers and without hold-open devices.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.4.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.4.2 Location of Tactile Signs at Doors.PNG)
 
 #### **Figure 703.4.2 Location of Tactile Signs at Doors**
 
@@ -198,7 +200,7 @@ Pictograms shall comply with 703.6.
 >
 > Pictograms shall have a field height of 6 inches (150 mm) minimum. Characters and braille shall not be located in the pictogram field.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.6.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.6.1 Pictogram Field.PNG)
 
 #### **Figure 703.6.1 Pictogram Field**
 
@@ -207,7 +209,6 @@ Pictograms shall comply with 703.6.
 > #### **703.6.2 Finish and Contrast.** 
 >
 > Pictograms and their field shall have a non-glare finish. Pictograms shall contrast with their field with either a light pictogram on a dark field or a dark pictogram on a light field.
->  
 
 #### **Advisory 703.6.2 Finish and Contrast.** 
 
@@ -235,7 +236,7 @@ Signs are more legible for persons with low vision when characters contrast as m
 > >
 > > The International Symbol of Accessibility shall comply with Figure 703.7.2.1.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.7.2.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.7.2.1 International Symbol of Accessibility.PNG)
 
 ##### **Figure 703.7.2.1 International Symbol of Accessibility**
 
@@ -245,7 +246,7 @@ Signs are more legible for persons with low vision when characters contrast as m
 > >
 > > The International Symbol of TTY shall comply with Figure 703.7.2.2.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.7.2.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.7.2.2 International Symbol of TTY.PNG)
 
 ##### **Figure 703.7.2.2 International Symbol of TTY**
 
@@ -255,7 +256,7 @@ Signs are more legible for persons with low vision when characters contrast as m
 > >
 > > Telephones with a volume control shall be identified by a pictogram of a telephone handset with radiating sound waves on a square field such as shown in Figure 703.7.2.3.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.7.2.3.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.7.2.3 Volume Control Telephone.PNG)
 
 ##### **Figure 703.7.2.3 Volume Control Telephone**
 
@@ -265,7 +266,7 @@ Signs are more legible for persons with low vision when characters contrast as m
 > >
 > > Assistive listening systems shall be identified by the International Symbol of Access for Hearing Loss complying with Figure 703.7.2.4.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 703.7.2.4.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 703.7.2.4 International Symbol of Access for Hearing Loss.PNG)
 
 ##### **Figure 703.7.2.4 International Symbol of Access for Hearing Loss**
 
@@ -293,7 +294,7 @@ Because clear floor and ground space is required to be unobstructed, telephones,
 > >
 > > Where a parallel approach is provided, the distance from the edge of the telephone enclosure to the face of the telephone unit shall be 10 inches (255 mm) maximum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Fugure 704.2.1.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 704.2.1.1 Parallel Approach to Telephone.PNG)
 
 ##### **Figure 704.2.1.1 Parallel Approach to Telephone**
 
@@ -303,7 +304,7 @@ Because clear floor and ground space is required to be unobstructed, telephones,
 > >
 > > Where a forward approach is provided, the distance from the front edge of a counter within the telephone enclosure to the face of the telephone unit shall be 20 inches (510 mm) maximum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 704.2.1.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 704.2.1.2 Forward Approach to Telephone.PNG)
 
 ##### **Figure 704.2.1.2 Forward Approach to Telephone**
 
@@ -371,7 +372,7 @@ Detectable warnings shall consist of a surface of truncated domes and shall comp
 >
 > Detectable warning surfaces shall contrast visually with adjacent walking surfaces either light-on-dark, or dark-on-light.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 705.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 705.1 Size and Spacing of Truncated Domes.PNG)
 
 ### **Figure 705.1 Size and Spacing of Truncated Domes**
 
@@ -507,7 +508,7 @@ Input devices shall comply with 707.6.
 
 Telephone keypads and computer keyboards differ in one significant feature, ascending versus descending numerical order. Both types of keypads are acceptable, provided the computer-style keypad is organized similarly to the number pad located at the right on most computer keyboards, and does not resemble the line of numbers located above the computer keys.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 707.6.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 7 - Communication Elements and Features/Figure 707.6.2 Numeric Key Layout.PNG)
 
 #### **Figure 707.6.2 Numeric Key Layout**
 
@@ -578,4 +579,3 @@ Communications systems between a residential dwelling unit and a site, building,
 > #### **708.4.2 Residential Dwelling Unit Interface.** 
 >
 > The residential dwelling unit system interface shall include a telephone jack capable of supporting voice and TTY communication with the common use or public use system interface.
-
