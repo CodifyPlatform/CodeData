@@ -1,3 +1,5 @@
+# 2010 ADA Standards for Accessible Design
+
 # CHAPTER 1: APPLICATION AND ADMINISTRATION
 
 ## 101 Purpose
@@ -56,7 +58,7 @@ Where the required number of elements or facilities to be provided is determined
 
 Unless specifically stated otherwise, figures are provided for informational purposes only.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\ADA Figure 104 - Smaller.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 1 - Application and Administration/Figure 104 Graphic Convention for Figures.PNG)
 
 **Figure 104** **Graphic Convention for Figures**
 
