@@ -52,7 +52,7 @@ Walking surfaces shall provide clearances complying with 403.5.
 >
 > **EXCEPTION:** The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\ADA Figure 403.5.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 403.5.1 Clear Width of an Accessible Route.PNG)
 
 #### **Figure 403.5.1 Clear Width of an Accessible Route**
 
@@ -62,7 +62,7 @@ Where the accessible route makes a 180 degree turn around an element which is le
 
 **EXCEPTION:** Where the clear width at the turn is 60 inches (1525 mm) minimum compliance with 403.5.2 shall not be required.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\ADA Figure 403.5.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 403.5.2 Clear Width at Turn.PNG)
 
 #### **Figure 403.5.2 Clear Width at Turn**
 
@@ -114,7 +114,7 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 >
 > **2.** Door closers and door stops shall be permitted to be 78 inches (1980 mm) minimum above the finish floor or ground.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\ADA Figure 404.2.3.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.3 Clear Width of Doorways.PNG)
 
 #### **Figure 404.2.3 Clear Width of Doorways**
 
@@ -150,9 +150,7 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 
 *4.* Add 6 inches (150 mm) if closer is provided.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 404.2.4.1 - 1.png)
-
-![Figure 404.2.4.1 - 2](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 404.2.4.1 - 2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.4.1 Maneuvering Clearances at Manual Swinging Doors and Gates.PNG)
 
 #### **Figure 404.2.4.1 Maneuvering Clearances at Manual Swinging Doors and Gates**
 
@@ -174,7 +172,7 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 1. Doorway with no door only.
 2. Beyond pocket/hinge side.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 404.2.4.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.4.2 Maneuvering Clearances at Doorways without Doors, Sliding Doors, Gates, and Folding Doors.PNG)
 
 #### **Figure 404.2.4.2 Maneuvering Clearances at Doorways without Doors, Sliding Doors, Gates, and Folding Doors**
 
@@ -188,7 +186,7 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 
 A door can be recessed due to wall thickness or because of the placement of casework and other fixed elements adjacent to the doorway. This provision must be applied wherever doors are recessed.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 404.2.4.3.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.4.3 Maneuvering Clearances at Recessed Doors and Gates.PNG)
 
 #### **Figure 404.2.4.3 Maneuvering Clearances at Recessed Doors and Gates**
 
@@ -214,7 +212,7 @@ A door can be recessed due to wall thickness or because of the placement of case
 >
 > The distance between two hinged or pivoted doors in series and gates in series shall be 48 inches (1220 mm) minimum plus the width of doors or gates swinging into the space.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 404.2.6.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.6 Doors in Series and Gates in Series.PNG)
 
 #### **Figure 404.2.6 Doors in Series and Gates in Series**
 
@@ -372,7 +370,7 @@ Ramps shall have landings at the top and the bottom of each ramp run. Landings s
 
 Ramps that do not have level landings at changes in direction can create a compound slope that will not meet the requirements of this document. Circular or curved ramps continually change direction. Curvilinear ramps with small radii also can create compound cross slopes and cannot, by their nature, meet the requirements for accessible routes. A level landing is needed at the accessible door to permit maneuvering and simultaneously door operation.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 405.7.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 405.7 Ramp Landings.PNG)
 
 #### **Figure 405.7 Ramp Landings**
 
@@ -426,7 +424,7 @@ Edge protection complying with 405.9.1 or 405.9.2 shall be provided on each side
 
 The extended surface prevents wheelchair casters and crutch tips from slipping off the ramp surface.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 405.9.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 405.9.1 Extended Floor or Ground Surface Edge Protection.PNG)
 
 #### **Figure 405.9.1 Extended Floor or Ground Surface Edge Protection**
 
@@ -434,7 +432,7 @@ The extended surface prevents wheelchair casters and crutch tips from slipping o
 
 A curb or barrier shall be provided that prevents the passage of a 4 inch (100 mm) diameter sphere, where any portion of the sphere is within 4 inches (100 mm) of the finish floor or ground surface.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 405.9.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 405.9.2 Curb or Barrier Edge Protection.PNG)
 
 #### **Figure 405.9.2 Curb or Barrier Edge Protection**
 
@@ -454,7 +452,7 @@ Curb ramps on accessible routes shall comply with 406, 405.2 through 405.5, and 
 
 Counter slopes of adjoining gutters and road surfaces immediately adjacent to the curb ramp shall not be steeper than 1:20. The adjacent surfaces at transitions at curb ramps to walks, gutters, and streets shall be at the same level.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 406.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 406.2 Counter Slope of Surfaces Adjacent to Curb Ramps.PNG)
 
 #### **Figure 406.2 Counter Slope of Surfaces Adjacent to Curb Ramps**
 
@@ -464,7 +462,7 @@ Counter slopes of adjoining gutters and road surfaces immediately adjacent to th
 
 Where provided, curb ramp flares shall not be steeper than 1:10.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 406.3.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 406.3 Sides of Curb Ramps.PNG)
 
 #### **Figure 406.3 Sides of Curb Ramps**
 
@@ -476,7 +474,7 @@ Landings shall be provided at the tops of curb ramps. The landing clear length s
 
 **EXCEPTION:** In alterations, where there is no landing at the top of curb ramps, curb ramp flares shall be provided and shall not be steeper than 1:12.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 406.4.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 406.4 Landings at the Top of Curb Ramps.PNG)
 
 #### **Figure 406.4 Landings at the Top of Curb Ramps**
 
@@ -490,7 +488,7 @@ Curb ramps and the flared sides of curb ramps shall be located so that they do n
 
 Diagonal or corner type curb ramps with returned curbs or other well-defined edges shall have the edges parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have a clear space 48 inches (1220 mm) minimum outside active traffic lanes of the roadway. Diagonal curb ramps provided at marked crossings shall provide the 48 inches (1220 mm) minimum clear space within the markings. Diagonal curb ramps with flared sides shall have a segment of curb 24 inches (610 mm) long minimum located on each side of the curb ramp and within the marked crossing.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 406.6.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 406.6 Diagonal or Corner Type Curb Ramps.PNG)
 
 #### **Figure 406.6 Diagonal or Corner Type Curb Ramps**
 
@@ -500,7 +498,11 @@ Diagonal or corner type curb ramps with returned curbs or other well-defined edg
 
 Raised islands in crossings shall be cut through level with the street or have curb ramps at both sides. Each curb ramp shall have a level area 48 inches (1220 mm) long minimum by 36 inches (915 mm) wide minimum at the top of the curb ramp in the part of the island intersected by the crossings. Each 48 inch (1220 mm) minimum by 36 inch (915 mm) minimum area shall be oriented so that the 48 inch (1220 mm) minimum length is in the direction of the running slope of the curb ramp it serves. The 48 inch (1220 mm) minimum by 36 inch (915 mm) minimum areas and the accessible route shall be permitted to overlap.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 406.7.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 406.7 Islands in Crossings.PNG)
+
+#### **Figure 406.7 Islands in Crossing**
+
+
 
 ## 407 Elevators
 
@@ -590,7 +592,7 @@ A destination-oriented elevator system provides lobby controls enabling passenge
 > >
 > > **2.** Existing elevators shall not be required to comply with 407.2.2.2.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 407.2.2.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 407.2.2.2 Visible Hall Signals.PNG)
 
 #### **Figure 407.2.2.2 Visible Hall Signals**
 
@@ -618,7 +620,7 @@ A destination-oriented elevator system provides lobby controls enabling passenge
 > >
 > > Floor designations complying with 703.2 and 703.4.1 shall be provided on both jambs of elevator hoistway entrances. Floor designations shall be provided in both tactile characters and braille. Tactile characters shall be 2 inches (51 mm) high minimum. A tactile star shall be provided on both jambs at the main entry level.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 407.2.3.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 407.2.3.1 Floor Designations on Jambs of Elevator Hoistway Entrances.PNG)
 
 #### **Figure 407.2.3.1 Floor Designations on Jambs of Elevator Hoistway Entrances**
 
@@ -628,7 +630,7 @@ A destination-oriented elevator system provides lobby controls enabling passenge
 > >
 > > Destination-oriented elevators shall provide tactile car identification complying with 703.2 on both jambs of the hoistway immediately below the floor designation. Car designations shall be provided in both tactile characters and braille. Tactile characters shall be 2 inches (51 mm) high minimum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 407.2.3.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 407.2.3.2 Car Designations on Jambs of Destination-Oriented Elevator Hoistway Entrances.PNG)
 
 #### **Figure 407.2.3.2 Car Designations on Jambs of Destination-Oriented Elevator Hoistway Entrances**
 
@@ -710,9 +712,7 @@ Elevator cars shall comply with 407.4.
 1. A tolerance of minus 5/8 inch (16 mm) is permitted.
 2. Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
 
-![Figure 407.4.1](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 407.4.1.png)
-
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 407.4.1 - 2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 407.4.1 Elevator Car Dimensions.PNG)
 
 #### **Figure 407.4.1 Elevator Car Dimensions**
 
@@ -803,15 +803,8 @@ Elevator cars shall comply with 407.4.
 > > > ###### **407.4.7.1.3 Symbols.** 
 > > >
 > > > The control button for the emergency stop, alarm, door open, door close, main entry floor, and phone, shall be identified with tactile symbols as shown in Table 407.4.7.1.3.
-
-| Control Button   | Tactile Symbol                                               | Braille Message                                              |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Emergency Stop   | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Stop.png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Stop Braille 2.png)"ST"OP Three cells |
-| Alarm            | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Alarm.png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Alarm Braille.png) AL"AR"M Four cells |
-| Door Open        | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Door Open.png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Door Open braille.png) OP"EN" Three cells |
-| Door Close       | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Door CLose.png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Door Close Braille.png) CLOSE Five cells |
-| Main Entry Floor | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Main Entry Floor.png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Main Entry Floor Braille.png) MA"IN" Three cells |
-| Phone            | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Phone .png) | ![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Phone Braille.png) PH"ONE" Four cells |
+> > >
+> > > ![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Table 407.4.7.1.3 Elevator Control Button Identification.PNG)
 
 > > > ###### **407.4.7.1.4 Visible Indicators.** 
 > > >
@@ -927,7 +920,7 @@ Elevator cars shall comply with 408.4.
 >
 > **2.** Existing elevator cars shall be permitted to provide a clear width 36 inches (915 mm) minimum, clear depth 54 inches (1370 mm) minimum, and a net clear platform area 15 square feet (1.4 m2) minimum.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 408.4.1.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 408.4.1 LULA Elevator Car Dimensions.PNG)
 
 #### **Figure 408.4.1 Limited-Use/Limited-Application (LULA) Elevator Car Dimensions**
 
@@ -1023,7 +1016,7 @@ Private residence elevator cars shall comply with 409.4.
 > >
 > > Control panels shall be on a side wall, 12 inches (305 mm) minimum from any adjacent wall.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 409.4.6.2.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 409.4.6.2 Location of Private Residence Elevator Control Panel.PNG)
 
 #### **Figure 409.4.6.2 Location of Private Residence Elevator Control Panel**
 
@@ -1081,6 +1074,6 @@ Platform lifts shall have low-energy power-operated doors or gates complying wit
 
 **EXCEPTION:** Platform lifts serving two landings maximum and having doors or gates on opposite sides shall be permitted to have self-closing manual doors or gates.
 
-![](C:\Users\chris\OneDrive\Documents\CG-RG-UBSL\Codify\Typora Files\Figure 410.6.png)
+![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 410.6 Platform Lift Doors and Gates.PNG)
 
 #### **Figure 410.6 Platform Lift Doors and Gates**
