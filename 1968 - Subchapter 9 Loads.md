@@ -1,3 +1,5 @@
+# NYC 1968 Code (Vol I)
+
 # **Subchapter 9 Loads**
 
 ## **Article 1 General**
@@ -22,11 +24,11 @@ For definitions to be used in the interpretation of this subchapter, see subchap
 
 ### **§27-553 Construction Materials and Assembled Elements of Construction**
 
-Except as provided in [section 27-555](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-555) of this article, the dead load shall be the actual weight of the building materials or construction assemblies to be supported, computed from the unit weights given in reference standard RS 9-1. Where unit weights are not established in reference standard RS 9-1, the actual weights may be determined by analysis or from data in manufacturers' drawings or catalogs. Unit weights less than those given in reference standard RS 9-1 may be used only with approval of the commissioner.
+Except as provided in [section 27-555](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-555-partition-loads) of this article, the dead load shall be the actual weight of the building materials or construction assemblies to be supported, computed from the unit weights given in reference standard RS 9-1. Where unit weights are not established in reference standard RS 9-1, the actual weights may be determined by analysis or from data in manufacturers' drawings or catalogs. Unit weights less than those given in reference standard RS 9-1 may be used only with approval of the commissioner.
 
 ### **§27-554 Service Equipment**
 
-Provision shall be made for the weights of all building service equipment including plumbing stacks, piping, heating and air conditioning equipment, electrical equipment, elevators, elevator machinery, flues, and similar fixed equipment. The weights of such equipment (or the allowances therefor) shall be included in the dead load. The weight of equipment that is part of the occupancy of a given area shall be considered as live load. See also paragraph two of subdivision (b) and subdivision (d) of [section 27-557](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-557) of article three of this subchapter.
+Provision shall be made for the weights of all building service equipment including plumbing stacks, piping, heating and air conditioning equipment, electrical equipment, elevators, elevator machinery, flues, and similar fixed equipment. The weights of such equipment (or the allowances therefor) shall be included in the dead load. The weight of equipment that is part of the occupancy of a given area shall be considered as live load. See also paragraph two of subdivision (b) and subdivision (d) of [section 27-557](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-557-floor-live-loads) of article three of this subchapter.
 
 ### **§27-555 Partition Loads**
 
@@ -106,18 +108,18 @@ Minimum design live loads shall be as follows:
 
 #### (b) Wind load. 
 
-The provisions of [section 27-569](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-569) of article five of this subchapter shall apply.
+The provisions of [section 27-569](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-569-wind-loads-and-earthquake-loads) of article five of this subchapter shall apply.
 
 #### (c) Concentrated loads. 
 
-The provisions of subdivision (b) of [section 27-557](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-557) of this article shall apply.
+The provisions of subdivision (b) of [section 27-557](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-557-floor-live-loads) of this article shall apply.
 
 #### (d) Special loads.
 
 1. When used for purposes such as promenades, assembly areas, or roof gardens, design shall be made for live loads corresponding to the particular usage, as indicated in reference standard RS 9-2. Such loads shall be considered as nonconcurrent with the wind load or with the live load specified in subdivision (a) of this section. The design live and wind loads for roofs, as specified elsewhere in this subchapter, shall be deemed to provide for incidental use of the roof of a building by the occupants thereof.
 2. Where roofs are intended for the ponding of water, the roof shall be designed for the maximum possible depth of water which may be ponded thereon as determined by the relative levels of roof deck and overflow weirs or scuppers. Such load need not be considered as occurring simultaneously with wind or live load.
-3. Girders and roof trusses (other than joists) over garage areas regularly utilized for the repair of vehicles and over manufacturing floors or storage floors used for commercical purposes shall be capable of supporting, in addition to the specified live and wind loads, a concentrated live load of two thousand pounds applied at any lower chord panel point for trusses, and at any point of the lower flange for girders.
-4. Where roofs are landscaped, the uniform design live load on the landscaped portions shall be thirty psf. The weight of the landscaping materials shall be considered as dead load and shall be computed on the basis of saturation of the earth. The areas adjacant to the landscaped portions shall be considered as assembly areas, unless specific provision is made to prevent such use.
+3. Girders and roof trusses (other than joists) over garage areas regularly utilized for the repair of vehicles and over manufacturing floors or storage floors used for commercial purposes shall be capable of supporting, in addition to the specified live and wind loads, a concentrated live load of two thousand pounds applied at any lower chord panel point for trusses, and at any point of the lower flange for girders.
+4. Where roofs are landscaped, the uniform design live load on the landscaped portions shall be thirty psf. The weight of the landscaping materials shall be considered as dead load and shall be computed on the basis of saturation of the earth. The areas adjacent to the landscaped portions shall be considered as assembly areas, unless specific provision is made to prevent such use.
 5. Where equipment is placed on roofs, the design shall provide for the support of such equipment.
 
 ### **§27-562 Moving Loads**
@@ -126,7 +128,7 @@ Where applicable to the use or occupancy of the building, the design shall consi
 
 #### (a) General.
 
-The loads established in subdivisions (a) and (b) of [section 27-557](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-557) of this article shall be assumed to include allowance for ordinary impact conditions.
+The loads established in subdivisions (a) and (b) of [section 27-557](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-557-floor-live-loads) of this article shall be assumed to include allowance for ordinary impact conditions.
 
 #### (b) Passenger vehicles. 
 
@@ -254,18 +256,15 @@ No reduction shall be permitted.
 
 The uniform live load to be used for design shall be the basic value established in reference standard RS 9-2 multiplied by the percentages given in subdivisions (a) through (d) of this section.
 
-(a) Except as provided in subdivisions (b), (c), and (d), the percentages in [table 9-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#table_9-1) shall apply. Contributory areas shall be computed in accordance with [section 27-567](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-567) of this article.
+(a) Except as provided in subdivisions (b), (c), and (d), the percentages in [table 9-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#table-9-1-percentage-of-live-load) shall apply. Contributory areas shall be computed in accordance with [section 27-567](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-567-contributory-floor-areas) of this article.
 
 (b) No live load reduction shall be permitted for the following: members and connections (other than columns, piers, and walls) supporting floor areas used for storage (including warehouses, library stacks, and record storage); areas used for parking of vehicles; and areas used as place of assembly, for manufacturing, and for retail or wholesale sales. For columns, piers, and walls supporting such floor areas the maximum live load reduction shall be twenty per cent.
 
 (c) No live load reduction shall be permitted for calculating shear stresses at the heads of column in flat slab or flat plate construction.
 
-(d) In lieu of the percentages given in [table 9-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#table_9-1), the live load reductions for columns, piers and walls may be taken as fifteen per cent of the live load on the top floor, increased successively at the rate of five per cent on each successive lower floor, with a maximum reduction of fifty per cent; and for girders supporting two hundred square feet or more of floor area, the live load reduction may be taken as fifteen per cent. The limitations of subdivisions (b), (c) and (d) of this section shall apply.
+(d) In lieu of the percentages given in [table 9-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#table-9-1-percentage-of-live-load), the live load reductions for columns, piers and walls may be taken as fifteen per cent of the live load on the top floor, increased successively at the rate of five per cent on each successive lower floor, with a maximum reduction of fifty per cent; and for girders supporting two hundred square feet or more of floor area, the live load reduction may be taken as fifteen per cent. The limitations of subdivisions (b), (c) and (d) of this section shall apply.
 
-**[TABLE 9-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#table_9-1)
-PERCENTAGE OF LIVE LOAD\***
-
-
+#### **TABLE 9-1 PERCENTAGE OF LIVE LOAD**
 
 | Contributory Area (sq. ft.) [sic] | Ratio of Live Load to Dead Load* |      |           |
 | --------------------------------- | -------------------------------- | ---- | --------- |
@@ -276,8 +275,7 @@ PERCENTAGE OF LIVE LOAD\***
 | 450-599                           | 50                               | 60   | 70        |
 | 600 or more                       | 40                               | 55   | 65        |
 
-
-**Note for [Table 9-1](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#table_9-1):**
+**Note for Table 9-1:**
 *For intermediate values of live load/dead load, the applicable percentages of live load may be interpolated.
 
 ### **§27-567 Contributory Floor Areas**
@@ -294,7 +292,7 @@ For purposes of computing live load reduction, contributory floor areas shall be
 
 ### **§27-568 Foundations and Column Supports**
 
-The live load to be supported by the foundation or by trusses or girders that support columns shall be the total column reaction reduced as provided in [section 27-566](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-566) and [section 27-567](https://up.codes/viewer/new_york_city/nyc-building-code-1968-v1/chapter/9/loads#§27-567) of this article.
+The live load to be supported by the foundation or by trusses or girders that support columns shall be the total column reaction reduced as provided in [section 27-566](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-566-floor-live-loads) and [section 27-567](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%209/Loads#§27-567-contributory-floor-areas) of this article.
 
 ## **Article 5 Wind Loads and Earthquake Loads**
 
