@@ -1141,4 +1141,3 @@ Emergency power systems meeting the requirements of this article shall be provid
 (d) Buildings and building sections classified in occupancy group J-1.
 
 (e) Buildings and building sections containing an atrium.
-{"mode":"full","isActive":false}
