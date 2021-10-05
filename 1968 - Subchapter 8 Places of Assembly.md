@@ -816,4 +816,3 @@ In all F-4 places of assembly used as a cabaret, the stage dressing rooms and pr
 ##### (b) Retroactive provisions.
 
 On or before January twelfth, nineteen hundred eighty, all places of assembly providing entertainment or used as a cabaret within F-3 or F-4occupancies shall be provided with automatic sprinkler and fire alarm protection to comply with the provisions of subchapter seventeen of this chapter.
-{"mode":"full","isActive":false}
