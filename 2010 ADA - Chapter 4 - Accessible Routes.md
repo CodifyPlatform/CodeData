@@ -52,7 +52,7 @@ Walking surfaces shall provide clearances complying with 403.5.
 >
 > **EXCEPTION:** The clear width shall be permitted to be reduced to 32 inches (815 mm) minimum for a length of 24 inches (610 mm) maximum provided that reduced width segments are separated by segments that are 48 inches (1220 mm) long minimum and 36 inches (915 mm) wide minimum.
 
-![img](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 403.5.1 Clear Width of an Accessible Route.PNG)
+![img](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%204%20-%20Accessible%20Routes/Figure%20403.5.1%20Clear%20Width%20of%20an%20Accessible%20Route.PNG)
 
 #### **Figure 403.5.1 Clear Width of an Accessible Route**
 
