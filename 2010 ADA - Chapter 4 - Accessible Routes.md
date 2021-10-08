@@ -62,7 +62,7 @@ Where the accessible route makes a 180 degree turn around an element which is le
 
 **EXCEPTION:** Where the clear width at the turn is 60 inches (1525 mm) minimum compliance with 403.5.2 shall not be required.
 
-![img](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 403.5.2 Clear Width at Turn.PNG)
+![img](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%204%20-%20Accessible%20Routes/Figure%20403.5.2%20Clear%20Width%20at%20Turn.PNG)
 
 #### **Figure 403.5.2 Clear Width at Turn**
 
