@@ -114,7 +114,7 @@ Manual doors and doorways and manual gates intended for user passage shall compl
 >
 > **2.** Door closers and door stops shall be permitted to be 78 inches (1980 mm) minimum above the finish floor or ground.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 4 - Accessible Routes/Figure 404.2.3 Clear Width of Doorways.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%204%20-%20Accessible%20Routes/Figure%20404.2.3%20Clear%20Width%20of%20Doorways.PNG)
 
 #### **Figure 404.2.3 Clear Width of Doorways**
 
