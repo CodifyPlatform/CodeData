@@ -397,7 +397,7 @@ The following roof structures may be constructed of combustible material if less
 Key: Fire-resistance ratings are given in hours. For [Table 5-1](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-1-fire-separations), read above heavy line. For [Table 5-2](/dashboard/NYC%201968%20Code%20(Vol%20I)/Subchapter%205/Fire%20Protection%20Construction%20Requirements#table-5-2-fire-divisions), read below heavy line
 NR—No Requirement
 
- ![](https://storage.googleapis.com/codify-public-data/images/1968 - Subchapter 5 Fire Protection Construction Requirements/TABLE 5-1 FIRE SEPARATIONS.PNG)
+ ![](https://storage.googleapis.com/codify-public-data/images/1968%20-%20Subchapter%205%20Fire%20Protection%20Construction%20Requirements/TABLE%205-1%20FIRE%20SEPARATIONS.PNG)
 
 #### **TABLE 5-2 FIRE DIVISIONS**
 
