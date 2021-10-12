@@ -58,7 +58,7 @@ Where the required number of elements or facilities to be provided is determined
 
 Unless specifically stated otherwise, figures are provided for informational purposes only.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 1 - Application and Administration/Figure 104 Graphic Convention for Figures.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%201%20-%20Application%20and%20Administration/Figure%20104%20Graphic%20Convention%20for%20Figures.PNG)
 
 **Figure 104** **Graphic Convention for Figures**
 
