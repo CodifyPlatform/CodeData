@@ -34,7 +34,7 @@ Carpet or carpet tile shall be securely attached and shall have a firm cushion, 
 
 Carpets and permanently affixed mats can significantly increase the amount of force (roll resistance) needed to propel a wheelchair over a surface. The firmer the carpeting and backing, the lower the roll resistance. A pile thickness up to 1/2 inch (13 mm) (measured to the backing, cushion, or pad) is allowed, although a lower pile provides easier wheelchair maneuvering. If a backing, cushion or pad is used, it must be firm. Preferably, carpet pad should not be used because the soft padding increases roll resistance.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20302.2%20Carpet%20Pile%20Height.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/LOCAL%20LAWS%20OF%20THE%20CITY%20OF%20NEW%20YORK%20FOR%20THE%20YEAR%202009%20-%20No.%2087/%C2%A728-308.4.1%20Due%20dates..PNG)
 
 ### **Figure 302.2 Carpet Pile Height**
 
