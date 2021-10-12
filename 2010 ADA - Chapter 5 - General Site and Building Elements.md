@@ -22,7 +22,7 @@ Car parking spaces shall be 96 inches (2440 mm) wide minimum and van parking spa
 
 **EXCEPTION:** Van parking spaces shall be permitted to be 96 inches (2440 mm) wide minimum where the access aisle is 96 inches (2440 mm) wide minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 502.2 Vehicle Parking Spaces.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20502.2%20Vehicle%20Parking%20Spaces.PNG)
 
 ### **Figure 502.2 Vehicle Parking Spaces**
 
@@ -34,7 +34,7 @@ Access aisles serving parking spaces shall comply with 502.3. Access aisles shal
 
 Accessible routes must connect parking spaces to accessible entrances. In parking facilities where the accessible route must cross vehicular traffic lanes, marked crossings enhance pedestrian safety, particularly for people using wheelchairs and other mobility aids. Where possible, it is preferable that the accessible route not pass behind parked vehicles.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 502.3 Parking Space Access Aisle.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20502.3%20Parking%20Space%20Access%20Aisle.PNG)
 
 ### **Figure 502.3 Parking Space Access Aisle**
 
@@ -124,7 +124,7 @@ Passenger loading zones shall provide access aisles complying with 503 adjacent 
 >
 > Access aisles shall be marked so as to discourage parking in them.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 503.3 Passenger Loading Zone Access Aisle.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20503.3%20Passenger%20Loading%20Zone%20Access%20Aisle.PNG)
 
 ### **Figure 503.3 Passenger Loading Zone Access Aisle**
 
@@ -166,7 +166,7 @@ Consider providing visual contrast on tread nosings, or at the leading edges of 
 
 The radius of curvature at the leading edge of the tread shall be 1/2 inch (13 mm) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 1 1/2 inches (38 mm) maximum over the tread below.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 504.5 Stair Nosings.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20504.5%20Stair%20Nosings.PNG)
 
 ## **Figure 504.5 Stair Nosings**
 
@@ -208,7 +208,7 @@ Top of gripping surfaces of handrails shall be 34 inches (865 mm) minimum and 38
 
 The requirements for stair and ramp handrails in this document are for adults. When children are the principal users in a building or facility (e.g., elementary schools), a second set of handrails at an appropriate height can assist them and aid in preventing accidents. A maximum height of 28 inches (710 mm) measured to the top of the gripping surface from the ramp surface or stair nosing is recommended for handrails designed for children. Sufficient vertical clearance between upper and lower handrails, 9 inches (230 mm) minimum, should be provided to help prevent entrapment.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.4 Handrail Height.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.4%20Handrail%20Height.PNG)
 
 ### Figure 505.4 Handrail Height
 
@@ -216,7 +216,7 @@ The requirements for stair and ramp handrails in this document are for adults. W
 
 Clearance between handrail gripping surfaces and adjacent surfaces shall be 1 1/2 inches (38 mm) minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.5 Handrail Clearance.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.5%20Handrail%20Clearance.PNG)
 
 ### **Figure 505.5 Handrail Clearance**
 
@@ -252,7 +252,7 @@ Handrail gripping surfaces shall have a cross section complying with 505.7.1 or 
 >
 > Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 4 inches (100 mm) minimum and 6 1/4 inches (160 mm) maximum, and a cross-section dimension of 2 1/4 inches (57 mm) maximum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.7.2 Handrail Non-Circular Cross Section.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.7.2%20Handrail%20Non-Circular%20Cross%20Section.PNG)
 
 #### **Figure 505.7.2 Handrail Non-Circular Cross Section**
 
@@ -280,7 +280,7 @@ Handrail gripping surfaces shall extend beyond and in the same direction of stai
 >
 > Ramp handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beyond the top and bottom of ramp runs. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent ramp run.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.10.1 Top and Bottom Handrail Extension at Ramps.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.10.1%20Top%20and%20Bottom%20Handrail%20Extension%20at%20Ramps.PNG)
 
 #### **Figure 505.10.1 Top and Bottom Handrail Extension at Ramps**
 
@@ -288,7 +288,7 @@ Handrail gripping surfaces shall extend beyond and in the same direction of stai
 >
 > At the top of a stair flight, handrails shall extend horizontally above the landing for 12 inches (305 mm) minimum beginning directly above the first riser nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.10.2 Top Handrail Extension at Stairs.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.10.2%20Top%20Handrail%20Extension%20at%20Stairs.PNG)
 
 #### **Figure 505.10.2 Top Handrail Extension at Stairs**
 
@@ -296,6 +296,6 @@ Handrail gripping surfaces shall extend beyond and in the same direction of stai
 >
 > At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance at least equal to one tread depth beyond the last riser nosing. Extension shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 5 - General Site and Building Elements/Figure 505.10.3 Bottom Handrail Extension at Stairs.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%205%20-%20General%20Site%20and%20Building%20Elements/Figure%20505.10.3%20Bottom%20Handrail%20Extension%20at%20Stairs.PNG)
 
 #### **Figure 505.10.3 Bottom Handrail Extension at Stairs**
