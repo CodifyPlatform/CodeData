@@ -34,7 +34,7 @@ Carpet or carpet tile shall be securely attached and shall have a firm cushion, 
 
 Carpets and permanently affixed mats can significantly increase the amount of force (roll resistance) needed to propel a wheelchair over a surface. The firmer the carpeting and backing, the lower the roll resistance. A pile thickness up to 1/2 inch (13 mm) (measured to the backing, cushion, or pad) is allowed, although a lower pile provides easier wheelchair maneuvering. If a backing, cushion or pad is used, it must be firm. Preferably, carpet pad should not be used because the soft padding increases roll resistance.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 302.2 Carpet Pile Height.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20302.2%20Carpet%20Pile%20Height.PNG)
 
 ### **Figure 302.2 Carpet Pile Height**
 
@@ -42,7 +42,7 @@ Carpets and permanently affixed mats can significantly increase the amount of fo
 
 Openings in floor or ground surfaces shall not allow passage of a sphere more than 1/2 inch (13 mm) diameter except as allowed in 407.4.3, 409.4.3, 410.4, 810.5.3 and 810.10. Elongated openings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 302.3 Elongated Openings in Floor or Ground Surfaces.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20302.3%20Elongated%20Openings%20in%20Floor%20or%20Ground%20Surfaces.PNG)
 
 ### **Figure 302.3 Elongated Openings in Floor or Ground Surfaces**
 
@@ -64,7 +64,7 @@ Where changes in level are permitted in floor or ground surfaces, they shall com
 
 Changes in level of 1/4 inch (6.4 mm) high maximum shall be permitted to be vertical.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 303.2 Vertical Change in Level.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20303.2%20Vertical%20Change%20in%20Level.PNG)
 
 ### **Figure 303.2 Vertical Change in Level**
 
@@ -76,7 +76,7 @@ Changes in level between 1/4 inch (6.4 mm) high minimum and 1/2 inch (13 mm) hig
 
 A change in level of 1/2 inch (13 mm) is permitted to be 1/4 inch (6.4 mm) vertical plus 1/4 inch (6.4 mm) beveled. However, in no case may the combined change in level exceed 1/2 inch (13 mm). Changes in level exceeding 1/2 inch (13 mm) must comply with 405 (Ramps) or 406 (Curb Ramps).
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 303.3 Beveled Change in Level.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20303.3%20Beveled%20Change%20in%20Level.PNG)
 
 ### **Figure 303.3 Beveled Change in Level**
 
@@ -112,7 +112,7 @@ Turning space shall comply with 304.3.1 or 304.3.2.
 >
 > The turning space shall be a T-shaped space within a 60 inch (1525 mm) square minimum with arms and base 36 inches (915 mm) wide minimum. Each arm of the T shall be clear of obstructions 12 inches (305 mm) minimum in each direction and the base shall be clear of obstructions 24 inches (610 mm) minimum. The space shall be permitted to include knee and toe clearance complying with 306 only at the end of either the base or one arm.
 >
-> ![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 304.3.2 T-Shaped Turning Space.PNG)
+> ![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20304.3.2%20T-Shaped%20Turning%20Space.PNG)
 
 #### **Figure 304.3.2 T-Shaped Turning Space**
 
@@ -136,7 +136,7 @@ Floor or ground surfaces of a clear floor or ground space shall comply with 302.
 
 The clear floor or ground space shall be 30 inches (760 mm) minimum by 48 inches (1220 mm) minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 305.3 Clear Floor or Ground Space.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20304.3.2%20T-Shaped%20Turning%20Space.PNGG)
 
 ### **Figure 305.3 Clear Floor or Ground Space**
 
@@ -148,7 +148,7 @@ Unless otherwise specified, clear floor or ground space shall be permitted to in
 
 Unless otherwise specified, clear floor or ground space shall be positioned for either forward or parallel approach to an element.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 305.5 Position of Clear Floor or Ground Space.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20304.3.2%20T-Shaped%20Turning%20Space.PNG)
 
 ### **Figure 305.5 Position of Clear Floor or Ground Space**
 
@@ -164,7 +164,7 @@ Where a clear floor or ground space is located in an alcove or otherwise confine
 >
 > Alcoves shall be 36 inches (915 mm)wide minimum where the depth exceeds 24 inches (610 mm).
 >
-> ![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 305.7.1 Maneuvering Clearance in an Alcove, Forward Approach.PNG)
+> ![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20305.7.1%20Maneuvering%20Clearance%20in%20an%20Alcove,%20Forward%20Approach.PNG)
 
 #### **Figure 305.7.1 Maneuvering Clearance in an Alcove, Forward Approach**
 
@@ -172,7 +172,7 @@ Where a clear floor or ground space is located in an alcove or otherwise confine
 >
 > Alcoves shall be 60 inches (1525 mm) wide minimum where the depth exceeds 15 inches (380 mm).
 >
-> ![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 305.7.2 Maneuvering Clearance in an Alcove, Parallel Approach.PNG)
+> ![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20305.7.2%20Maneuvering%20Clearance%20in%20an%20Alcove,%20Parallel%20Approach.PNG)
 
 #### **Figure 305.7.2 Maneuvering Clearance in an Alcove, Parallel Approach**
 
@@ -208,7 +208,7 @@ Clearances are measured in relation to the usable clear floor space, not necessa
 >
 > Toe clearance shall be 30 inches (760 mm) wide minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 306.2 Toe Clearance.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20306.2%20Toe%20Clearance.PNG)
 
 ### **Figure 306.2 Toe Clearance**
 
@@ -234,7 +234,7 @@ Clearances are measured in relation to the usable clear floor space, not necessa
 >
 > Knee clearance shall be 30 inches (760 mm) wide minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 306.3 Knee Clearance.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20306.3%20Knee%20Clearance.PNG)
 
 ### **Figure 306.3 Knee Clearance**
 
@@ -254,7 +254,7 @@ Objects with leading edges more than 27 inches (685 mm) and not more than 80 inc
 
 When a cane is used and the element is in the detectable range, it gives a person sufficient time to detect the element with the cane before there is body contact. Elements located on circulation paths, including operable elements, must comply with requirements for protruding objects. For example, awnings and their supporting structures cannot reduce the minimum required vertical clearance. Similarly, casement windows, when open, cannot encroach more than 4 inches (100 mm) into circulation paths above 27 inches (685 mm).
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 307.2 Limits of Protruding Objects.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20307.2%20Limits%20of%20Protruding%20Objects.PNG)
 
 ### **Figure 307.2 Limits of Protruding Objects**
 
@@ -264,7 +264,7 @@ Free-standing objects mounted on posts or pylons shall overhang circulation path
 
 **EXCEPTION:** The sloping portions of handrails serving stairs and ramps shall not be required to comply with 307.3.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 307.3 Post-Mounted Protruding Objects.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20307.3%20Post-Mounted%20Protruding%20Objects.PNG)
 
 ### **Figure 307.3 Post-Mounted Protruding Objects**
 
@@ -274,7 +274,7 @@ Vertical clearance shall be 80 inches (2030 mm) high minimum. Guardrails or othe
 
 **EXCEPTION:** Door closers and door stops shall be permitted to be 78 inches (1980 mm) minimum above the finish floor or ground.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 307.4 Vertical Clearance.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20307.4%20Vertical%20Clearance.PNG)
 
 ### **Figure 307.4 Vertical Clearance**
 
@@ -305,7 +305,7 @@ The following table provides guidance on reach ranges for children according to 
 >
 > Where a forward reach is unobstructed, the high forward reach shall be 48 inches (1220 mm) maximum and the low forward reach shall be 15 inches (380 mm) minimum above the finish floor or ground.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 308.2.1 Unobstructed Forward Reach.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20308.2.1%20Unobstructed%20Forward%20Reach.PNG)
 
 #### **Figure 308.2.1 Unobstructed Forward Reach**
 
@@ -313,7 +313,7 @@ The following table provides guidance on reach ranges for children according to 
 >
 > Where a high forward reach is over an obstruction, the clear floor space shall extend beneath the element for a distance not less than the required reach depth over the obstruction. The high forward reach shall be 48 inches (1220 mm) maximum where the reach depth is 20 inches (510 mm) maximum. Where the reach depth exceeds 20 inches (510 mm), the high forward reach shall be 44 inches (1120 mm) maximum and the reach depth shall be 25 inches (635 mm) maximum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 308.2.2 Obstructed High Forward Reach.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20308.2.2%20Obstructed%20High%20Forward%20Reach.PNG)
 
 #### **Figure 308.2.2 Obstructed High Forward Reach**
 
@@ -329,7 +329,7 @@ The following table provides guidance on reach ranges for children according to 
 >
 > **2.** Operable parts of fuel dispensers shall be permitted to be 54 inches (1370 mm) maximum measured from the surface of the vehicular way where fuel dispensers are installed on existing curbs.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 308.3.1 Unobstructed Side Reach.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20308.3.1%20Unobstructed%20Side%20Reach.PNG)
 
 #### **Figure 308.3.1 Unobstructed Side Reach**
 
@@ -343,7 +343,7 @@ The following table provides guidance on reach ranges for children according to 
 >
 > **2.** Operable parts of fuel dispensers shall be permitted to be 54 inches (1370 mm) maximum measured from the surface of the vehicular way where fuel dispensers are installed on existing curbs.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010 ADA - Chapter 3 - Building Blocks/Figure 308.3.2 Obstructed High Side Reach.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20308.3.2%20Obstructed%20High%20Side%20Reach.PNG)
 
 #### **Figure 308.3.2 Obstructed High Side Reach**
 
