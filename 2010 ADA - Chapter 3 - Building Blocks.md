@@ -136,7 +136,7 @@ Floor or ground surfaces of a clear floor or ground space shall comply with 302.
 
 The clear floor or ground space shall be 30 inches (760 mm) minimum by 48 inches (1220 mm) minimum.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20304.3.2%20T-Shaped%20Turning%20Space.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20305.3%20Clear%20Floor%20or%20Ground%20Space.PNG)
 
 ### **Figure 305.3 Clear Floor or Ground Space**
 
@@ -148,7 +148,7 @@ Unless otherwise specified, clear floor or ground space shall be permitted to in
 
 Unless otherwise specified, clear floor or ground space shall be positioned for either forward or parallel approach to an element.
 
-![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20304.3.2%20T-Shaped%20Turning%20Space.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/2010%20ADA%20-%20Chapter%203%20-%20Building%20Blocks/Figure%20305.5%20Position%20of%20Clear%20Floor%20or%20Ground%20Space.PNG)
 
 ### **Figure 305.5 Position of Clear Floor or Ground Space**
 
