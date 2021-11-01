@@ -168,13 +168,13 @@ The quantitative analysis relies upon prototype buildings reflecting a mix of ty
 
 Site and source EUIs, energy cost indices (ECIs), carbon emissions, and SC-CO2, which vary by building type, are shown in Table ES.1 and Table ES.2 for Standard 90.1-2016 and Standard 90.1-2019, respectively. Percentage savings aggregated at the national level are shown in Figure ES.1 and Table ES.3, and analogous tables aggregated by climate zone are included in Section 4.2.
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 01 - Percentage Savings by Building Type.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2001%20-%20Percentage%20Savings%20by%20Building%20Type.PNG)
 
-![Image 02 - Table ES.1. Estimated Energy Use Intensity by Building Type](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 02 - Table ES.1. Estimated Energy Use Intensity by Building Type.PNG)
+![Image 02 - Table ES.1. Estimated Energy Use Intensity by Building Type](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2002%20-%20Table%20ES.1.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type.PNG)
 
-![Image 03 - Table ES.2. Estimated Energy Use Intensity by Building Type](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 03 - Table ES.2. Estimated Energy Use Intensity by Building Type.PNG)
+![Image 03 - Table ES.2. Estimated Energy Use Intensity by Building Type](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2003%20-%20Table%20ES.2.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type.PNG)
 
-![Image 04 - Table ES.3. Estimated Energy Use Intensity by Building Type](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 04 - Table ES.3. Estimated Energy Use Intensity by Building Type.PNG)
+![Image 04 - Table ES.3. Estimated Energy Use Intensity by Building Type](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2004%20-%20Table%20ES.3.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type.PNG)
 
 ### Executive Summary Footnotes
 
@@ -295,7 +295,7 @@ In addition to the prescriptive path, Standard 90.1 includes two optional whole 
 
 ASHRAE publishes changes to Standard 90.1 as individual addenda to the preceding Standard and then bundles them together to form the next published edition. In creating the 2019 edition, ASHRAE published 88 addenda in total (listed in Appendix I of Standard 90.1-2019). Table 2.1 shows the number of addenda included in Standard 90.1-2019 grouped into the primary sections of the Standard they impact. When an addendum impacts multiple sections, it is counted only once in this table towards the section that receives the most substantial impacts.
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 05 - Table 2.1. Number of Addenda affecting Various Sections in Standard 90.1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2005%20-%20Table%202.1.%20Number%20of%20Addenda%20affecting%20Various%20Sections%20in%20Standard%2090.1-2019.PNG)
 
 More broadly, DOE characterized the individual addenda into three categories to help guide the analysis: 
 
@@ -361,7 +361,7 @@ Table 3.1 lists the broad building category, the prototype building, floor area 
 
 The 16 prototype buildings are representative of the characteristics of new construction in the United States. It is not feasible to simulate all building types and possible permutations of building design. Further, data are simply not available to correctly weight each possible permutation in each U.S. climate zone as a fraction of the national building construction mix. Hence, the quantitative analysis focuses on the use of prototype buildings that reflect a representative mix of typical construction practices. Together with the construction weighting factors (described in Section 3.3.3), the 16 prototypes represent approximately 75% of the total square footage of new commercial construction, including multi-family buildings more than three stories tall, consistent with the scope of Standard 90.1 (Lei et al. 2020).
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 06 - Table 3.1. Commercial Prototype Building Models.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2006%20-%20Table%203.1.%20Commercial%20Prototype%20Building%20Models.PNG)
 
 #### 3.3.2 Climate Zones 
 
@@ -401,7 +401,7 @@ For this analysis, a specific climate location (city) was selected as a represen
 
 • 8: Fairbanks, Alaska (subarctic/arctic) 
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 07 - Figure 1. United States Climate Zone Map.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2007%20-%20Figure%201.%20United%20States%20Climate%20Zone%20Map.PNG)
 
 ##### Figure 1. United States Climate Zone Map
 
@@ -417,7 +417,7 @@ Standard 90.1 contains requirements for specific types of equipment that are reg
 
 ### Table 3.2. Relative Construction Volume Weights for 16 Prototype Buildings by Climate Zone (percent) 
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 08 - Table 3.2 Relative Construction Volume Weights for 16 Prototype Buildings by Climate Zone (percent).PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2008%20-%20Table%203.2%20Relative%20Construction%20Volume%20Weights%20for%2016%20Prototype%20Buildings%20by%20Climate%20Zone%20(percent).PNG)
 
 ### 3.4 Comments on Methodology
 
@@ -441,7 +441,7 @@ In any high-level analysis there is a need to balance precision, accuracy and pr
 
 The qualitative analysis concluded that 29 of the 88 addenda had a direct impact on energy use as defined in Section 3.2 — all 29 of the addenda listed decrease energy use in commercial buildings. The 59 remaining changes were determined to have no direct impact on energy use. A graphical summary of the qualitative analysis results is shown in Figure 2. 
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 09 - Figure 2. Categorization of Addenda.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2009%20-%20Figure%202.%20Categorization%20of%20Addenda.PNG)
 
 ##### Figure 2. Categorization of Addenda
 
@@ -470,7 +470,7 @@ Addenda characterized as having no direct impact on energy savings are detailed 
 
 The quantitative analysis only includes those addenda that have a direct impact on energy use as described in Section 3.2 and Section 3.3. A graphical summary of the addenda included in the quantitative analysis is shown in Figure 3. The category labeled “Unquantified Energy Impact” includes those addenda that were determined to have a direct impact on energy use but are not be included in the quantitative analysis. Appendix B: describes the implementation of addenda into the prototype models.
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 13 - Figure 3. Categorization of Quantified Addenda.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2013%20-%20Figure%203.%20Categorization%20of%20Quantified%20Addenda.PNG)
 
 ##### Figure 3. Categorization of Quantified Addenda
 
@@ -512,7 +512,7 @@ Carbon emissions in the quantitative analysis are based on the source energy con
 
 ### Table 4.2. Carbon Emission Factors by Fuel Type
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 14 - Table 4.2. Carbon Emission Factors by Fuel Type.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2014%20-%20Table%204.2.%20Carbon%20Emission%20Factors%20by%20Fuel%20Type.PNG)
 
 On January 20, 2021, President Biden issued Executive Order (E.O.) 13990^4, which noted that it is essential that agencies capture the full costs of greenhouse gas emissions as accurately as possible, including by taking global damages into account and that doing so facilitates sound decision-making, recognizes the breadth of climate impacts, and supports the international leadership of the United States on climate issues. To that end, DOE is including estimates of the absolute cost and relative costs savings of greenhouse gas emissions associated with the building energy use examined in this analysis.
 
@@ -526,19 +526,19 @@ Of interest is the large site energy savings found in the Hospital prototype com
 
 ### Table 4.3. Estimated Energy Use Intensity by Building Type – Standard 90.1-2016
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 15 - Table 4.3. Estimated Energy Use Intensity by Building Type - Standard 90.1-2016.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2015%20-%20Table%204.3.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type%20-%20Standard%2090.1-2016.PNG)
 
 ### Table 4.4. Estimated Energy Use Intensity by Building Type – Standard 90.1-2019
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 16 - Table 4.4. Estimated Energy Use Intensity by Building Type - Standard 90.1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2016%20-%20Table%204.4.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type%20-%20Standard%2090.1-2019.PNG)
 
 ### Table 4.5. Estimated Energy Use Intensity by Climate Zone – Standard 90.1-2016
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 17 - Table 4.5. Estimated Energy Use Intensity by Climate Zone - Standard 90.1-2016.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2017%20-%20Table%204.5.%20Estimated%20Energy%20Use%20Intensity%20by%20Climate%20Zone%20-%20Standard%2090.1-2016.PNG)
 
 ### Table 4.6. Estimated Energy Use Intensity by Climate Zone – Standard 90.1-2019 
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 18 - Table 4.6. Estimated Energy Use Intensity by Climate Zone - Standard 90.1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2018%20-%20Table%204.6.%20Estimated%20Energy%20Use%20Intensity%20by%20Climate%20Zone%20-%20Standard%2090.1-2019.PNG)
 
 ### Table 4.7. Estimated Percent Energy Savings between 2016 and 2019 Editions of Standard 90.1 – by Building Type
 
@@ -548,7 +548,7 @@ Of interest is the large site energy savings found in the Hospital prototype com
 
 ​																										Percentage Savings by Building Type
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 20 - Figure 4. Percentage Savings by Building Type from 90.1-2016 to 90-1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2020%20-%20Figure%204.%20Percentage%20Savings%20by%20Building%20Type%20from%2090.1-2016%20to%2090-1-2019.PNG)
 
 ##### Figure 4. Percentage Savings by Building Type from 90.1-2016 to 90.1-2019 
 
@@ -560,7 +560,7 @@ Of interest is the large site energy savings found in the Hospital prototype com
 
 ​																			Percentage Savings by Climate Zone
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 22 - Figure 5. Percentage Savings by Climate Zone from 90.1-2016 to 90.1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2022%20-%20Figure%205.%20Percentage%20Savings%20by%20Climate%20Zone%20from%2090.1-2016%20to%2090.1-2019.PNG)
 
 ##### Figure 5. Percentage Savings by Climate Zone from 90.1-2016 to 90.1-2019
 
@@ -614,15 +614,19 @@ Thornton B.A., M.I. Rosenberg, E.E. Richman, W. Wang, Y. Xie, J. Zhang, H. Cho, 
 
 # Appendix A: Addenda Not Quantified in Energy Savings Analysis
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 23 - Appendix A - Addenda Not Quantified in Energy Savings Analysis - 01.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2023%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2001.PNG)
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 24 - Appendix A - Addenda Not Quantified in Energy Savings Analysis - 02.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2024%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2002.PNG)
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 25 - Appendix A - Addenda Not Quantified in Energy Savings Analysis - 03.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2025%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2003.PNG)
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 28 - Appendix A - Addenda Not Quantified in Energy Savings Analysis - 06.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2026%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2004.PNG)
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 29 - Appendix A - Addenda Not Quantified in Energy Savings Analysis - 07.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2027%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2005.PNG)
+
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2028%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2006.PNG)
+
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2029%20-%20Appendix%20A%20-%20Addenda%20Not%20Quantified%20in%20Energy%20Savings%20Analysis%20-%2007.PNG)
 
 # Appendix B: Modeling of Individual Addenda
 
@@ -638,7 +642,7 @@ This appendix details the modeling of the 17 addenda to Standard 90.1-2016 simul
 
 ### Table B.1. Weighting Factors of Different Windows Categorized in 90.1-2016 and 90.1-2019
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 30 - Table B.1. Weighting Factors of Different Windows Categorized in 90.1-2016.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2030%20-%20Table%20B.1.%20Weighting%20Factors%20of%20Different%20Windows%20Categorized%20in%2090.1-2016.PNG)
 
 ### B.2 Heating, Refrigerating, and Air-Conditioning Addenda 
 
@@ -678,7 +682,7 @@ EnergyPlus requires inputs in terms of heat recovery effectiveness. In order to 
 
 ### Table B.2. The Modeled ERVs in the Mid-Rise and High-Rise Apartments for 90.1-2016 and 90.1- 2019
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 31 - Table B.2. The Modeled ERVs in the Mid-Rise and High-Rise Apartments for 90.1-2016 and 90.1-2019.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2031%20-%20Table%20B.2.%20The%20Modeled%20ERVs%20in%20the%20Mid-Rise%20and%20High-Rise%20Apartments%20for%2090.1-2016%20and%2090.1-2019.PNG)
 
 ### Table B.3 Heat Recovery Effectiveness for Standard 90.1-2016 and 90.1-2019 Based on Required Design EER for Mid-Rise and High-Rise Apartment Prototypes
 
