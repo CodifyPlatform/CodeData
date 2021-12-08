@@ -50,7 +50,7 @@ Sheet lead for pans shall not weigh less than 4 pounds per square foot (19.5 kg/
 
 ## **Section 403 Minimum Plumbing Facilities**
 
-### ***403.1 Minimum Number of Fixturesnjnjnjnj**
+### *403.1 Minimum Number of Fixtures
 
 Plumbing fixtures shall be provided for the type of occupancy and in the minimum number shown in Table 403.1. Types of occupancies not shown in Table 403.1 shall be considered individually by the commissioner. The number of occupants shall be determined by the *New York City Building Code.* Occupancy classification shall be determined in accordance with the *New York City Building Code.*
 
