@@ -38,7 +38,7 @@ Accessible routes must connect parking spaces to accessible entrances. In parkin
 
 ### **Figure 502.3 Parking Space Access Aisle**
 
-> #### **502.3.1 Width.** 
+> ### **502.3.1 Width.** 
 >
 > Access aisles serving car and van parking spaces shall be 60 inches (1525 mm) wide minimum.
 >
