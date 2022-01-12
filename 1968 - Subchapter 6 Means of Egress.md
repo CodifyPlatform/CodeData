@@ -70,7 +70,7 @@ m Where a door opening is divided by mullions into two or more doors openings, e
 
 ****\*There is no note l.***
 
-#### [TABLE 6-2]OCCUPANT LOAD REQUIREMENTS NET AREA TABLE
+#### TABLE 6-2 OCCUPANT LOAD REQUIREMENTS NET AREA TABLE
 
 | Occupancy                                                    | Net Floor Area per Occupant (sq. ft.) |
 | ------------------------------------------------------------ | ------------------------------------- |
