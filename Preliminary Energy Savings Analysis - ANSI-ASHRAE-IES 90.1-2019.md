@@ -261,7 +261,7 @@ Table 4.2. Carbon Emission Factors by Fuel Type
 
 Table 4.3. Estimated Energy Use Intensity by Building Type – Standard 90.1-2016
 
-Table 4.4. Estimated Energy Use Intensity by Building Type - Standard 90.1-2019
+Table 4.4. Estimated Energy Use Intensity by Building Type – Standard 90.1-2019
 
 Table 4.5. Estimated Energy Use Intensity by Climate Zone – Standard 90.1-2016
 
