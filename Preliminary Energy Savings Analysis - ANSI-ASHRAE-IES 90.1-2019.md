@@ -528,7 +528,7 @@ Of interest is the large site energy savings found in the Hospital prototype com
 
 ![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2015%20-%20Table%204.3.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type%20-%20Standard%2090.1-2016.PNG)
 
-### Table 4.4. Estimated Energy Use Intensity by Building Type – Standard 90.1-2019
+### Table 4.4. Estimated Energy Use Intensity by Building Type - Standard 90.1-2019
 
 ![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2016%20-%20Table%204.4.%20Estimated%20Energy%20Use%20Intensity%20by%20Building%20Type%20-%20Standard%2090.1-2019.PNG)
 
