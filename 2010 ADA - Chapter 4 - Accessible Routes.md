@@ -46,7 +46,7 @@ Walking surfaces shall provide clearances complying with 403.5.
 
 **EXCEPTION:** Within employee work areas, clearances on common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
 
-> ### **403.5.1 Clear Width.** 
+> #### **403.5.1 Clear Width.** 
 >
 > Except as provided in 403.5.2 and 403.5.3, the clear width of walking surfaces shall be 36 inches (915 mm) minimum.
 >
