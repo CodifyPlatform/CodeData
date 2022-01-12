@@ -46,7 +46,7 @@ Walking surfaces shall provide clearances complying with 403.5.
 
 **EXCEPTION:** Within employee work areas, clearances on common use circulation paths shall be permitted to be decreased by work area equipment provided that the decrease is essential to the function of the work being performed.
 
-> #### **403.5.1 Clear Width.** 
+> ### **403.5.1 Clear Width.** 
 >
 > Except as provided in 403.5.2 and 403.5.3, the clear width of walking surfaces shall be 36 inches (915 mm) minimum.
 >
@@ -56,7 +56,7 @@ Walking surfaces shall provide clearances complying with 403.5.
 
 #### **Figure 403.5.1 Clear Width of an Accessible Route**
 
-### **403.5.2 Clear Width at Turn.** 
+#### **403.5.2 Clear Width at Turn.** 
 
 Where the accessible route makes a 180 degree turn around an element which is less than 48 inches (1220 mm) wide, clear width shall be 42 inches (1065 mm) minimum approaching the turn, 48 inches (1220 mm) minimum at the turn and 42 inches (1065 mm) minimum leaving the turn.
 
