@@ -458,11 +458,11 @@ Addenda characterized as having no direct impact on energy savings are detailed 
 
 ### Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019
 
-![](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 10 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 1.PNG)
+![](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2010%20-%20Table%204.1.%20Addenda%20Determined%20to%20Directly%20Save%20Energy%20by%20the%20Qualitative%20Analysis%20of%20Standard%2090.1-2019%20-%201.png)
 
-![Image 11 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 2](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 11 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 2.PNG)
+![Image 11 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 2](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2011%20-%20Table%204.1.%20Addenda%20Determined%20to%20Directly%20Save%20Energy%20by%20the%20Qualitative%20Analysis%20of%20Standard%2090.1-2019%20-%202.png)
 
-![Image 12 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 3](C:\Users\cscafa\Documents\Typora\Code Chapters\Images\Preliminary Energy Savings Analysis - ANSI-ASHRAE-IES 90.1-2019\Image 12 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 3.PNG)
+![Image 12 - Table 4.1. Addenda Determined to Directly Save Energy by the Qualitative Analysis of Standard 90.1-2019 - 3](https://storage.googleapis.com/codify-public-data/images/ASHRAE/Preliminary%20Energy%20Savings%20Analysis%20-%20ANSI-ASHRAE-IES%2090.1-2019/Image%2012%20-%20Table%204.1.%20Addenda%20Determined%20to%20Directly%20Save%20Energy%20by%20the%20Qualitative%20Analysis%20of%20Standard%2090.1-2019%20-%203.png)
 
 
 
