@@ -56,7 +56,7 @@ Plumbing fixtures shall be provided for the type of occupancy and in the minimum
 
 
 
-| **NO.** | **CLASSIFICATION**     | **OCCUPANCY(i)** | **DESCRIPTION**                                              | WATER CLOSETS URINALS (SEE [SECTION 419.2](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4192-substitution-for-water-closets))** | **WATER CLOSETS URINALS (SEE [SECTION 419.2](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4192-substitution-for-water-closets))** | **LAVATORIES**                  | **LAVATORIES**                           | **BATHTUBS/ SHOWERS**                                        | **DRINKING FOUNTAIN (SEE SECTION [410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4101-approval))(e),(f)** | **OTHER**                                                    |
+| **NO.** | **CLASSIFICATION**     | **OCCUPANCY(i)** | **DESCRIPTION**                                              | WATER CLOSETS URINALS (SEE [SECTION 419.2](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4192-substitution-for-water-closets))** | **WATER CLOSETS URINALS (SEE [SECTION 419.2](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4192-substitution-for-water-closets))** | **LAVATORIES**                  | **LAVATORIES**                           | **BATHTUBS/ SHOWERS**                                        | **DRINKING FOUNTAIN (SEE SECTION [410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4101-approval))(e),(f)** | **OTHER**                                                    |
 | ------- | ---------------------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |         |                        |                  |                                                              | **MALE**                                                     | **FEMALE**                                                   | **MALE**                        | **FEMALE**                               |                                                              |                                                              |                                                              |
 | 1       | Assembly               | A-1(d)           | Theaters and other buildings for the performing arts and motion pictures | 1 per 70 for the first 210 and 1 per 125 for the remainder exceeding 210 | 1 per 35 for the first 210 and 1 per 65 for the remainder exceeding 210 | 1 per 200                       | 1 per 200                                | —                                                            | 1 per 500                                                    | 1 service sink                                               |
@@ -91,7 +91,7 @@ Plumbing fixtures shall be provided for the type of occupancy and in the minimum
 | 7       | Residential            | R-2(m)           | Apartment house                                              | 1 per dwelling unit                                          | 1 per dwelling unit                                          | 1 per dwelling unit             | 1 per dwelling unit                      | 1 per dwelling unit                                          | —                                                            | 1 kitchen sink per dwelling unit; 1 automatic clothes washer connection per 20 dwelling units |
 | 7       | Residential            | R-3              | One- and two-family dwellings                                | 1 per dwelling unit                                          | 1 per dwelling unit                                          | 1 per dwelling unit             | 1 per dwelling unit                      | 1 per dwelling unit                                          | —                                                            | 1 kitchen sink per dwelling unit; 1 automatic clothes washer connection per dwelling unit |
 | 7       | Residential            | R-3(m)           | Congregate living facilities with 16 or fewer persons        | 1 per 10                                                     | 1 per 10                                                     | 1 per 10                        | 1 per 10                                 | 1 per 8                                                      | 1 per 100                                                    | 1 service sink                                               |
-| 8       | Storage                | S-1 and S-2      | Structures for the storage of goods, warehouses, storehouse and freight depots. Low and moderate hazard | 1 per 100                                                    | 1 per 100                                                    | 1 per 100                       | 1 per 100                                | See [Section 411](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#section-411-emergency-showers-and-eyewash-stations) | 1 per 1,000                                                  | 1 service sink                                               |
+| 8       | Storage                | S-1 and S-2      | Structures for the storage of goods, warehouses, storehouse and freight depots. Low and moderate hazard | 1 per 100                                                    | 1 per 100                                                    | 1 per 100                       | 1 per 100                                | See [Section 411](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#section-411-emergency-showers-and-eyewash-stations) | 1 per 1,000                                                  | 1 service sink                                               |
 
 a. The fixtures shown are based on one fixture being the minimum required for the number of persons indicated. Any fraction of the number of persons requires an additional fixture. The number of occupants shall be determined by the *New York City Building Code*.
 
@@ -101,7 +101,7 @@ c. A single-occupant toilet room with one water closet and one lavatory serving 
 
 d. The occupant load for seasonal outdoor seating and entertainment areas shall be included when determining the minimum number of facilities required.
 
-e. The minimum number of required drinking fountains shall comply with [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) and Chapter 11 of the *New York City Building Code*.
+e. The minimum number of required drinking fountains shall comply with [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) and Chapter 11 of the *New York City Building Code*.
 
 f. Drinking fountains are not required for an occupant load of 15 or fewer.
 
@@ -111,19 +111,19 @@ h. The total number of occupants for a single establishment comprising of a rest
 
 i. As per the *New York City Building Code*.
 
-j. The requirements for the number of water closets for a total occupancy of 150 persons or fewer shall not apply to bars except that, subject to the requirements of [Section 403.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#40321-single-occupant-toilet-rooms), there shall be at least one water closet for men and at least one water closet for women or at least two single-occupant toilet rooms.
+j. The requirements for the number of water closets for a total occupancy of 150 persons or fewer shall not apply to bars except that, subject to the requirements of [Section 403.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#40321-single-occupant-toilet-rooms), there shall be at least one water closet for men and at least one water closet for women or at least two single-occupant toilet rooms.
 
 k. The number of fixtures for building or nonaccessory tenant space used for assembly purposes by fewer than 75 persons and classified as Group B occupancy in accordance with Section 303.1, Exception 2 of the *New York City Building Code* shall be permitted to be calculated in accordance with the requirements for Assembly occupancies.
 
-m. In addition to the requirements of [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), residential occupancies I-1, R-1, R-2, and R-3 shall provide fixtures in compliance with the requirements of Section PC 614 for emergency drinking water access.
+m. In addition to the requirements of [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), residential occupancies I-1, R-1, R-2, and R-3 shall provide fixtures in compliance with the requirements of Section PC 614 for emergency drinking water access.
 
-**[Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) was amended by:Local Law 79 of 2016. This law has an effective date of October 26, 2016.*
+**[Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) was amended by:Local Law 79 of 2016. This law has an effective date of October 26, 2016.*
 
 
 
 #### **403.1.1 Fixture Calculations**
 
-Where separate fixture ratios are provided to male and female individually in [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), the total occupant load shall first be divided in half before the corresponding fixture ratio is applied individually to each sex. Where a single fixture ratio is provided to the total occupant load in [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), such ratio shall be applied to the total occupant load including both male and female before dividing the resulting number of fixtures equally between male and female. Fractional numbers resulting from applying the fixture ratios of [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) shall be rounded up to the next whole number. For calculations involving multiple occupancies, such fractional numbers for each occupancy shall first be summed and then rounded up to the next whole number. Fixture calculations in Group B office occupancies shall utilize the total occupant load on a given floor to determine the number of fixtures required for that floor.
+Where separate fixture ratios are provided to male and female individually in [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), the total occupant load shall first be divided in half before the corresponding fixture ratio is applied individually to each sex. Where a single fixture ratio is provided to the total occupant load in [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures), such ratio shall be applied to the total occupant load including both male and female before dividing the resulting number of fixtures equally between male and female. Fractional numbers resulting from applying the fixture ratios of [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) shall be rounded up to the next whole number. For calculations involving multiple occupancies, such fractional numbers for each occupancy shall first be summed and then rounded up to the next whole number. Fixture calculations in Group B office occupancies shall utilize the total occupant load on a given floor to determine the number of fixtures required for that floor.
 
 Exception: The total occupant load shall not be required to be divided in half where approved statistical data indicates a distribution of the sexes of other than 50 percent of each sex.
 
@@ -137,7 +137,7 @@ Fixtures located within family or assisted-use toilet and bathing rooms required
 
 #### ***403.1.3 Single-Occupant Toilet Fixtures**
 
-Fixtures located within single-occupant toilet rooms are permitted to be included in the number of fixtures required by [Section 403](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#section-403-minimum-plumbing-facilities), or where applicable the 1968 Building Code, for either the male or the female occupants. Fixtures located within toilet rooms subject to the exception of [Section 403.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#40321-single-occupant-toilet-rooms) are permitted to be included in the number of fixtures required by [Section 403](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#section-403-minimum-plumbing-facilities), or where applicable the 1968 Building Code, only for that sex.
+Fixtures located within single-occupant toilet rooms are permitted to be included in the number of fixtures required by [Section 403](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#section-403-minimum-plumbing-facilities), or where applicable the 1968 Building Code, for either the male or the female occupants. Fixtures located within toilet rooms subject to the exception of [Section 403.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#40321-single-occupant-toilet-rooms) are permitted to be included in the number of fixtures required by [Section 403](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#section-403-minimum-plumbing-facilities), or where applicable the 1968 Building Code, only for that sex.
 
 **Section 403.1.3 was added by: Local Law 79 of 2016. This law has an effective date of October 26, 2016.*
 
@@ -150,9 +150,9 @@ Where plumbing fixtures are required, separate facilities shall be provided for 
 Exceptions:
 
 1. Separate facilities shall not be required for dwelling units and sleeping units.
-2. In structures or tenant spaces where combined employee and public toilet facilities are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of employees, customers, patrons and visitors is 30 or fewer.
-3. In structures or tenant spaces where required toilet facilities for only employee use are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of employees is 30 or fewer.
-4. In structures or tenant spaces where required toilet facilities for only public use are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of customers, patrons and visitors is 30 or fewer.
+2. In structures or tenant spaces where combined employee and public toilet facilities are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of employees, customers, patrons and visitors is 30 or fewer.
+3. In structures or tenant spaces where required toilet facilities for only employee use are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of employees is 30 or fewer.
+4. In structures or tenant spaces where required toilet facilities for only public use are provided in accordance with [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities), separate facilities shall not be required where the total number of customers, patrons and visitors is 30 or fewer.
 
 
 
@@ -179,7 +179,7 @@ Employees shall be provided with toilet facilities in all occupancies. The numbe
 
 #### **403.3.1 Access**
 
-The route to the public toilet facilities required by [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities) shall not pass through kitchens, storage rooms or closets. Access to the required facilities shall be from within the building or from the exterior of the building. All routes shall comply with the accessibility requirements of the *New York City Building Code*. Employees, customers, patrons and visitors shall have access to the required toilet facilities at all times that the building is occupied.
+The route to the public toilet facilities required by [Section 403.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4033-required-employee-and-public-toilet-facilities) shall not pass through kitchens, storage rooms or closets. Access to the required facilities shall be from within the building or from the exterior of the building. All routes shall comply with the accessibility requirements of the *New York City Building Code*. Employees, customers, patrons and visitors shall have access to the required toilet facilities at all times that the building is occupied.
 
 
 
@@ -419,13 +419,13 @@ The waste connection of a dishwashing machine shall comply with Sections 802.1.6
 
 ### **410.1 Approval**
 
-Drinking fountains shall conform to ASME A112.19.1M, ASME A112.19.2M or ASME A112.19.9M, and water coolers shall conform to ARI 1010. Drinking fountains and water coolers shall conform to NSF 61, Section 9. Drinking fountains required by [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) shall be equipped with both a bubbler faucet for drinking and a separate faucet designed for filling a container at least 10 inches (254 mm) in height.
+Drinking fountains shall conform to ASME A112.19.1M, ASME A112.19.2M or ASME A112.19.9M, and water coolers shall conform to ARI 1010. Drinking fountains and water coolers shall conform to NSF 61, Section 9. Drinking fountains required by [Table 403.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4031-minimum-number-of-fixtures) shall be equipped with both a bubbler faucet for drinking and a separate faucet designed for filling a container at least 10 inches (254 mm) in height.
 
 
 
 ### **410.2 Required Drinking Fountains**
 
-Where water is served in restaurants, drinking fountains shall not be required. In other occupancies, where drinking fountains are required, up to 50 percent of required drinking fountains conforming to [Section 410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4101-approval) may be substituted by dedicated plumbing fixtures with faucets designed for filling a container at least 10 inches (254 mm) in height, provided any such dedicated plumbing fixture is adjacent to or readily visible from the location of a drinking fountain conforming to [Section 410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4101-approval). Bottled water dispensers shall not be substituted for required drinking fountains.
+Where water is served in restaurants, drinking fountains shall not be required. In other occupancies, where drinking fountains are required, up to 50 percent of required drinking fountains conforming to [Section 410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4101-approval) may be substituted by dedicated plumbing fixtures with faucets designed for filling a container at least 10 inches (254 mm) in height, provided any such dedicated plumbing fixture is adjacent to or readily visible from the location of a drinking fountain conforming to [Section 410.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4101-approval). Bottled water dispensers shall not be substituted for required drinking fountains.
 
 
 
@@ -565,7 +565,7 @@ Exception: Where point of use heaters are installed, outlet water temperature sh
 
 ### **417.1 Approval**
 
-Prefabricated showers and shower compartments shall conform to ANSI Z124.2, ASME A112.19.9M or CSA B45.5. Shower valves for individual showers shall conform to the requirements of [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
+Prefabricated showers and shower compartments shall conform to ANSI Z124.2, ASME A112.19.9M or CSA B45.5. Shower valves for individual showers shall conform to the requirements of [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
 
 
 
@@ -595,7 +595,7 @@ The wall area above built-in tubs with installed shower heads and in shower comp
 
 #### **417.4.2 Access**
 
-The shower compartment access and egress opening shall have a minimum clear and unobstructed finished width of 22 inches (559 mm). Shower compartments required to be designed in conformance to accessibility provisions shall comply with [Section 404.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4041-where-required).
+The shower compartment access and egress opening shall have a minimum clear and unobstructed finished width of 22 inches (559 mm). Shower compartments required to be designed in conformance to accessibility provisions shall comply with [Section 404.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4041-where-required).
 
 
 
@@ -613,7 +613,7 @@ Floors or receptors under shower compartments shall be laid on, and supported by
 
 #### **417.5.2 Shower Lining**
 
-Floors under shower compartments, except where prefabricated receptors have been provided, shall be lined and made water tight utilizing material complying with Sections [417.5.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#417521-pvc-sheets) through [417.5.2.5](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#417525-sheet-applied-load-bearing-bonded-waterproof-membranes). Such liners shall turn up on all sides at least 2 inches (51 mm) above the finished threshold level. Liners shall be recessed and fastened to an approved backing so as not to occupy the space required for wall covering, and shall not be nailed or perforated at any point less than 1 inch (25 mm) above the finished threshold. Liners shall be pitched one-fourth unit vertical in 12 units horizontal (2-percent slope) and shall be sloped toward the fixture drains and be securely fastened to the waste outlet at the seepage entrance, making a water-tight joint between the liner and the outlet. The completed liner shall be tested in accordance with Section 312.9.
+Floors under shower compartments, except where prefabricated receptors have been provided, shall be lined and made water tight utilizing material complying with Sections [417.5.2.1](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#417521-pvc-sheets) through [417.5.2.5](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#417525-sheet-applied-load-bearing-bonded-waterproof-membranes). Such liners shall turn up on all sides at least 2 inches (51 mm) above the finished threshold level. Liners shall be recessed and fastened to an approved backing so as not to occupy the space required for wall covering, and shall not be nailed or perforated at any point less than 1 inch (25 mm) above the finished threshold. Liners shall be pitched one-fourth unit vertical in 12 units horizontal (2-percent slope) and shall be sloped toward the fixture drains and be securely fastened to the waste outlet at the seepage entrance, making a water-tight joint between the liner and the outlet. The completed liner shall be tested in accordance with Section 312.9.
 
 Exceptions:
 
@@ -922,7 +922,7 @@ Multiple (gang) showers supplied with a single-tempered water supply pipe shall 
 
 ### **424.5 Bathtub and Whirlpool Bathtub Valves**
 
-The hot water supplied to bathtubs and whirlpool bathtubs shall be limited to a maximum temperature of 120°F (49°C) by a water-temperature limiting device that conforms to ASSE 1016 or ASSE 1070 or CSA B125.3, except where such protection is otherwise provided by a combination tub/shower valve in accordance with [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
+The hot water supplied to bathtubs and whirlpool bathtubs shall be limited to a maximum temperature of 120°F (49°C) by a water-temperature limiting device that conforms to ASSE 1016 or ASSE 1070 or CSA B125.3, except where such protection is otherwise provided by a combination tub/shower valve in accordance with [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
 
 
 
@@ -934,7 +934,7 @@ Faucets and fixture fittings with hose-connected outlets shall conform to ASME A
 
 ### **424.7 Temperature-Actuated, Flow Reduction Valves for Individual Fixture Fittings**
 
-Temperature-actuated, flow reduction devices, where installed for individual fixture fittings, shall conform to ASSE 1062. Such valves shall not be used alone as a substitute for the balanced pressure, thermostatic or combination shower valves required in [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures%2c%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
+Temperature-actuated, flow reduction devices, where installed for individual fixture fittings, shall conform to ASSE 1062. Such valves shall not be used alone as a substitute for the balanced pressure, thermostatic or combination shower valves required in [Section 424.3](/dashboard/NYC%20Plumbing%20Code%202014/Chapter%204/Fixtures,%20Faucets%20and%20Fixture%20Fittings#4243-individual-shower-and-tub-valves).
 
 
 
